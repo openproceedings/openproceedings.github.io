@@ -1,0 +1,3800 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 7 0 R
+ /F4 8 0 R
+ /F5 18 0 R
+ /F6 19 0 R
+ /F7 33 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class PDFDictionary 
+4 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (mailto:kapil@ccs.neu.edu) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 153.7323
+ 653.9236
+ 255.2883
+ 665.9236 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class PDFDictionary 
+5 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.youtube.com/watch?v=1l_wGZz0JEE) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 153.7323
+ 593.9236
+ 526.5827
+ 605.9236 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class LinkAnnotation 
+6 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 50 0 R
+ /XYZ
+ 68.69291
+ 300.7843
+ 0 ]
+ /Rect [ 354.8628
+ 340.7236
+ 397.9653
+ 352.7236 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'F3': class PDFType1Font 
+7 0 obj
+% Font Helvetica-Oblique
+<< /BaseFont /Helvetica-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F4': class PDFType1Font 
+8 0 obj
+% Font Courier
+<< /BaseFont /Courier
+ /Encoding /WinAnsiEncoding
+ /Name /F4
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page1': class PDFPage 
+9 0 obj
+% Page dictionary
+<< /Annots [ 4 0 R
+ 5 0 R
+ 6 0 R ]
+ /Contents 80 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 79 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER4': class LinkAnnotation 
+10 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 20 0 R
+ /XYZ
+ 62.69291
+ 451.2236
+ 0 ]
+ /Rect [ 279.7188
+ 505.5236
+ 529.0607
+ 517.5236 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER5': class LinkAnnotation 
+11 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 20 0 R
+ /XYZ
+ 62.69291
+ 451.2236
+ 0 ]
+ /Rect [ 62.69291
+ 493.5236
+ 102.0409
+ 505.5236 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER6': class LinkAnnotation 
+12 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 396.0236
+ 0 ]
+ /Rect [ 226.9458
+ 481.5236
+ 433.7882
+ 493.5236 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER7': class LinkAnnotation 
+13 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 25 0 R
+ /XYZ
+ 62.69291
+ 490.0236
+ 0 ]
+ /Rect [ 440.8375
+ 481.5236
+ 532.2055
+ 493.5236 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER8': class LinkAnnotation 
+14 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 25 0 R
+ /XYZ
+ 62.69291
+ 490.0236
+ 0 ]
+ /Rect [ 62.69291
+ 469.5236
+ 242.1861
+ 481.5236 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER9': class LinkAnnotation 
+15 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 30 0 R
+ /XYZ
+ 62.69291
+ 769.2236
+ 0 ]
+ /Rect [ 386.8201
+ 469.5236
+ 531.0594
+ 481.5236 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER10': class LinkAnnotation 
+16 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 30 0 R
+ /XYZ
+ 62.69291
+ 769.2236
+ 0 ]
+ /Rect [ 62.69291
+ 457.5236
+ 94.02491
+ 469.5236 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER11': class LinkAnnotation 
+17 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 38 0 R
+ /XYZ
+ 62.69291
+ 664.8236
+ 0 ]
+ /Rect [ 334.7809
+ 457.5236
+ 514.8529
+ 469.5236 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'F5': class PDFType1Font 
+18 0 obj
+% Font Courier-Bold
+<< /BaseFont /Courier-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F5
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F6': class PDFType1Font 
+19 0 obj
+% Font Courier-Oblique
+<< /BaseFont /Courier-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F6
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page2': class PDFPage 
+20 0 obj
+% Page dictionary
+<< /Annots [ 10 0 R
+ 11 0 R
+ 12 0 R
+ 13 0 R
+ 14 0 R
+ 15 0 R
+ 16 0 R
+ 17 0 R ]
+ /Contents 81 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 79 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page3': class PDFPage 
+21 0 obj
+% Page dictionary
+<< /Contents 82 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 79 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page4': class PDFPage 
+22 0 obj
+% Page dictionary
+<< /Contents 83 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 79 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER12': class LinkAnnotation 
+23 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 50 0 R
+ /XYZ
+ 68.69291
+ 192.7843
+ 0 ]
+ /Rect [ 437.3362
+ 415.9236
+ 483.321
+ 427.9236 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER13': class LinkAnnotation 
+24 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 50 0 R
+ /XYZ
+ 68.69291
+ 168.7843
+ 0 ]
+ /Rect [ 464.2546
+ 157.9236
+ 518.5787
+ 169.9236 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page5': class PDFPage 
+25 0 obj
+% Page dictionary
+<< /Annots [ 23 0 R
+ 24 0 R ]
+ /Contents 84 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 79 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'FormXob.84ae3b102a6d04326f4119b078982837': class PDFImageXObject 
+26 0 obj
+<< /BitsPerComponent 8
+ /ColorSpace /DeviceRGB
+ /Filter [ /ASCII85Decode
+ /DCTDecode ]
+ /Height 128
+ /Length 6363
+ /Subtype /Image
+ /Type /XObject
+ /Width 128 >>
+stream
+s4IA0!"_al8O`[\!<N7E!-S>Bs4[N@!!<9(!WiE*!WiE*!s8W."p>&3"9\u7"pG2;#RUnF#RLeE$kEaR$P!ON#n7IU%M'*^&J,9X&eblh'+YWc&HCJb6NI8k!sA]/#Qt89&.8dP&.fBa&.fBa&.fBa&.fBa&.fBa&.fBa&.fBa&.fBa&.fBa&.fBa&.fBa&.fBa&.nlW!"fJ:J,k*%!?qLF&HMtG!WU(<*WQ0@!sJ]+zz!!!?+!XSr3"U>;;!WU(<;%N^.!X&Q-"q(kD"UP//!!!$$!rrH-"pY_G&g8tC3'gDc[0[Nb+u35.EMg"j(aC:^6;gcbEfu`^dhNX>OcpSjA'sd&6UZKXU9_Vos24mW!<E0%!WrH'zz!!!3.!<iN,":5%G!&kJi!<NB+!so28!rr<$!!!!"!!36*&Kq;^0bQcl'I#;0@=aQWn-9UB,Z8ZV'k2dB,I-5-g&MN`!<<05!tbMt!0oO&%`eld$N%^\8#tQSNil9Uk3*_He[q[/fq36tfs]n:jP(tsVh+qc]O!qT_C<t;1o>n`PP?'@/9oY(-V,$a=MFuC=1XHjB9,8HB`?*]\rWb%O$?*IrlGh?4Ztusq37UroVF1A!$!*]$&5=#U%IT1lDsj@YuM"ae9sD@H29<ep./K=I60Q:qD1Y88=\2T:]30N!9tE$-KfiFrrD^#&ul=dW;:[^oCQXUm#\iXqK@,ToOa0NOZK4OF6RUm:r@t9kL,t!jp>#k*RoL!4F-cZ8+oJZe9sD@H29<ep.1a:1H4s(^A3NjM8,k"pWO8M#s5*^G'NWNArl;?];YRLGk:Q>O6hujSZt'EQ[\ak]s0HeQ[\a^<C%FD+&:-'IZ2\QOr&6_:<su1N7%Te-[3!G^6%g@0iD0MP;(?^mLWE\6!5F[(0#2F5Plj1hBubq-N`ptEg8XD?e:U<>qItYK8Z>G`tL*cfI1<9-n&Yiaq1]f/Kgb;3a>(F^t*1i`h*J35e">DLa>#):c4\DnYaB%O=hTZIL/aRZV)>rprUqf_q$KW&J*0^3Vf<-0E2"s%728uEBar#r[RkY)O/'X?P8a)PfM:N.O?c:e=mur%`p.;W.7"87EV/YO,fcB5';Z*Xq;-LM@<JKYP_Ac.e>2[l9J1j,SB*hb,;3\66`?rIFNiu3hB-i.SHNcL5oUm4J#Z(UcjrQo7(G"i.u>o:?,-&I3;bM@`/nL%;(IPC%-&:$[\sWJl@9D:c4\DnYaB%O=hTZIL/aRZV)>rprUqf_q$KW&JWKf3QM."MQ^0DM+gp<:Vu#g,/%rYQnBg61#Od!)_A'6UFN6`<)SFL6+.Uq.s:"cJqP:-WCf:gITp5jFtM)qHHD\fWln7;'<8r%NFs;T7jK5aj\h=.*dtXVN[L]m`I>J^-K7D0B&f90>dV)oY0@i<DJ>fS0/!dZjQ6Y64T%"!S=c1l\Gc_9nf-)N04ja4P9++t_.faREV`nLIck'K&Rs`$f_'&na';3*1D2jS@8I_flqOh@'h;3DXoo<j,Au#4Q#,9b/u^Y4[&4Wn4$?WG9Imtbr;)Z3O"'";eH<q)2,u-c`#MdX]l2iR%Ct'BF+Ka^c4VCj="7DVCT8FMK4]H?EOBKV&7QAoTf7;X--0[<g8=+p,"83de4Na,NFXtAb]DH=G*>5Jrr<)ZVXmNu0S/X=$R$UgXY51p2g'T42#bk-'g'.#5*hG`3QcEf!!BM_NjL]bQI8)qROfbirr<e<p3EX'Ut'b;5s;I,!A2fg:HDZ,<T2/d*GELLRMK72I6(iBCZAF3KeS+c2cXu6XV*W":eo@0[PWE!LfY<lTi.W:)3UHePii*_eE*:PI:IS$'EK['V)aSpbgBnDbIDoA[%/fTp"eK88P*="]I0+QR&t&b!nT0B)Zg>U^6EX78?.e'+3,<:)/)aq/S_>(k&hYX?0dJ$DaMlqV*gW1A%7.1*$QU$p8rMk\XLH!4IGM?Na4qL;TMn625Z,VbFi\1GNq2SH(9n?Jg:F"EIrn((*nmk7<G+=)*6LF/Z05%=qit2Pl_JcAn*7Baj+paZ1`/7Nj7_*E)<(DQVJ)[H#d0o`g>5Rl#eOod;Yat#/S*/Yk8Db[!UdCpOkV-_iPA>I,[<3/r&7OmPO\tdKR>8/3t`#enCVoT*G-W\%9P7,rd)F24@Y;VoDJn/fq9H#u1]29-,qbajL@1eh=iO(sFAd:O`s_\3hNnUUU`kmuN.6p=8Je>,.Xl9UU7i1o'k4@;nDo\'p]+3O`h,rH^VkbB'^tGUo^SX;][e%>(kH=H<O&,.3>q]djBP1Cl1q74)cU1=(WtMG@?JngVP%^-T5Ac9/L<[,^o"o2L.T[jJ87k-`=TPVAcY8!jDj,GR=Bf)%=/^A>M):_r=G%8rWl*XW`q$HRMBo!@pU?%\HfQFfIXGW+(Eg9*uo4s.Sp&e@QmBQ)c('(-mPTAn_(f/RDt<n83oE`<AL0o8r->"`R&BuhP0:]BqRO&]#KPGLl34$)Y2Bs:/Sa4c56;O&Zkm-CWf[aI_m`unl0P#V:?Gqr,A@[b`0M-4f#p3FLFQ2V'h!5.[fHmo3:`$mZmDm8'r"]sZmADT7%+M\0+EOj\,jS8"@2bG&qS%Ye^>7rebRWTZg,m;COW;PCsN^nD"412PuPJ,\QDNo0:QRL*6QRmk;f`;O=f[rF4q0/48XB]m`R]PTBlcr4"c**4@8NVGBK:#,<$h1=^a%Mt(V6K9edA:++X-KQ+&"P4%Xi4flrQWFhB-sugdkN5FeY93-%\`2dY6\5uY#N:sAfM`:G94)g&pFid"kT'+^18VVP>o(_<40lE.to&\i<LY3+-ijH"HIsWD`n];(&L'1`='+@./1mpc6]Rhf'7):LVcRVNKh#%];!2:S/8U&Ak'S(\#!;jQ'HdO9(`588f_>Ub^l4JP*sWZV_V#q@mK"M-.1m1'$6?2Wcc?rf0l*_Fju//'/6+4iXhX&MGsq(;Mn$G%8e.`DG"S"k+ideLKKUC92bN"bZH\mYZO7tf@\r6Pp"[NeY(YkU+a5oduok.%`1#W,sCbPb8.I?7)^o]n".s'jVNaU1$=BsUla8CS]79+qEVO$`J>g")U/r*e)9+S(ACq9"K)Ap#.$rD2#,2@"iJnE_(!1NBk,/T)*1$mHH#Y',DV&k*W'UE`N<.#*gne0c=oZ:MoS?)*;aLD_h%rQ;F\MYK#3.fHkkCK'(1$Z=in30e]C]A+V#q'-WZS\8DU[+&gOUW**A+oV9`H>C;iKG)3ZXVCb8d=@HLIC#j9<GjEZS%n_lPPQod5o`2-_%ZFNM3D)Tf^"(H"="d[$9#7ARN#F2R>,F5HhpLr%3AT`:`Hd+8*R`)0S>i_Z;$='i;a;X:J5%:2sa2^/EnT2Mh'B&2;c'@fP+n::kA/Sn'k)KVP*_41m*g_1\9]@&9jbnoe7j[PJG82bq;O:]_W2pu(0.rstmu_JsrWq39F"=`ud8PH3WL)2X/[U2;Xf;T@O;(B6AA9p#R;E4?%=tAnBg(_pnkb"#oOE"$-3;oSc#`mQ:j?,XI&hh0h.<js?ft&).rq4(pWM8%%k/VA9PF$B][1FO3Xs=T[6)p$LLHP\ZWn0.:/JZoqG)62p"1$Y!jK!Cn_2uCgnrCM<fYV<)V&"t?+0MbS@,1q>#ViW4>g_;!TbR/.6(C_G.&)gdT4>l94h(.;4uW@g37W*hFT_j:=;]]11=Td'\^&mC<9ZQ]e,($Bf:TX9535.[s97]8NTKhSB6OqVCGbO:MEV\2bdUb8leNK3469/]YG!;PE5c],_,nB-Q%:S%h=:ce_A4=@(pC#)4kb(cBsV+AU1?q%Dp"]rj3WdidT"gh^IRQZ"Z,e<91XQC@;.GTe*FFPFjaKQiMDm1iZ!F<+kK`UMI*O$?8jHPjM;0R3@ipoq*p2@$o1&#E%&j<P9lKD,n&IRB.)]0.+#ojJh?'[*j^SMbu)XEY8U&DgoaP&5?2F0O43ITZC;r36Ia9@]E4W(BRAc"NX1GQ,CgT5%=MdLt3W4*Y#YCj]O1$3Emq[c(<kR:=iP(Ol3&[NmDLhj]TbY7Zota]GokS5*USZFodgj\U^NQ+R^F@`DMG/1f!(,K7+kHh.";8S.0(eghH7rU^MON=FsJ',m.;HNuECVklTi0(Z:P9CG`<V:Q1he>WlQo&J=&uhq\*Af+1--NXpS[m@RWH!XQ3J4lF9])XJp=;RFlgFW/K:d^<@le=C,0KlSUl!C679\W"Hp4t9tMf4/+8<o(_;=KaJ\Uu^C-<JFHP!#%$,=-c:pJ_!E:N5:@i)rk.42?;B3fg/mZm%h)`8e//t8T!$a:P.VE,_[COk9P\eNPpY(@T[CnfhcAPU%1@<JsKt1fe\oUIH*?7cE6[YWYakt1/1;6aVi-5[28f/\aBiY%3ss^+@;/bdB58J*J-A:7VsMd<X#U$Zj"-YdTMfQK1V6*.E%;YKG%Jrbs^]:M,>O]8^,53`I.l/>1]6i@Y$*_HW*`sBi>ZcV,]e:Wa8:*0B>;qM*^4Hmu8XlLYcjl\L0URhNX@']hM#\C77Ef!37`K,ssfgNL==)OVEKW'Z&Yd$6<p8Zk%DT*#6R[5EbX12T3N\T*?DV'4JZq0'L5*3"73?eu1C5lAD'3UT9r,=UN>aD=Cr(]R`qs34FlkIO8,\CL)-7[J?\*/!4Bo(+JfH4-\1sPrR\)JE)<FRE.hnE$"@h@C^)FDXOL8idsO6:n3hCcZd+;;M=G\C"OYJ@=Ej]V/a_c0jg63ZK]LL\>ab6h5[Q(hAJimZ*T_&XR]s^a(*qaikOMp93]-b,JL%QK(-U1m/I&4r6-"tAgl*7o!7HV2T!YGqn-(*d:HB:E(mAd345Ehh'ob%bfn2b_I]-&7-c8g3<9c5JQPc8_-7OAeY9LRg.&Eo\?0BbF[oSP/R5;RM,?CuAj[^YS2eAZ4hs-m;m#>#9I)$to?'p7O#hY9**T[He9P#f:;Adh)2-uVWc"+NoXX5:o1R9/cVTHV)29pXA^+P(5!uST=gL$1k)#Y<NL44MhsG4n4oOTD00\)26JZc46<"Z,.9Qe)]T^D]_)kJs1tQPCg-gNJbVlk_3W+WJrr=jIOs=VF,GugBl=q.<Ksem7&?0H2UFbOm%EaiN6[:ba,BhRTf)o]\99"$gj%k;U+C!Z2`"JS-?Xcr$qX*[+np3u:QJSI+C[fKU'f^j\eLLqg)I@9Y)cm<h^V6b&"U-\1B2M8Q3g<=6&L\RB/9oY(-V,$a=MG!:"'MI])LQ)[!o`G]i/!HLpuaigou0<d(\,]GAh#$I&Nqi<\eq!bn[]!r:mI#?,S57\ebUR=@r'Tf(["&A_7i+6_(\<6<?dVV$"fdG4NJ+C1u_=;8,s-5b>'QrN!0"J"phX9+fXajZ4pG_n!!?ZbG9QoK`;&?2I4^O1JM:p[c#`[C!JTHEOFV3X"j-D[a_Zsb3FOMIur5FI%uHRj6V<>fW1X^4=-r44*@T,RHfZMELKZH8p?!'3OYah_T\!A,%kEg:)2F*:#RuK<O9:">Lf[u1;*VeAMUOKJi>lhSXcWMf%<T)PB7kmHM,_koj%.\Z]n]WU<KE<(B@"b*HN?u,q)_"=#-SM&u#_98qPV.<7=V<%2\YD`D&*B;9Nk3H/qSkd62R+o>t4\e!Y2dQWtefoBm1(%BX$9'GO,2&EAQhbUULl<sJ0Rgqqeq;mkhtbrr(S[^0hEa0c/$qn*gYKfnYCS8hs^?,`p6AtoK1Fp3G/iFSKM_sBRrV'pN[%U;XtaNF[adPE/38LdonU8=u,-#6\KV%kFIT0Weu&L\RB/9oY(-V,$a=MG!:&FJ-dlu_7J^+NZ8jajj>h:HIKEsettl'-k(@\ZYr]!Neoi9FL;R7#:[Vnlmb%p@D]%CX\aZ71$&:@QFh)R:h?FAtnNA`,*75hu7#[&<c-iih:oO6FIT-YZBLBuOGq[3*eJ,"MuG?31%%n<ISCTB-/hmS;3&lI1X*K5*WG$f%;L5LlYHIg4DP7L4i5".nNp<">lF5hGms[&<c-iih:oO6FIT-YZBLBuOGq[3*eJ,!hZ/eIM8[+##F#WCfj\QQ99?,m[(?PYsb;)p(4h4.bO#.K6G/X8"TJqCoV)g/IrREEDXH8+^2IZ?4phKs[am=Abj\?n5Aq@]=EA0/,C#gmWuhaBfejaNW_MTQD7%HM,_koj%.\Z]n]WU<KE<(B@"b*HN?u,q)_"=#-SM&u#_98qPV.<7=V29b7+6R#cSqB_UYQ']7_n0cIBU[hUYs=K3`G[i0,5\,OCip!f<0QC3u'QJVno;I)]*>1T7F@o0"=CF\#6>P)&MIb(DpjI;C!@pNhQobqWm$.`;0UQF3+&pBHA<ji0_B&R<j8]0mY\"tKroaY5"8BAsVW7!IIP"@-,e=reAC*dY!Pbf*D7%ZaP'G2`iTg9Lpf`~>endstream
+endobj
+% 'Page6': class PDFPage 
+27 0 obj
+% Page dictionary
+<< /Contents 85 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 79 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ]
+ /XObject << /FormXob.84ae3b102a6d04326f4119b078982837 26 0 R >> >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER14': class LinkAnnotation 
+28 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 50 0 R
+ /XYZ
+ 68.69291
+ 252.7843
+ 0 ]
+ /Rect [ 257.3037
+ 318.3236
+ 288.9837
+ 330.3236 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER15': class LinkAnnotation 
+29 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 50 0 R
+ /XYZ
+ 68.69291
+ 216.7843
+ 0 ]
+ /Rect [ 297.9644
+ 318.3236
+ 340.2831
+ 330.3236 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page7': class PDFPage 
+30 0 obj
+% Page dictionary
+<< /Annots [ 28 0 R
+ 29 0 R ]
+ /Contents 86 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 79 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ]
+ /XObject << /FormXob.84ae3b102a6d04326f4119b078982837 26 0 R >> >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER16': class LinkAnnotation 
+31 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 52 0 R
+ /XYZ
+ 68.69291
+ 765.0236
+ 0 ]
+ /Rect [ 416.8489
+ 255.9236
+ 455.7589
+ 267.9236 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page8': class PDFPage 
+32 0 obj
+% Page dictionary
+<< /Annots [ 31 0 R ]
+ /Contents 87 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 79 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ]
+ /XObject << /FormXob.84ae3b102a6d04326f4119b078982837 26 0 R >> >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'F7': class PDFType1Font 
+33 0 obj
+% Font Helvetica-BoldOblique
+<< /BaseFont /Helvetica-BoldOblique
+ /Encoding /WinAnsiEncoding
+ /Name /F7
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page9': class PDFPage 
+34 0 obj
+% Page dictionary
+<< /Contents 88 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 79 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ]
+ /XObject << /FormXob.84ae3b102a6d04326f4119b078982837 26 0 R >> >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page10': class PDFPage 
+35 0 obj
+% Page dictionary
+<< /Contents 89 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 79 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER17': class LinkAnnotation 
+36 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 50 0 R
+ /XYZ
+ 68.69291
+ 300.7843
+ 0 ]
+ /Rect [ 110.8249
+ 339.9236
+ 151.8709
+ 351.9236 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER18': class LinkAnnotation 
+37 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 50 0 R
+ /XYZ
+ 68.69291
+ 132.7843
+ 0 ]
+ /Rect [ 132.1633
+ 327.9236
+ 172.1733
+ 339.9236 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page11': class PDFPage 
+38 0 obj
+% Page dictionary
+<< /Annots [ 36 0 R
+ 37 0 R ]
+ /Contents 90 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 79 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ]
+ /XObject << /FormXob.84ae3b102a6d04326f4119b078982837 26 0 R >> >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page12': class PDFPage 
+39 0 obj
+% Page dictionary
+<< /Contents 91 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 79 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ]
+ /XObject << /FormXob.84ae3b102a6d04326f4119b078982837 26 0 R >> >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER19': class LinkAnnotation 
+40 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 9 0 R
+ /XYZ
+ 338.0929
+ 354.2236
+ 0 ]
+ /Rect [ 116.0449
+ 287.2843
+ 122.7169
+ 299.2843 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER20': class LinkAnnotation 
+41 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 38 0 R
+ /XYZ
+ 108.6889
+ 353.4236
+ 0 ]
+ /Rect [ 129.3889
+ 287.2843
+ 136.0609
+ 299.2843 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER21': class PDFDictionary 
+42 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://dmtcp.sourceforge.net/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 282.4563
+ 251.2843
+ 435.2043
+ 263.2843 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER22': class LinkAnnotation 
+43 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 30 0 R
+ /XYZ
+ 248.0689
+ 331.8236
+ 0 ]
+ /Rect [ 68.69291
+ 239.2843
+ 106.7089
+ 251.2843 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER23': class PDFDictionary 
+44 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://arxiv.org/abs/1212.5204) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 202.4163
+ 215.2843
+ 361.1763
+ 227.2843 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER24': class LinkAnnotation 
+45 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 30 0 R
+ /XYZ
+ 286.4209
+ 331.8236
+ 0 ]
+ /Rect [ 68.69291
+ 203.2843
+ 113.3689
+ 215.2843 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER25': class PDFDictionary 
+46 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://github.com/fred-dbg/fred) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 153.7323
+ 191.2843
+ 320.4843
+ 203.2843 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER26': class LinkAnnotation 
+47 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 25 0 R
+ /XYZ
+ 426.8329
+ 429.4236
+ 0 ]
+ /Rect [ 68.69291
+ 179.2843
+ 119.3929
+ 191.2843 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER27': class LinkAnnotation 
+48 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 25 0 R
+ /XYZ
+ 422.8609
+ 171.4236
+ 0 ]
+ /Rect [ 68.69291
+ 155.2843
+ 126.7249
+ 167.2843 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER28': class LinkAnnotation 
+49 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 38 0 R
+ /XYZ
+ 124.7209
+ 341.4236
+ 0 ]
+ /Rect [ 68.69291
+ 119.2843
+ 116.7049
+ 131.2843 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page13': class PDFPage 
+50 0 obj
+% Page dictionary
+<< /Annots [ 40 0 R
+ 41 0 R
+ 42 0 R
+ 43 0 R
+ 44 0 R
+ 45 0 R
+ 46 0 R
+ 47 0 R
+ 48 0 R
+ 49 0 R ]
+ /Contents 92 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 79 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER29': class LinkAnnotation 
+51 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 32 0 R
+ /XYZ
+ 416.8489
+ 269.4236
+ 0 ]
+ /Rect [ 68.69291
+ 751.5236
+ 112.0489
+ 763.5236 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page14': class PDFPage 
+52 0 obj
+% Page dictionary
+<< /Annots [ 51 0 R ]
+ /Contents 93 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 79 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R53': class PDFCatalog 
+53 0 obj
+% Document Root
+<< /Outlines 55 0 R
+ /PageLabels 94 0 R
+ /PageMode /UseNone
+ /Pages 79 0 R
+ /Type /Catalog >>
+endobj
+% 'R54': class PDFInfo 
+54 0 obj
+<< /Author (Kapil Arya, Gene Cooperman)
+ /CreationDate (D:20140119072212+00'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (DMTCP: Bringing Checkpoint-Restart to Python) >>
+endobj
+% 'R55': class PDFOutlines 
+55 0 obj
+<< /Count 28
+ /First 56 0 R
+ /Last 73 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+56 0 obj
+<< /Dest [ 9 0 R
+ /XYZ
+ 62.69291
+ 385.4236
+ 0 ]
+ /Next 57 0 R
+ /Parent 55 0 R
+ /Title (Introduction) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+57 0 obj
+<< /Count 4
+ /Dest [ 20 0 R
+ /XYZ
+ 62.69291
+ 447.0236
+ 0 ]
+ /First 58 0 R
+ /Last 61 0 R
+ /Next 62 0 R
+ /Parent 55 0 R
+ /Prev 56 0 R
+ /Title (DMTCP-Python Integration through a Python Module) >>
+endobj
+% 'Outline.24.0': class OutlineEntryObject 
+58 0 obj
+<< /Dest [ 20 0 R
+ /XYZ
+ 62.69291
+ 294.6236
+ 0 ]
+ /Next 59 0 R
+ /Parent 57 0 R
+ /Title (A Python Module to Support DMTCP) >>
+endobj
+% 'Outline.24.1': class OutlineEntryObject 
+59 0 obj
+<< /Dest [ 21 0 R
+ /XYZ
+ 62.69291
+ 419.8236
+ 0 ]
+ /Next 60 0 R
+ /Parent 57 0 R
+ /Prev 58 0 R
+ /Title (Extending the DMTCP Module for Managing Sessions) >>
+endobj
+% 'Outline.24.2': class OutlineEntryObject 
+60 0 obj
+<< /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Next 61 0 R
+ /Parent 57 0 R
+ /Prev 59 0 R
+ /Title (Save-Restore for IPython Sessions) >>
+endobj
+% 'Outline.24.3': class OutlineEntryObject 
+61 0 obj
+<< /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 545.4236
+ 0 ]
+ /Parent 57 0 R
+ /Prev 60 0 R
+ /Title (Save-Restore for Parallel IPython Sessions) >>
+endobj
+% 'Outline.2': class OutlineEntryObject 
+62 0 obj
+<< /Dest [ 22 0 R
+ /XYZ
+ 62.69291
+ 391.8236
+ 0 ]
+ /Next 63 0 R
+ /Parent 55 0 R
+ /Prev 57 0 R
+ /Title (Checkpointing Python-Based Graphics) >>
+endobj
+% 'Outline.3': class OutlineEntryObject 
+63 0 obj
+<< /Dest [ 25 0 R
+ /XYZ
+ 62.69291
+ 485.8236
+ 0 ]
+ /Next 64 0 R
+ /Parent 55 0 R
+ /Prev 62 0 R
+ /Title (Checking Cython with Multiple CPython Instances) >>
+endobj
+% 'Outline.4': class OutlineEntryObject 
+64 0 obj
+<< /Count 5
+ /Dest [ 30 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /First 65 0 R
+ /Last 68 0 R
+ /Next 70 0 R
+ /Parent 55 0 R
+ /Prev 63 0 R
+ /Title (Reversible Debugging with FReD) >>
+endobj
+% 'Outline.25.0': class OutlineEntryObject 
+65 0 obj
+<< /Dest [ 30 0 R
+ /XYZ
+ 62.69291
+ 271.8236
+ 0 ]
+ /Next 66 0 R
+ /Parent 64 0 R
+ /Title (A Simple UNDO Command) >>
+endobj
+% 'Outline.25.1': class OutlineEntryObject 
+66 0 obj
+<< /Count 1
+ /Dest [ 32 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /First 67 0 R
+ /Last 67 0 R
+ /Next 68 0 R
+ /Parent 64 0 R
+ /Prev 65 0 R
+ /Title (More complex reverse commands) >>
+endobj
+% 'Outline.26.0': class OutlineEntryObject 
+67 0 obj
+<< /Dest [ 34 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Parent 66 0 R
+ /Title (A typical debugging session in FReD with Python) >>
+endobj
+% 'Outline.25.2': class OutlineEntryObject 
+68 0 obj
+<< /Count 1
+ /Dest [ 34 0 R
+ /XYZ
+ 62.69291
+ 569.8236
+ 0 ]
+ /First 69 0 R
+ /Last 69 0 R
+ /Parent 64 0 R
+ /Prev 66 0 R
+ /Title (Reverse Expression Watchpoints) >>
+endobj
+% 'Outline.27.0': class OutlineEntryObject 
+69 0 obj
+<< /Dest [ 35 0 R
+ /XYZ
+ 62.69291
+ 531.0236
+ 0 ]
+ /Parent 68 0 R
+ /Title (A typical use of reverse-expression-watchpoint) >>
+endobj
+% 'Outline.5': class OutlineEntryObject 
+70 0 obj
+<< /Dest [ 35 0 R
+ /XYZ
+ 62.69291
+ 227.8236
+ 0 ]
+ /Next 71 0 R
+ /Parent 55 0 R
+ /Prev 64 0 R
+ /Title (Conclusion) >>
+endobj
+% 'Outline.6': class OutlineEntryObject 
+71 0 obj
+<< /Dest [ 38 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Next 72 0 R
+ /Parent 55 0 R
+ /Prev 70 0 R
+ /Title (Acknowledgment) >>
+endobj
+% 'Outline.7': class OutlineEntryObject 
+72 0 obj
+<< /Dest [ 38 0 R
+ /XYZ
+ 62.69291
+ 697.8236
+ 0 ]
+ /Next 73 0 R
+ /Parent 55 0 R
+ /Prev 71 0 R
+ /Title (References) >>
+endobj
+% 'Outline.8': class OutlineEntryObject 
+73 0 obj
+<< /Count 5
+ /Dest [ 38 0 R
+ /XYZ
+ 62.69291
+ 660.6236
+ 0 ]
+ /First 74 0 R
+ /Last 78 0 R
+ /Parent 55 0 R
+ /Prev 72 0 R
+ /Title (Appendix: Background of DMTCP) >>
+endobj
+% 'Outline.28.0': class OutlineEntryObject 
+74 0 obj
+<< /Dest [ 38 0 R
+ /XYZ
+ 62.69291
+ 120.2236
+ 0 ]
+ /Next 75 0 R
+ /Parent 73 0 R
+ /Title (DMTCP Plugins) >>
+endobj
+% 'Outline.28.1': class OutlineEntryObject 
+75 0 obj
+<< /Dest [ 39 0 R
+ /XYZ
+ 62.69291
+ 369.0236
+ 0 ]
+ /Next 76 0 R
+ /Parent 73 0 R
+ /Prev 74 0 R
+ /Title (DMTCP Coordinator) >>
+endobj
+% 'Outline.28.2': class OutlineEntryObject 
+76 0 obj
+<< /Dest [ 39 0 R
+ /XYZ
+ 62.69291
+ 257.4236
+ 0 ]
+ /Next 77 0 R
+ /Parent 73 0 R
+ /Prev 75 0 R
+ /Title (Checkpoint Thread) >>
+endobj
+% 'Outline.28.3': class OutlineEntryObject 
+77 0 obj
+<< /Dest [ 50 0 R
+ /XYZ
+ 62.69291
+ 765.0236
+ 0 ]
+ /Next 78 0 R
+ /Parent 73 0 R
+ /Prev 76 0 R
+ /Title (Checkpoint) >>
+endobj
+% 'Outline.28.4': class OutlineEntryObject 
+78 0 obj
+<< /Dest [ 50 0 R
+ /XYZ
+ 62.69291
+ 461.4236
+ 0 ]
+ /Parent 73 0 R
+ /Prev 77 0 R
+ /Title (Restart) >>
+endobj
+% 'R79': class PDFPages 
+79 0 obj
+% page tree
+<< /Count 14
+ /Kids [ 9 0 R
+ 20 0 R
+ 21 0 R
+ 22 0 R
+ 25 0 R
+ 27 0 R
+ 30 0 R
+ 32 0 R
+ 34 0 R
+ 35 0 R
+ 38 0 R
+ 39 0 R
+ 50 0 R
+ 52 0 R ]
+ /Type /Pages >>
+endobj
+% 'R80': class PDFStream 
+80 0 obj
+% page stream
+<< /Length 6857 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 707.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 33.6 Tm /F2 24 Tf 28.8 TL 6.944882 0 Td (DMTCP: Bringing Checkpoint-Restart to) Tj T* 187.332 0 Td (Python) Tj T* -194.2769 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 682.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL 43.03937 0 Td (Date:) Tj T* -43.03937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (2013-01-02) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 667.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL 29.71937 0 Td (Author:) Tj T* -29.71937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Kapil Arya, Gene Cooperman) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 652.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL 38.35937 0 Td (email:) Tj T* -38.35937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+BT 1 0 0 1 0 0 Tm 12 TL /F1 12 Tf 0 0 .501961 rg (kapil@ccs.neu.edu) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 637.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL 11.04737 0 Td (institution:) Tj T* -11.04737 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (Northeastern University) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 622.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL 44.37137 0 Td (tags:) Tj T* -44.37137 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (checkpoint-restart, DMTCP, IPython, Cython, reversible debugger) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 607.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL -45.65263 0 Td (author_figshare_ids:) Tj T* 45.65263 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (97686, 1) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 592.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL 37.69937 0 Td (video:) Tj T* -37.69937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (http://www.youtube.com/watch?v=1l_wGZz0JEE) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 397.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 183 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F2 12 Tf 12 TL 15.69137 0 Td (summary:) Tj T* -15.69137 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 180 Tm /F1 12 Tf 12 TL 6.349732 Tw (DMTCP \(Distributed MultiThreaded CheckPointing\) is a mature) Tj T* 0 Tw 1.813485 Tw (checkpoint-restart package. It operates in user-space without kernel) Tj T* 0 Tw 4.449732 Tw (privilege, and adapts to application-specific requirements through) Tj T* 0 Tw 3.929155 Tw (plugins. While DMTCP has been able to checkpoint Python and) Tj T* 0 Tw 3.217039 Tw (IPython "from the outside" for many years, a Python module has) Tj T* 0 Tw .446488 Tw (recently been created to support DMTCP. IPython support is included) Tj T* 0 Tw 4.891822 Tw (through a new DMTCP plugin. A checkpoint can be requested) Tj T* 0 Tw .305309 Tw (interactively within a Python session, or under the control of a specific) Tj T* 0 Tw 2.336799 Tw (Python program. Further, the Python program can execute specific) Tj T* 0 Tw 2.077155 Tw (Python code prior to checkpoint, upon resuming \(within the original) Tj T* 0 Tw .421299 Tw (process\), and upon restarting \(from a checkpoint image\). Applications) Tj T* 0 Tw 3.340299 Tw (of DMTCP are demonstrated for: \(i\) Python-based graphics using) Tj T* 0 Tw 3.035854 Tw (VNC; \(ii\) a Fast/Slow technique to use multiple hosts or cores to) Tj T* 0 Tw 4.673155 Tw (check one Cython computation in parallel; and \(iii\) a reversible) Tj T* 0 Tw 1.052342 Tw (debugger, FReD, with a novel reverse-expression watchpoint feature) Tj T* 0 Tw (for locating the cause of a bug.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 360.2236 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf 0 0 0 rg (Introduction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 294.2236 cm
+q
+BT 1 0 0 1 0 48 Tm 4.19247 Tw 12 TL /F1 12 Tf 0 0 0 rg (DMTCP \(Distributed MultiThreaded CheckPointing\) ) Tj /F1 10 Tf 0 0 .501961 rg 6 Ts (Ansel09 ) Tj /F1 12 Tf 0 0 0 rg 0 Ts (is a mature user-space) Tj T* 0 Tw 3.373974 Tw (checkpoint-restart package. One can view checkpoint-restart as a generalization of) Tj T* 0 Tw .97761 Tw (pickling. Instead of saving an object to a file, one saves the entire Python session to a) Tj T* 0 Tw 3.427069 Tw (file. Checkpointing graphics in Python is also supported by checkpointing a virtual) Tj T* 0 Tw (network client \(VNC\) session with Python running inside that session.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 240.2236 cm
+q
+BT 1 0 0 1 0 36 Tm 1.31148 Tw 12 TL /F1 12 Tf 0 0 0 rg (DMTCP is available as a Linux package for many popular Linux distributions. DMTCP) Tj T* 0 Tw 1.546697 Tw (can checkpoint Python or IPython from the ) Tj /F3 12 Tf (outside) Tj /F1 12 Tf (, i.e. by treating Python as a black) Tj T* 0 Tw 4.091433 Tw (box. To enable checkpointing, the Python interpreter is launched in the following) Tj T* 0 Tw (manner:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 195.0236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 10.5 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 0 -1.5 14.4 12 re f*
+BT 1 0 0 1 0 12 Tm 12 TL /F4 12 Tf .098039 .090196 .486275 rg ($ ) Tj 0 0 0 rg (dmtcp_checkpoint python ) Tj (<) Tj (args) Tj (>) Tj  T* .098039 .090196 .486275 rg ($ ) Tj 0 0 0 rg (dmtcp_command --checkpoint) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 163.0236 cm
+q
+BT 1 0 0 1 0 12 Tm .301269 Tw 12 TL /F1 12 Tf 0 0 0 rg (The command ) Tj /F4 12 Tf (dmtcp_command ) Tj /F1 12 Tf (can be used at any point to create a checkpoint of the) Tj T* 0 Tw (entire session.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 121.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24 Tm /F1 12 Tf 12 TL 2.574576 Tw (However, most Python programmers will prefer to request a checkpoint interactively) Tj T* 0 Tw 3.25548 Tw (within a Python session, or else programmatically from inside a Python or Cython) Tj T* 0 Tw (program.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 91.02362 cm
+q
+BT 1 0 0 1 0 12 Tm 2.47748 Tw 12 TL /F1 12 Tf 0 0 0 rg (DMTCP is made accessible to Python programmers as a Python module. Hence, a ) Tj T* 0 Tw 3.59022 Tw (checkpoint is executed as ) Tj /F4 12 Tf (import) Tj ( ) Tj (dmtcp;) Tj ( ) Tj (dmtcp.checkpoint\(\)) Tj /F1 12 Tf (. This Python) Tj T* 0 Tw ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R81': class PDFStream 
+81 0 obj
+% page stream
+<< /Length 6581 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+BT 1 0 0 1 0 12 Tm .128751 Tw 12 TL /F1 12 Tf 0 0 0 rg (module provides this and other functions to support the features of DMTCP. The module) Tj T* 0 Tw (for DMTCP functions equally well in IPython.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 699.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24 Tm /F1 12 Tf 12 TL 1.106976 Tw (This DMTCP module implements a generalization of a saveWorkspace function, which) Tj T* 0 Tw 2.899776 Tw (additionally supports graphics and the distributed processes of IPython. In addition,) Tj T* 0 Tw (three novel uses of DMTCP for helping debug Python are discussed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 693.0236 cm
+Q
+q
+1 0 0 1 62.69291 693.0236 cm
+Q
+q
+1 0 0 1 62.69291 609.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 69 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL 3.992 0 Td (1.) Tj T* -3.992 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 72 Tm /F1 12 Tf 12 TL .631752 Tw (Fast/Slow Computation : Cython provides both traditional interpreted functions and) Tj T* 0 Tw 5.303752 Tw (compiled C functions. Interpreted functions are slow, but correct. Compiled) Tj T* 0 Tw 2.823069 Tw (functions are fast, but users sometimes declare incorrect C types, causing the) Tj T* 0 Tw .215797 Tw (compiled function silently return a wrong answer. The idea of fast/slow computation) Tj T* 0 Tw 1.974814 Tw (is to run the compiled version on one computer node, while creating checkpoint) Tj T* 0 Tw 2.820888 Tw (images at regular intervals. Separate computer nodes are used to check each) Tj T* 0 Tw (interval in interpreted mode between checkpoints.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 603.0236 cm
+Q
+q
+1 0 0 1 62.69291 579.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL 3.992 0 Td (2.) Tj T* -3.992 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL 3.866814 Tw (FReD : a Fast Reversible Debugger that works closely with the Python pdb) Tj T* 0 Tw (debugger, as well as other Python debuggers.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 573.0236 cm
+Q
+q
+1 0 0 1 62.69291 525.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL 3.992 0 Td (3.) Tj T* -3.992 0 Td ET
+Q
+Q
+q
+1 0 0 1 26 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 36 Tm /F1 12 Tf 12 TL .144814 Tw (Reverse Expression Watchpoint : This is a novel feature within the FReD reversible) Tj T* 0 Tw .155851 Tw (debugger. Assume a bug occurred in the past. It is associated with the point in time) Tj T* 0 Tw 1.49984 Tw (when a certain expression changed. Bring the user back to a pdb session at the) Tj T* 0 Tw (step before the bug occurred.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 525.0236 cm
+Q
+q
+1 0 0 1 62.69291 459.0236 cm
+q
+BT 1 0 0 1 0 48 Tm 3.521974 Tw 12 TL /F1 12 Tf 0 0 0 rg (The remaining sections describe: the ) Tj 0 0 .501961 rg (DMTCP-Python Integration through a Python) Tj T* 0 Tw 5.124524 Tw (Module) Tj 0 0 0 rg (; and several extensions of the integration of DMTCP with Python. The) Tj T* 0 Tw .37722 Tw (extensions include support for ) Tj 0 0 .501961 rg (Checkpointing Python-Based Graphics) Tj 0 0 0 rg (; ) Tj 0 0 .501961 rg (Checking Cython) Tj T* 0 Tw 1.523307 Tw (with Multiple CPython Instances ) Tj 0 0 0 rg (\(fast/slow technique\); and ) Tj 0 0 .501961 rg (Reversible Debugging with) Tj T* 0 Tw (FReD) Tj 0 0 0 rg (. More information about DMTCP is added in ) Tj 0 0 .501961 rg (Appendix: Background of DMTCP) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 396.6236 cm
+q
+BT 1 0 0 1 0 29.4 Tm 25.2 TL /F2 21 Tf 0 0 0 rg (DMTCP-Python Integration through a Python) Tj T* (Module) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 306.6236 cm
+q
+BT 1 0 0 1 0 72 Tm 2.49216 Tw 12 TL /F1 12 Tf 0 0 0 rg (A Python module, ) Tj /F4 12 Tf (dmtcp.py) Tj /F1 12 Tf (, has been created to support checkpointing both from) Tj T* 0 Tw .570576 Tw (within an interactive Python/IPython session and programmatically from within a Python) Tj T* 0 Tw .08448 Tw (or Cython program. DMTCP has been able to asynchronously generate checkpoints of a) Tj T* 0 Tw 3.127069 Tw (Python session for many years. However, most users prefer the more fine-grained) Tj T* 0 Tw 4.14448 Tw (control of a Python programmatic interface to DMTCP. This allows one to avoid) Tj T* 0 Tw .797982 Tw (checkpointing in the middle of a communication with an external server or other atomic) Tj T* 0 Tw (transaction.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 273.0236 cm
+q
+BT 1 0 0 1 0 3.6 Tm 21.6 TL /F2 18 Tf 0 0 0 rg (A Python Module to Support DMTCP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 243.0236 cm
+q
+BT 1 0 0 1 0 12 Tm 1.258597 Tw 12 TL /F1 12 Tf 0 0 0 rg (Some of the features of ) Tj /F4 12 Tf (module.py ) Tj /F1 12 Tf (are best illustrated through an example. Here, a) Tj T* 0 Tw (checkpoint request is made from within the application.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 125.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 108 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 82.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 0 70.5 43.2 12 re f*
+.960784 .960784 .862745 rg
+n 50.4 70.5 36 12 re f*
+.960784 .960784 .862745 rg
+n 0 58.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 0 46.5 360 12 re f*
+.960784 .960784 .862745 rg
+n 0 34.5 64.8 12 re f*
+.960784 .960784 .862745 rg
+n 0 22.5 36 12 re f*
+.960784 .960784 .862745 rg
+n 36 22.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 43.2 22.5 72 12 re f*
+.960784 .960784 .862745 rg
+n 115.2 22.5 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 0 10.5 252 12 re f*
+.960784 .960784 .862745 rg
+n 0 -1.5 21.6 12 re f*
+BT 1 0 0 1 0 84 Tm 12 TL /F4 12 Tf .4 .4 .4 rg (...) Tj 0 0 0 rg  T* /F5 12 Tf 0 .501961 0 rg (import) Tj /F4 12 Tf 0 0 0 rg ( ) Tj /F5 12 Tf 0 0 1 rg (dmtcp) Tj /F4 12 Tf 0 0 0 rg  T* .4 .4 .4 rg (...) Tj 0 0 0 rg  T* /F6 12 Tf .25098 .501961 .501961 rg (# Request a checkpoint if running under checkpoint) Tj /F4 12 Tf 0 0 0 rg  T* /F6 12 Tf .25098 .501961 .501961 rg (# control) Tj /F4 12 Tf 0 0 0 rg  T* (dmtcp) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (checkpoint) Tj (\(\)) Tj  T* /F6 12 Tf .25098 .501961 .501961 rg (# Checkpoint image has been created) Tj /F4 12 Tf 0 0 0 rg  T* .4 .4 .4 rg (...) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 105.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (It is also easy to add pre- and post-checkpoint processing actions.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R82': class PDFStream 
+82 0 obj
+% page stream
+<< /Length 9615 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 463.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 300 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 274.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 0 262.5 43.2 12 re f*
+.960784 .960784 .862745 rg
+n 50.4 262.5 36 12 re f*
+.960784 .960784 .862745 rg
+n 0 250.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 0 238.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 238.5 50.4 12 re f*
+.960784 .960784 .862745 rg
+n 79.2 238.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 86.4 238.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 93.6 238.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 122.4 238.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 129.6 238.5 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 214.5 115.2 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 202.5 115.2 12 re f*
+.960784 .960784 .862745 rg
+n 144 202.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 151.2 202.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 158.4 202.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 187.2 202.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 194.4 202.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 190.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 178.5 136.8 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 166.5 36 12 re f*
+.960784 .960784 .862745 rg
+n 64.8 166.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 72 166.5 72 12 re f*
+.960784 .960784 .862745 rg
+n 144 166.5 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 154.5 252 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 142.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 130.5 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 50.4 130.5 36 12 re f*
+.960784 .960784 .862745 rg
+n 86.4 130.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 93.6 130.5 57.6 12 re f*
+.960784 .960784 .862745 rg
+n 151.2 130.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 57.6 118.5 309.6 12 re f*
+.960784 .960784 .862745 rg
+n 57.6 106.5 100.8 12 re f*
+.960784 .960784 .862745 rg
+n 158.4 106.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 165.6 106.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 172.8 106.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 201.6 106.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 208.8 106.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 57.6 94.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 82.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 57.6 82.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 57.6 70.5 309.6 12 re f*
+.960784 .960784 .862745 rg
+n 57.6 58.5 86.4 12 re f*
+.960784 .960784 .862745 rg
+n 57.6 46.5 108 12 re f*
+.960784 .960784 .862745 rg
+n 165.6 46.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 172.8 46.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 180 46.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 208.8 46.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 216 46.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 57.6 34.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 10.5 43.2 12 re f*
+.960784 .960784 .862745 rg
+n 0 -1.5 21.6 12 re f*
+BT 1 0 0 1 0 276 Tm 12 TL /F4 12 Tf .4 .4 .4 rg (...) Tj 0 0 0 rg  T* /F5 12 Tf 0 .501961 0 rg (import) Tj /F4 12 Tf 0 0 0 rg ( ) Tj /F5 12 Tf 0 0 1 rg (dmtcp) Tj /F4 12 Tf 0 0 0 rg  T* .4 .4 .4 rg (...) Tj 0 0 0 rg  T* /F5 12 Tf 0 .501961 0 rg (def) Tj /F4 12 Tf 0 0 0 rg ( ) Tj 0 0 1 rg (my_ckpt) Tj 0 0 0 rg (\() Tj .4 .4 .4 rg (<) Tj 0 0 0 rg (args) Tj .4 .4 .4 rg (>) Tj 0 0 0 rg (\):) Tj  T*  T* (    ) Tj /F6 12 Tf .25098 .501961 .501961 rg (# Pre processing) Tj /F4 12 Tf 0 0 0 rg  T* (    ) Tj (my_pre_ckpt_hook) Tj (\() Tj .4 .4 .4 rg (<) Tj 0 0 0 rg (args) Tj .4 .4 .4 rg (>) Tj 0 0 0 rg (\)) Tj  T* (    ) Tj .4 .4 .4 rg (...) Tj 0 0 0 rg  T* (    ) Tj /F6 12 Tf .25098 .501961 .501961 rg (# Create checkpoint) Tj /F4 12 Tf 0 0 0 rg  T* (    ) Tj (dmtcp) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (checkpoint) Tj (\(\)) Tj  T* (    ) Tj /F6 12 Tf .25098 .501961 .501961 rg (# Checkpoint image has been created) Tj /F4 12 Tf 0 0 0 rg  T* (    ) Tj .4 .4 .4 rg (...) Tj 0 0 0 rg  T* (    ) Tj /F5 12 Tf 0 .501961 0 rg (if) Tj /F4 12 Tf 0 0 0 rg ( ) Tj (dmtcp) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (isResume) Tj (\(\):) Tj  T* (        ) Tj /F6 12 Tf .25098 .501961 .501961 rg (# The process is resuming from a checkpoint) Tj /F4 12 Tf 0 0 0 rg  T* (        ) Tj (my_resume_hook) Tj (\() Tj .4 .4 .4 rg (<) Tj 0 0 0 rg (args) Tj .4 .4 .4 rg (>) Tj 0 0 0 rg (\)) Tj  T* (        ) Tj .4 .4 .4 rg (...) Tj 0 0 0 rg  T* (    ) Tj /F5 12 Tf 0 .501961 0 rg (else) Tj /F4 12 Tf 0 0 0 rg (:) Tj  T* (        ) Tj /F6 12 Tf .25098 .501961 .501961 rg (# The process is restarting from a previous) Tj /F4 12 Tf 0 0 0 rg  T* (        ) Tj /F6 12 Tf .25098 .501961 .501961 rg (# checkpoint) Tj /F4 12 Tf 0 0 0 rg  T* (        ) Tj (my_restart_hook) Tj (\() Tj .4 .4 .4 rg (<) Tj 0 0 0 rg (args) Tj .4 .4 .4 rg (>) Tj 0 0 0 rg (\)) Tj  T* (        ) Tj .4 .4 .4 rg (...) Tj 0 0 0 rg  T*  T* (    ) Tj /F5 12 Tf 0 .501961 0 rg (return) Tj /F4 12 Tf 0 0 0 rg  T* .4 .4 .4 rg (...) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 431.8236 cm
+q
+.960784 .960784 .862745 rg
+n 70.80157 10.5 58.31478 12 re f*
+BT 1 0 0 1 0 12 Tm .714784 Tw 12 TL /F1 12 Tf 0 0 0 rg (The function ) Tj /F4 12 Tf (my_ckpt ) Tj /F1 12 Tf (can be defined in the application by the user and can be called) Tj T* 0 Tw (from within the user application at any point.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 398.2236 cm
+q
+BT 1 0 0 1 0 3.6 Tm 21.6 TL /F2 18 Tf 0 0 0 rg (Extending the DMTCP Module for Managing Sessions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 332.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 48 Tm /F1 12 Tf 12 TL .41848 Tw (These core checkpoint-restart services are further extended to provide the user with the) Tj T* 0 Tw .75048 Tw (concept of multiple sessions. A checkpointed Python session is given a unique session) Tj T* 0 Tw .121269 Tw (id to distinguish it from other sessions. When running interactively, the user can view the) Tj T* 0 Tw 1.10352 Tw (list of available checkpointed sessions. The current session can be replaced by any of) Tj T* 0 Tw (the existing session using the session identifier.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 302.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL 3.31048 Tw (The application can programmatically revert to an earlier session as shown in the) Tj T* 0 Tw (following example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 125.0236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 168 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 142.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 0 130.5 43.2 12 re f*
+.960784 .960784 .862745 rg
+n 50.4 130.5 36 12 re f*
+.960784 .960784 .862745 rg
+n 0 118.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 0 106.5 72 12 re f*
+.960784 .960784 .862745 rg
+n 79.2 106.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 93.6 106.5 36 12 re f*
+.960784 .960784 .862745 rg
+n 129.6 106.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 136.8 106.5 72 12 re f*
+.960784 .960784 .862745 rg
+n 208.8 106.5 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 0 94.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 0 82.5 72 12 re f*
+.960784 .960784 .862745 rg
+n 79.2 82.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 93.6 82.5 36 12 re f*
+.960784 .960784 .862745 rg
+n 129.6 82.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 136.8 82.5 72 12 re f*
+.960784 .960784 .862745 rg
+n 208.8 82.5 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 0 70.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 0 46.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 0 34.5 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 21.6 34.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 34.5 64.8 12 re f*
+.960784 .960784 .862745 rg
+n 93.6 34.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 100.8 34.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 22.5 36 12 re f*
+.960784 .960784 .862745 rg
+n 64.8 22.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 72 22.5 50.4 12 re f*
+.960784 .960784 .862745 rg
+n 122.4 22.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 129.6 22.5 72 12 re f*
+.960784 .960784 .862745 rg
+n 201.6 22.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 0 10.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 10.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 -1.5 36 12 re f*
+.960784 .960784 .862745 rg
+n 64.8 -1.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 72 -1.5 50.4 12 re f*
+.960784 .960784 .862745 rg
+n 122.4 -1.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 129.6 -1.5 72 12 re f*
+.960784 .960784 .862745 rg
+n 201.6 -1.5 7.2 12 re f*
+BT 1 0 0 1 0 144 Tm 12 TL /F4 12 Tf .4 .4 .4 rg (...) Tj 0 0 0 rg  T* /F5 12 Tf 0 .501961 0 rg (import) Tj /F4 12 Tf 0 0 0 rg ( ) Tj /F5 12 Tf 0 0 1 rg (dmtcp) Tj /F4 12 Tf 0 0 0 rg  T* .4 .4 .4 rg (...) Tj 0 0 0 rg  T* (sessionId1) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (dmtcp) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (checkpoint) Tj (\(\)) Tj  T* .4 .4 .4 rg (...) Tj 0 0 0 rg  T* (sessionId2) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (dmtcp) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (checkpoint) Tj (\(\)) Tj  T* .4 .4 .4 rg (...) Tj 0 0 0 rg  T*  T* .4 .4 .4 rg (...) Tj 0 0 0 rg  T* /F5 12 Tf 0 .501961 0 rg (if) Tj /F4 12 Tf 0 0 0 rg ( ) Tj .4 .4 .4 rg (<) Tj 0 0 0 rg (condition) Tj .4 .4 .4 rg (>) Tj 0 0 0 rg (:) Tj  T* (    ) Tj (dmtcp) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (restore) Tj (\() Tj (sessionId2) Tj (\)) Tj  T* /F5 12 Tf 0 .501961 0 rg (else) Tj /F4 12 Tf 0 0 0 rg (:) Tj  T* (    ) Tj (dmtcp) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (restore) Tj (\() Tj (sessionId1) Tj (\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+endobj
+% 'R83': class PDFStream 
+83 0 obj
+% page stream
+<< /Length 5827 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 743.4236 cm
+q
+BT 1 0 0 1 0 3.6 Tm 21.6 TL /F2 18 Tf 0 0 0 rg (Save-Restore for IPython Sessions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 677.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 48 Tm /F1 12 Tf 12 TL 3.789251 Tw (To checkpoint an IPython session, one must consider the configuration files. The) Tj T* 0 Tw 2.56448 Tw (configuration files are typically stored in user's home directory. During restart, if the) Tj T* 0 Tw 2.33616 Tw (configuration files are missing, the restarted computation may fail to continue. Thus,) Tj T* 0 Tw 1.567828 Tw (DMTCP must checkpoint and restore all the files required for proper restoration of an) Tj T* 0 Tw (IPython session.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 635.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24 Tm /F1 12 Tf 12 TL .30648 Tw (Attempting to restore all configuration files during restart poses yet another problem: the) Tj T* 0 Tw .034342 Tw (existing configuration files might have newer contents. Overwriting these newer files with) Tj T* 0 Tw (copies from the checkpoint time may result in the loss of important changes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 557.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 60 Tm /F1 12 Tf 12 TL 1.02948 Tw (To avoid overwriting the existing configuration files, the files related to IPython session) Tj T* 0 Tw .596983 Tw (are restored in a temporary directory. Whenever IPython shell attempts to open a file in) Tj T* 0 Tw 2.69448 Tw (the original configuration directory, the filepath is updated to point to the temporary) Tj T* 0 Tw 3.671433 Tw (directory. Thus, the files in the original configuration directory are never modified.) Tj T* 0 Tw 2.41848 Tw (Further, the translation from original to temporary path is transparent to the IPython) Tj T* 0 Tw (shell.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 523.8236 cm
+q
+BT 1 0 0 1 0 3.6 Tm 21.6 TL /F2 18 Tf 0 0 0 rg (Save-Restore for Parallel IPython Sessions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 469.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 36 Tm /F1 12 Tf 12 TL 1.037376 Tw (DMTCP is capable of checkpointing a distributed computations with processes running) Tj T* 0 Tw 6.571776 Tw (on multiple nodes. It automatically checkpoints and restores various kinds of) Tj T* 0 Tw 1.773395 Tw (inter-process communication mechanisms such as shared-memory, message queues,) Tj T* 0 Tw (pseudo-ttys, pipes and network sockets.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 403.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 48 Tm /F1 12 Tf 12 TL 5.366706 Tw (An IPython session involving a distributed computation running on a cluster is) Tj T* 0 Tw 1.42048 Tw (checkpointed as a single unit. DMTCP allows restarting the distributed processes in a) Tj T* 0 Tw .47248 Tw (different configuration than the original. For example, all the processes can be restarted) Tj T* 0 Tw .13748 Tw (on a single computer for debugging purposes. In another example, the computation may) Tj T* 0 Tw (be restarted on a different cluster altogether.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 366.6236 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf 0 0 0 rg (Checkpointing Python-Based Graphics) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 240.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 108 Tm /F1 12 Tf 12 TL 3.19748 Tw (Python is popular for scientific visualizations. It is possible to checkpoint a Python) Tj T* 0 Tw 10.71664 Tw (session with active graphics windows by using VNC. DMTCP supports) Tj T* 0 Tw 5.86748 Tw (checkpoint-restart of VNC server. In this case, a VNC server can be started) Tj T* 0 Tw 1.912888 Tw (automatically. The process environment is modified to allow the Python interpreter to) Tj T* 0 Tw 1.20048 Tw (communicate with the VNC server instead of the X-window server. For visualization, a) Tj T* 0 Tw 5.673251 Tw (VNC client can be fired automatically to display the graphical window. During) Tj T* 0 Tw 1.001982 Tw (checkpoint, the VNC server is checkpointed as part of the computation, while the VNC) Tj T* 0 Tw 1.312697 Tw (client is not. During restart, the Python session and the VNC server are restored from) Tj T* 0 Tw 5.31148 Tw (their checkpoint images, and a fresh VNC client is launched. This VNC client) Tj T* 0 Tw (communicates with the restored server and displays the graphics to the end user.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 87.42362 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 144 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 118.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 0 106.5 43.2 12 re f*
+.960784 .960784 .862745 rg
+n 50.4 106.5 36 12 re f*
+.960784 .960784 .862745 rg
+n 0 94.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 0 82.5 129.6 12 re f*
+.960784 .960784 .862745 rg
+n 0 70.5 36 12 re f*
+.960784 .960784 .862745 rg
+n 36 70.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 43.2 70.5 93.6 12 re f*
+.960784 .960784 .862745 rg
+n 136.8 70.5 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 0 46.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 0 22.5 129.6 12 re f*
+.960784 .960784 .862745 rg
+n 0 10.5 36 12 re f*
+.960784 .960784 .862745 rg
+n 36 10.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 43.2 10.5 86.4 12 re f*
+.960784 .960784 .862745 rg
+n 129.6 10.5 14.4 12 re f*
+BT 1 0 0 1 0 120 Tm 12 TL /F4 12 Tf .4 .4 .4 rg (...) Tj 0 0 0 rg  T* /F5 12 Tf 0 .501961 0 rg (import) Tj /F4 12 Tf 0 0 0 rg ( ) Tj /F5 12 Tf 0 0 1 rg (dmtcp) Tj /F4 12 Tf 0 0 0 rg  T* .4 .4 .4 rg (...) Tj 0 0 0 rg  T* /F6 12 Tf .25098 .501961 .501961 rg (# Start VNC server) Tj /F4 12 Tf 0 0 0 rg  T* (dmtcp) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (startGraphics) Tj (\(\)) Tj  T*  T* .4 .4 .4 rg (...) Tj 0 0 0 rg  T*  T* /F6 12 Tf .25098 .501961 .501961 rg (# Start VNC viewer) Tj /F4 12 Tf 0 0 0 rg  T* (dmtcp) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (showGraphics) Tj (\(\)) Tj  T*  T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+endobj
+% 'R84': class PDFStream 
+84 0 obj
+% page stream
+<< /Length 5908 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 727.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 10.5 381.6 12 re f*
+.960784 .960784 .862745 rg
+n 0 -1.5 21.6 12 re f*
+BT 1 0 0 1 0 12 Tm 12 TL /F6 12 Tf .25098 .501961 .501961 rg (# generate graphics \(will be shown in the VNC viewer\)) Tj /F4 12 Tf 0 0 0 rg  T* .4 .4 .4 rg (...) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 647.8236 cm
+q
+.960784 .960784 .862745 rg
+n 276.108 -1.5 57.6 12 re f*
+BT 1 0 0 1 0 60 Tm .47448 Tw 12 TL /F1 12 Tf 0 0 0 rg (To understand the algorithm behind the code, we recall some VNC concepts. X-window) Tj T* 0 Tw 3.20148 Tw (supports multiple virtual screens. A VNC server creates a new virtual screen. The) Tj T* 0 Tw .233059 Tw (graphics contained in the VNC server is independent of any X-window screen. The VNC) Tj T* 0 Tw .800751 Tw (server process persists as a daemon. A VNC viewer displays a specified virtual screen) Tj T* 0 Tw 1.577984 Tw (in a window in a console. When python generates graphics, the graphics is sent to a) Tj T* 0 Tw (virtual screen specified by the environment variable ) Tj /F4 12 Tf ($DISPLAY) Tj /F1 12 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 569.8236 cm
+q
+.960784 .960784 .862745 rg
+n 80.03728 58.5 158.4046 12 re f*
+.960784 .960784 .862745 rg
+n 185.7031 46.5 67.12844 12 re f*
+.960784 .960784 .862745 rg
+n 0 10.5 151.859 12 re f*
+.960784 .960784 .862745 rg
+n 325.8898 10.5 143.341 12 re f*
+BT 1 0 0 1 0 60 Tm .00464 Tw 12 TL /F1 12 Tf 0 0 0 rg (The command ) Tj /F4 12 Tf (dmtcp.startGraphics\(\) ) Tj /F1 12 Tf (creates a new X-window screen by creating) Tj T* 0 Tw 2.328443 Tw (a new VNC server and sets the ) Tj /F4 12 Tf ($DISPLAY ) Tj /F1 12 Tf (environment variable to the new virtual) Tj T* 0 Tw 2.797366 Tw (screen. All python graphics are now sent to this new virtual screen. The additional) Tj T* 0 Tw 13.57378 Tw (screen is invisible to the python user until the python command) Tj T* 0 Tw .658961 Tw /F4 12 Tf (dmtcp.showGraphics\(\) ) Tj /F1 12 Tf (is given. The Python Command ) Tj /F4 12 Tf (dmtcp.showGraphics\(\)) Tj T* 0 Tw /F1 12 Tf (operates by invoking a VNC viewer.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 539.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL .119555 Tw (At the time of checkpoint, the VNC server process is checkpointed along with the python) Tj T* 0 Tw (interpretor while the VNC viewer is not checkpointed.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 497.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24 Tm /F1 12 Tf 12 TL 1.645269 Tw (On restart, the VNC server detects the stale connection to the old VNC viewers. The) Tj T* 0 Tw .886697 Tw (VNC server perceives this as the VNC viewer process that has now died. The DMTCP) Tj T* 0 Tw (module then launches anew VNC viewer to connect to the VNC server.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 435.4236 cm
+q
+BT 1 0 0 1 0 29.4 Tm 25.2 TL /F2 21 Tf 0 0 0 rg (Checking Cython with Multiple CPython) Tj T* (Instances) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 357.4236 cm
+q
+BT 1 0 0 1 0 60 Tm .95484 Tw 12 TL /F1 12 Tf 0 0 0 rg (A common problem for compiled versions of Python such as Cython ) Tj /F1 10 Tf 0 0 .501961 rg 6 Ts (Behnel10 ) Tj /F1 12 Tf 0 0 0 rg 0 Ts (is how to) Tj T* 0 Tw 3.568176 Tw (check whether the compiled computation is faithful to the interpreted computation.) Tj T* 0 Tw .550697 Tw (Compilation errors can occur if the compiled code assumes a particular C type, and the) Tj T* 0 Tw 2.08348 Tw (computation violates that assumption for a particular input. Thus, one has to choose) Tj T* 0 Tw 1.41348 Tw (between speed of computation and a guarantee that that the compiled computation is) Tj T* 0 Tw (faithful to the interpreted computation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 315.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24 Tm /F1 12 Tf 12 TL 1.002784 Tw (A typical scenario might be a case in which the compiled Cython version ran for hours) Tj T* 0 Tw .547269 Tw (and produced an unexpected answer. One wishes to also check the answer in a matter) Tj T* 0 Tw (of hours, but pure Python \(CPython\) would take much longer.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 177.4236 cm
+q
+BT 1 0 0 1 0 120 Tm 2.079213 Tw 12 TL /F1 12 Tf 0 0 0 rg (Informally, the solution is known as a ) Tj /F3 12 Tf (fast/slow ) Tj /F1 12 Tf (technique. There is one ) Tj /F3 12 Tf (fast ) Tj /F1 12 Tf (process) Tj T* 0 Tw 2.641776 Tw (\(Cython\), whose correctness is checked by multiple ) Tj /F3 12 Tf (slow ) Tj /F1 12 Tf (processes \(CPython\). The) Tj T* 0 Tw 2.849059 Tw (core idea is to run the compiled code, while creating checkpoint images at regular) Tj T* 0 Tw .578706 Tw (intervals. A compiled computation interval is checked by copying the two corresponding) Tj T* 0 Tw .974126 Tw (checkpoints \(at the beginning and end of the interval\) to a separate computer node for) Tj T* 0 Tw .52948 Tw (checking. The computation is restarted from the first checkpoint image, on the checking) Tj T* 0 Tw 2.898905 Tw (node. But when the computation is first restarted, the variables for all user Python) Tj T* 0 Tw 1.306597 Tw (functions are set to the interpreted function object. The interval of computation is then) Tj T* 0 Tw .589366 Tw (re-executed in interpreted mode until the end of the computation interval. The results at) Tj T* 0 Tw 1.978221 Tw (the end of that interval can then be compared to the results at the end of the same) Tj T* 0 Tw (interval in compiled mode.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 147.4236 cm
+q
+BT 1 0 0 1 0 12 Tm 3.184126 Tw 12 TL /F1 12 Tf 0 0 0 rg (Figure 1 illustrates the above idea. A similar idea has been used by ) Tj /F1 10 Tf 0 0 .501961 rg 6 Ts (Ghoshal11 ) Tj /F1 12 Tf 0 0 0 rg 0 Ts (for) Tj T* 0 Tw (distributed speculative parallelization.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 141.4236 cm
+Q
+ 
+endstream
+endobj
+% 'R85': class PDFStream 
+85 0 obj
+% page stream
+<< /Length 7848 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 501.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 114.9449 21 cm
+q
+240 0 0 240 0 0 cm
+/FormXob.84ae3b102a6d04326f4119b078982837 Do
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F3 12 Tf 12 TL 70.28688 0 Td (Figure 1: Fast Cython with Slow CPython "checking" nodes.) Tj T* -70.28688 0 Td ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 501.0236 cm
+Q
+q
+1 0 0 1 62.69291 387.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 96 Tm /F1 12 Tf 12 TL 2.47986 Tw (Note that in order to compare the results at the end of a computation interval, it is) Tj T* 0 Tw .330784 Tw (important that the interpreted version on the checker node stop exactly at the end of the) Tj T* 0 Tw .39636 Tw (interval, in order to compare with the results from the checkpoint at the end of the same) Tj T* 0 Tw .293986 Tw (interval. The simplest way to do this is to add a counter to a frequently called function of) Tj T* 0 Tw 1.205982 Tw (the end-user code. The counter is incremented each time the function is called. When) Tj T* 0 Tw .92148 Tw (the counter reaches a pre-arranged multiple \(for example, after every million calls\), the) Tj T* 0 Tw 1.358126 Tw (compiled version can generate a checkpoint and write to a file the values of variables) Tj T* 0 Tw .21384 Tw (indicating the state of the computation. The interpreted version writes to a file the values) Tj T* 0 Tw (of variables indicating its own state of the computation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 149.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 228 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 202.5 64.8 12 re f*
+.960784 .960784 .862745 rg
+n 72 202.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 86.4 202.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 0 190.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 190.5 144 12 re f*
+.960784 .960784 .862745 rg
+n 172.8 190.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 180 190.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 187.2 190.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 216 190.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 223.2 190.5 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 178.5 43.2 12 re f*
+.960784 .960784 .862745 rg
+n 79.2 178.5 64.8 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 166.5 64.8 12 re f*
+.960784 .960784 .862745 rg
+n 100.8 166.5 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 122.4 166.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 154.5 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 50.4 154.5 64.8 12 re f*
+.960784 .960784 .862745 rg
+n 122.4 154.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 136.8 154.5 50.4 12 re f*
+.960784 .960784 .862745 rg
+n 194.4 154.5 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 216 154.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 223.2 154.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 57.6 142.5 165.6 12 re f*
+.960784 .960784 .862745 rg
+n 57.6 130.5 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 79.2 130.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 108 130.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 115.2 130.5 144 12 re f*
+.960784 .960784 .862745 rg
+n 259.2 130.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 273.6 130.5 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 295.2 130.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 324 130.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 331.2 130.5 36 12 re f*
+.960784 .960784 .862745 rg
+n 367.2 130.5 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 86.4 118.5 295.2 12 re f*
+.960784 .960784 .862745 rg
+n 86.4 106.5 36 12 re f*
+.960784 .960784 .862745 rg
+n 122.4 106.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 129.6 106.5 72 12 re f*
+.960784 .960784 .862745 rg
+n 201.6 106.5 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 86.4 94.5 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 108 94.5 36 12 re f*
+.960784 .960784 .862745 rg
+n 144 94.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 151.2 94.5 64.8 12 re f*
+.960784 .960784 .862745 rg
+n 216 94.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 115.2 82.5 208.8 12 re f*
+.960784 .960784 .862745 rg
+n 115.2 70.5 187.2 12 re f*
+.960784 .960784 .862745 rg
+n 57.6 58.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 86.4 58.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 100.8 58.5 208.8 12 re f*
+.960784 .960784 .862745 rg
+n 86.4 46.5 324 12 re f*
+.960784 .960784 .862745 rg
+n 86.4 34.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 108 34.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 115.2 34.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 144 34.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 151.2 34.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 158.4 34.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 22.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 10.5 280.8 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 -1.5 43.2 12 re f*
+BT 1 0 0 1 0 204 Tm 12 TL /F4 12 Tf 0 0 0 rg (mycounter) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg  T* /F5 12 Tf 0 .501961 0 rg (def) Tj /F4 12 Tf 0 0 0 rg ( ) Tj 0 0 1 rg (freq_called_user_fnc) Tj 0 0 0 rg (\() Tj .4 .4 .4 rg (<) Tj 0 0 0 rg (args) Tj .4 .4 .4 rg (>) Tj 0 0 0 rg (\):) Tj  T* (    ) Tj /F5 12 Tf 0 .501961 0 rg (global) Tj /F4 12 Tf 0 0 0 rg ( ) Tj (mycounter) Tj  T* (    ) Tj (mycounter) Tj ( ) Tj .4 .4 .4 rg (+=) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg  T* (    ) Tj /F5 12 Tf 0 .501961 0 rg (if) Tj /F4 12 Tf 0 0 0 rg ( ) Tj (mycounter) Tj ( ) Tj .4 .4 .4 rg (%) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (1000000) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (:) Tj  T* (        ) Tj /F6 12 Tf .25098 .501961 .501961 rg (# if running as Cython:) Tj /F4 12 Tf 0 0 0 rg  T* (        ) Tj /F5 12 Tf 0 .501961 0 rg (if) Tj /F4 12 Tf 0 0 0 rg ( ) Tj 0 .501961 0 rg (type) Tj 0 0 0 rg (\() Tj (freq_called_user_fnc) Tj (\)) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj 0 .501961 0 rg (type) Tj 0 0 0 rg (\() Tj 0 .501961 0 rg (range) Tj 0 0 0 rg (\):) Tj  T* (            ) Tj /F6 12 Tf .25098 .501961 .501961 rg (# write curr. program state to cython.log) Tj /F4 12 Tf 0 0 0 rg  T* (            ) Tj (dmtcp) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (checkpoint) Tj (\(\)) Tj  T* (            ) Tj /F5 12 Tf 0 .501961 0 rg (if) Tj /F4 12 Tf 0 0 0 rg ( ) Tj (dmtcp) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (isRestart) Tj (\(\):) Tj  T* (                ) Tj /F6 12 Tf .25098 .501961 .501961 rg (# On restart from ckpt image,) Tj /F4 12 Tf 0 0 0 rg  T* (                ) Tj /F6 12 Tf .25098 .501961 .501961 rg (#   switch to pure Python.) Tj /F4 12 Tf 0 0 0 rg  T* (        ) Tj /F5 12 Tf 0 .501961 0 rg (else) Tj /F4 12 Tf 0 0 0 rg (:) Tj ( ) Tj /F6 12 Tf .25098 .501961 .501961 rg (# else running as pure Python) Tj /F4 12 Tf 0 0 0 rg  T* (            ) Tj /F6 12 Tf .25098 .501961 .501961 rg (# write curr. program state to purePython.log) Tj /F4 12 Tf 0 0 0 rg  T* (            ) Tj (sys) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (exit) Tj (\() Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (\)) Tj  T* (    ) Tj .4 .4 .4 rg (...) Tj 0 0 0 rg  T* (    ) Tj /F6 12 Tf .25098 .501961 .501961 rg (# original body of freq_called_user_fnc) Tj /F4 12 Tf 0 0 0 rg  T* (    ) Tj /F5 12 Tf 0 .501961 0 rg (return) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 81.82362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 48 Tm /F1 12 Tf 12 TL 5.770176 Tw (The above code block illustrates the principles. One compares cython.log and) Tj T* 0 Tw .690905 Tw (purePython.log to determine if the compiled code was faithful to the interpreted code. If) Tj T* 0 Tw 3.502697 Tw (the Cython code consists of direct C calls between functions, then it will also be) Tj T* 0 Tw .821184 Tw (necessary to modify the functions of the C code generated by Cython, to force them to) Tj T* 0 Tw (call the pure Python functions on restart after a checkpoint.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R86': class PDFStream 
+86 0 obj
+% page stream
+<< /Length 4697 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 739.8236 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf 0 0 0 rg (Reversible Debugging with FReD) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 673.8236 cm
+q
+.960784 .960784 .862745 rg
+n 80.54256 22.5 36.83952 12 re f*
+.960784 .960784 .862745 rg
+n 346.5312 22.5 29.63952 12 re f*
+.960784 .960784 .862745 rg
+n 141.2406 10.5 29.54809 12 re f*
+BT 1 0 0 1 0 48 Tm 1.924136 Tw 12 TL /F1 12 Tf 0 0 0 rg (While debugging a program, often the programmer over steps and has to restart the) Tj T* 0 Tw 1.063069 Tw (debugging session. For example, while debugging a program, if the programmer steps) Tj T* 0 Tw .83952 Tw (over \(by issue ) Tj /F4 12 Tf (next ) Tj /F1 12 Tf (command inside the debugger\) a function ) Tj /F4 12 Tf (f\(\) ) Tj /F1 12 Tf (only to determine) Tj T* 0 Tw .748093 Tw (that the bug is in function ) Tj /F4 12 Tf (f\(\) ) Tj /F1 12 Tf (itself, he or she is left with no choice but to restart from) Tj T* 0 Tw (the beginning.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 607.8236 cm
+q
+.960784 .960784 .862745 rg
+n 384.7535 34.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 322.462 22.5 94.74778 12 re f*
+.960784 .960784 .862745 rg
+n 340.2584 10.5 36.53046 12 re f*
+BT 1 0 0 1 0 48 Tm .346597 Tw 12 TL /F3 12 Tf 0 0 0 rg (Reversible debugging ) Tj /F1 12 Tf (is the capability to run an application "backwards" in time inside a) Tj T* 0 Tw 2.416136 Tw (debugger. If the programmer detects that the problem is in function ) Tj /F4 12 Tf (f\(\)) Tj /F1 12 Tf (, instead of) Tj T* 0 Tw 1.147776 Tw (restarting from the beginning, the programmer can issue a ) Tj /F4 12 Tf (reverse-next ) Tj /F1 12 Tf (command) Tj T* 0 Tw .530457 Tw (which takes it to the previous step. He or she can then issue a ) Tj /F4 12 Tf (step ) Tj /F1 12 Tf (command to step) Tj T* 0 Tw (into the function in order to find the problem.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 601.8236 cm
+Q
+q
+1 0 0 1 62.69291 337.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 114.9449 21 cm
+q
+240 0 0 240 0 0 cm
+/FormXob.84ae3b102a6d04326f4119b078982837 Do
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F3 12 Tf 12 TL 132.2429 0 Td (Figure 2: Fast Reversible Debugger.) Tj T* -132.2429 0 Td ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 337.8236 cm
+Q
+q
+1 0 0 1 62.69291 283.8236 cm
+q
+BT 1 0 0 1 0 36 Tm 2.308706 Tw 12 TL /F1 12 Tf 0 0 0 rg (FReD \(Fast Reversible Debugger\) ) Tj /F1 10 Tf 0 0 .501961 rg 6 Ts (Arya12) Tj /F1 12 Tf 0 0 0 rg 0 Ts (, ) Tj /F1 10 Tf 0 0 .501961 rg 6 Ts (FReD13 ) Tj /F1 12 Tf 0 0 0 rg 0 Ts (is a reversible debugger based on) Tj T* 0 Tw .286597 Tw (checkpoint-restart. FReD is implemented as a set of Python scripts and uses DMTCP to) Tj T* 0 Tw 4.395797 Tw (create checkpoints during the debugging session. FReD also keeps track of the) Tj T* 0 Tw (debugging history. Figure 2 shows the architecture of FReD.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 250.2236 cm
+q
+BT 1 0 0 1 0 3.6 Tm 21.6 TL /F2 18 Tf 0 0 0 rg (A Simple UNDO Command) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 208.2236 cm
+q
+.960784 .960784 .862745 rg
+n 0 10.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 41.13652 10.5 70.46452 12 re f*
+.960784 .960784 .862745 rg
+n 131.2696 10.5 43.2 12 re f*
+BT 1 0 0 1 0 24 Tm 2.14248 Tw 12 TL /F1 12 Tf 0 0 0 rg (The ) Tj /F3 12 Tf (UNDO ) Tj /F1 12 Tf (command reverses the effect of a previous debugger command such as) Tj T* 0 Tw 5.664524 Tw /F4 12 Tf (next) Tj /F1 12 Tf (, ) Tj /F4 12 Tf (continue ) Tj /F1 12 Tf (or ) Tj /F4 12 Tf (finish) Tj /F1 12 Tf (. This is the most basic of reversible debugging) Tj T* 0 Tw (commands.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 166.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24 Tm /F1 12 Tf 12 TL .883069 Tw (The functionality of the UNDO command for debugging Python is trivially implemented.) Tj T* 0 Tw 3.398784 Tw (A checkpoint is taken at the beginning of the debugging session and a list of all) Tj T* 0 Tw (debugging commands issued since the checkpoint are recorded.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 112.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 36 Tm /F1 12 Tf 12 TL 5.367797 Tw (To execute the UNDO command, the debugging session is restarted from the) Tj T* 0 Tw .034176 Tw (checkpoint image, and the debugging commands are automatically re-executed from the) Tj T* 0 Tw 1.769982 Tw (list excluding the last command. This takes the process back to before the debugger) Tj T* 0 Tw (command was issued.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 82.22362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL .69248 Tw (In longer debugging sessions, checkpoints are taken at frequent intervals to reduce the) Tj T* 0 Tw (time spent in replaying the debugging history.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R87': class PDFStream 
+87 0 obj
+% page stream
+<< /Length 3491 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 743.4236 cm
+q
+BT 1 0 0 1 0 3.6 Tm 21.6 TL /F2 18 Tf 0 0 0 rg (More complex reverse commands) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 731.4236 cm
+Q
+q
+1 0 0 1 62.69291 467.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 114.9449 21 cm
+q
+240 0 0 240 0 0 cm
+/FormXob.84ae3b102a6d04326f4119b078982837 Do
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F3 12 Tf 12 TL 147.2549 0 Td (Figure 3: Reverse Commands.) Tj T* -147.2549 0 Td ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 467.4236 cm
+Q
+q
+1 0 0 1 62.69291 437.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL .028136 Tw (Figure 3 shows some typical debugging commands being executed in forward as well as) Tj T* 0 Tw (backward direction in time.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 359.4236 cm
+q
+.960784 .960784 .862745 rg
+n 258.2884 58.5 86.89548 12 re f*
+.960784 .960784 .862745 rg
+n 0 46.5 38.72452 12 re f*
+.960784 .960784 .862745 rg
+n 448.8178 46.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 177.2111 22.5 94.54978 12 re f*
+.960784 .960784 .862745 rg
+n 380.1538 10.5 86.4 12 re f*
+BT 1 0 0 1 0 60 Tm .49548 Tw 12 TL /F1 12 Tf 0 0 0 rg (Suppose that the debugging history appears as ) Tj /F4 12 Tf ([next,next] ) Tj /F1 12 Tf (i.e. the user issued two) Tj T* 0 Tw 2.724524 Tw /F4 12 Tf (next ) Tj /F1 12 Tf (commands. Further, the second next command stepped over a function ) Tj /F4 12 Tf (f\(\)) Tj /F1 12 Tf (.) Tj T* 0 Tw 1.19448 Tw (Suppose further that FReD takes checkpoints before each of these commands. In this) Tj T* 0 Tw .949776 Tw (situation, the implementation for ) Tj /F4 12 Tf (reverse-next ) Tj /F1 12 Tf (command is trivial: one restarts from) Tj T* 0 Tw 3.134976 Tw (the last checkpoint image. However, if the command issued were ) Tj /F4 12 Tf (reverse-step) Tj /F1 12 Tf (,) Tj T* 0 Tw (simply restarting from the previous checkpoint would not suffice.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 257.4236 cm
+q
+.960784 .960784 .862745 rg
+n 47.5547 70.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 33.74597 46.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 0 34.5 115.2 12 re f*
+.960784 .960784 .862745 rg
+n 115.2 34.5 8.895307 12 re f*
+.960784 .960784 .862745 rg
+n 124.0953 34.5 100.8 12 re f*
+.960784 .960784 .862745 rg
+n 376.4485 22.5 37.42525 12 re f*
+.960784 .960784 .862745 rg
+n 420.5201 10.5 40.70561 12 re f*
+BT 1 0 0 1 0 84 Tm .095633 Tw 12 TL /F1 12 Tf 0 0 0 rg (In this last case, the desired behavior is to take the debugger to the last statement of the) Tj T* 0 Tw 2.194697 Tw (function ) Tj /F4 12 Tf (f\(\)) Tj /F1 12 Tf (. In such a situation one needs to decompose the last command into a) Tj T* 0 Tw .023584 Tw (series of commands. At the end of this decomposition, the last command in the history is) Tj T* 0 Tw 23.73797 Tw (a ) Tj /F4 12 Tf (step) Tj /F1 12 Tf (. At this point, the history may appear as:) Tj T* 0 Tw 1.695307 Tw /F4 12 Tf ([next,step,next,) Tj ( ) Tj (...,next,step]) Tj /F1 12 Tf (. The process is then restarted from the last) Tj T* 0 Tw 1.425251 Tw (checkpoint and the debugging history is executed excluding the last ) Tj /F4 12 Tf (step ) Tj /F1 12 Tf (command.) Tj T* 0 Tw 4.705615 Tw (Decomposing a command into a series of commands terminating with ) Tj /F4 12 Tf (step ) Tj /F1 12 Tf (is) Tj T* 0 Tw (non-trivial, and an algorithm for that decomposition is presented in ) Tj /F1 10 Tf 0 0 .501961 rg 6 Ts (Visan11 ) Tj /F1 12 Tf 0 0 0 rg 0 Ts (.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R88': class PDFStream 
+88 0 obj
+% page stream
+<< /Length 10417 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 747.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F7 15 Tf 0 0 0 rg (A typical debugging session in FReD with Python) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 581.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 156 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 130.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 14.4 130.5 50.4 12 re f*
+.960784 .960784 .862745 rg
+n 64.8 130.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 72 130.5 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 93.6 130.5 43.2 12 re f*
+.960784 .960784 .862745 rg
+n 144 130.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 151.2 130.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 187.2 130.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 194.4 130.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 201.6 130.5 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 0 118.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 7.2 118.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 118.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 43.2 118.5 36 12 re f*
+.960784 .960784 .862745 rg
+n 86.4 118.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 0 106.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 7.2 106.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 106.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 43.2 106.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 0 94.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 7.2 94.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 94.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 43.2 94.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 72 94.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 79.2 94.5 72 12 re f*
+.960784 .960784 .862745 rg
+n 0 82.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 7.2 82.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 82.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 43.2 82.5 36 12 re f*
+.960784 .960784 .862745 rg
+n 86.4 82.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 0 70.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 7.2 70.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 70.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 43.2 70.5 57.6 12 re f*
+.960784 .960784 .862745 rg
+n 0 58.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 7.2 58.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 58.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 43.2 58.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 72 58.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 79.2 58.5 50.4 12 re f*
+.960784 .960784 .862745 rg
+n 14.4 46.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 21.6 46.5 36 12 re f*
+.960784 .960784 .862745 rg
+n 64.8 46.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 72 46.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 86.4 46.5 57.6 12 re f*
+.960784 .960784 .862745 rg
+n 144 46.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 0 34.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 7.2 34.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 34.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 43.2 34.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 72 34.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 79.2 34.5 50.4 12 re f*
+.960784 .960784 .862745 rg
+n 129.6 34.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 136.8 34.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 0 22.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 7.2 22.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 22.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 43.2 22.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 72 22.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 79.2 22.5 50.4 12 re f*
+.960784 .960784 .862745 rg
+n 14.4 10.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 21.6 10.5 36 12 re f*
+.960784 .960784 .862745 rg
+n 64.8 10.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 72 10.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 86.4 10.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 115.2 10.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 129.6 10.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 158.4 10.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 172.8 10.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 201.6 10.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 216 10.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 244.8 10.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 259.2 10.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 288 10.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 302.4 10.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 331.2 10.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 345.6 10.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 374.4 10.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 21.6 -1.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 50.4 -1.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 64.8 -1.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 93.6 -1.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 108 -1.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 136.8 -1.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 151.2 -1.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 180 -1.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 194.4 -1.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 223.2 -1.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 237.6 -1.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 266.4 -1.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 280.8 -1.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 309.6 -1.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 324 -1.5 36 12 re f*
+.960784 .960784 .862745 rg
+n 360 -1.5 7.2 12 re f*
+BT 1 0 0 1 0 132 Tm 12 TL /F4 12 Tf 0 0 0 rg ($) Tj ( ) Tj (fredapp) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (py) Tj ( ) Tj (python) Tj ( ) Tj .4 .4 .4 rg (-) Tj 0 0 0 rg (mpdb) Tj ( ) Tj (a) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (py) Tj  T* (\() Tj (Pdb) Tj (\)) Tj ( ) Tj /F5 12 Tf 0 .501961 0 rg (break) Tj /F4 12 Tf 0 0 0 rg ( ) Tj (main) Tj  T* (\() Tj (Pdb) Tj (\)) Tj ( ) Tj (run) Tj  T* (\() Tj (Pdb) Tj (\)) Tj ( ) Tj (fred) Tj .4 .4 .4 rg (-) Tj 0 0 0 rg (checkpoint) Tj  T* (\() Tj (Pdb) Tj (\)) Tj ( ) Tj /F5 12 Tf 0 .501961 0 rg (break) Tj /F4 12 Tf 0 0 0 rg ( ) Tj .4 .4 .4 rg (6) Tj 0 0 0 rg  T* (\() Tj (Pdb) Tj (\)) Tj ( ) Tj /F5 12 Tf 0 .501961 0 rg (continue) Tj /F4 12 Tf 0 0 0 rg  T* (\() Tj (Pdb) Tj (\)) Tj ( ) Tj (fred) Tj .4 .4 .4 rg (-) Tj 0 0 0 rg (history) Tj  T* (  ) Tj ([) Tj /F5 12 Tf 0 .501961 0 rg (break) Tj /F4 12 Tf 0 0 0 rg ( ) Tj .4 .4 .4 rg (6) Tj 0 0 0 rg (,) Tj ( ) Tj /F5 12 Tf 0 .501961 0 rg (continue) Tj /F4 12 Tf 0 0 0 rg (]) Tj  T* (\() Tj (Pdb) Tj (\)) Tj ( ) Tj (fred) Tj .4 .4 .4 rg (-) Tj 0 0 0 rg (reverse) Tj .4 .4 .4 rg (-) Tj 0 .501961 0 rg (next) Tj 0 0 0 rg  T* (\() Tj (Pdb) Tj (\)) Tj ( ) Tj (fred) Tj .4 .4 .4 rg (-) Tj 0 0 0 rg (history) Tj  T* (  ) Tj ([) Tj /F5 12 Tf 0 .501961 0 rg (break) Tj /F4 12 Tf 0 0 0 rg ( ) Tj .4 .4 .4 rg (7) Tj 0 0 0 rg (,) Tj ( ) Tj 0 .501961 0 rg (next) Tj 0 0 0 rg (,) Tj ( ) Tj 0 .501961 0 rg (next) Tj 0 0 0 rg (,) Tj ( ) Tj 0 .501961 0 rg (next) Tj 0 0 0 rg (,) Tj ( ) Tj 0 .501961 0 rg (next) Tj 0 0 0 rg (,) Tj ( ) Tj 0 .501961 0 rg (next) Tj 0 0 0 rg (,) Tj ( ) Tj 0 .501961 0 rg (next) Tj 0 0 0 rg (,) Tj ( ) Tj 0 .501961 0 rg (next) Tj 0 0 0 rg (,) Tj  T* (   ) Tj 0 .501961 0 rg (next) Tj 0 0 0 rg (,) Tj ( ) Tj 0 .501961 0 rg (next) Tj 0 0 0 rg (,) Tj ( ) Tj 0 .501961 0 rg (next) Tj 0 0 0 rg (,) Tj ( ) Tj (step) Tj (,) Tj ( ) Tj 0 .501961 0 rg (next) Tj 0 0 0 rg (,) Tj ( ) Tj 0 .501961 0 rg (next) Tj 0 0 0 rg (,) Tj ( ) Tj 0 .501961 0 rg (next) Tj 0 0 0 rg (,) Tj ( ) Tj (where) Tj (]) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 548.2236 cm
+q
+BT 1 0 0 1 0 3.6 Tm 21.6 TL /F2 18 Tf 0 0 0 rg (Reverse Expression Watchpoints) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 494.2236 cm
+q
+BT 1 0 0 1 0 36 Tm 2.52948 Tw 12 TL /F1 12 Tf 0 0 0 rg (The ) Tj /F3 12 Tf (reverse expression watchpoint ) Tj /F1 12 Tf (automatically finds the location of the fault for a) Tj T* 0 Tw .778784 Tw (given expression in the history of the program execution. It brings the user directly to a) Tj T* 0 Tw 3.54984 Tw (statement \(one that is not a function call\) at which the expression is correct, but) Tj T* 0 Tw (executing the statement will cause the expression to become incorrect.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 488.2236 cm
+Q
+q
+1 0 0 1 62.69291 224.2236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 114.9449 21 cm
+q
+240 0 0 240 0 0 cm
+/FormXob.84ae3b102a6d04326f4119b078982837 Do
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F3 12 Tf 12 TL 116.5709 0 Td (Figure 4: Reverse Expression Watchpoint.) Tj T* -116.5709 0 Td ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 224.2236 cm
+Q
+q
+1 0 0 1 62.69291 122.2236 cm
+q
+.960784 .960784 .862745 rg
+n 0 58.5 122.4 12 re f*
+.960784 .960784 .862745 rg
+n 122.4 58.5 7.82016 12 re f*
+.960784 .960784 .862745 rg
+n 130.2202 58.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 137.4202 58.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 144.6202 58.5 7.82016 12 re f*
+.960784 .960784 .862745 rg
+n 152.4403 58.5 58.22016 12 re f*
+.960784 .960784 .862745 rg
+n 43.34998 34.5 53.06998 12 re f*
+.960784 .960784 .862745 rg
+n 298.5178 34.5 38.66998 12 re f*
+BT 1 0 0 1 0 84 Tm 1.217555 Tw 12 TL /F1 12 Tf 0 0 0 rg (Figure 4 provides a simple example. Assume that a bug occurs whenever a linked list) Tj T* 0 Tw 23.88522 Tw (has length longer than one million. So an expression) Tj T* 0 Tw .62016 Tw /F4 12 Tf (linked_list.len\(\)) Tj ( ) Tj (<) Tj (=) Tj ( ) Tj (1000000 ) Tj /F1 12 Tf (is assumed to be true throughout. Assume that it) Tj T* 0 Tw 2.262412 Tw (is too expensive to frequently compute the length of the linked list, since this would) Tj T* 0 Tw 2.669982 Tw (require ) Tj /F4 12 Tf (O\(n^2\) ) Tj /F1 12 Tf (time in what would otherwise be a ) Tj /F4 12 Tf (O\(n\) ) Tj /F1 12 Tf (time algorithm. \(A more) Tj T* 0 Tw .80848 Tw (sophisticated example might consider a bug in an otherwise duplicate-free linked list or) Tj T* 0 Tw .540443 Tw (an otherwise cycle-free graph. But the current example is chosen for ease of illustrating) Tj T* 0 Tw (the ideas.\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 80.22362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24 Tm /F1 12 Tf 12 TL 2.983654 Tw (If the length of the linked list is less than or equal to one million, we will call the) Tj T* 0 Tw .86511 Tw (expression "good". If the length of the linked list is greater than one million, we will call) Tj T* 0 Tw .372384 Tw (the expression "bad". A "bug" is defined as a transition from "good" to "bad". There may) Tj T* 0 Tw ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R89': class PDFStream 
+89 0 obj
+% page stream
+<< /Length 14826 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL .56436 Tw (be more than one such transition or bug over the process lifetime. Our goal is simply to) Tj T* 0 Tw (find any one occurrence of the bug.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 687.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 36 Tm /F1 12 Tf 12 TL .913184 Tw (The core of a reverse expression watchpoint is a binary search. In Figure 4, assume a) Tj T* 0 Tw .999584 Tw (checkpoint was taken near the beginning of the time interval. So, we can revert to any) Tj T* 0 Tw 4.30948 Tw (point in the illustrated time interval by restarting from the checkpoint image and) Tj T* 0 Tw (re-executing the history of debugging commands until the desired point in time.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 609.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 60 Tm /F1 12 Tf 12 TL .66232 Tw (Since the expression is "good" at the beginning of Figure 4 and it is "bad" at the end of) Tj T* 0 Tw 1.87152 Tw (that figure, there must exist a buggy statement : a statement exhibiting the transition) Tj T* 0 Tw .85584 Tw (from "good" to "bad". A standard binary search algorithm converges to a case in which) Tj T* 0 Tw .622597 Tw (the current statement is "good" and the next statement transitions from "good" to "bad".) Tj T* 0 Tw 3.010784 Tw (By the earlier definition of a "bug", FReD has found a statement with a bug. This) Tj T* 0 Tw (represents success.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 543.0236 cm
+q
+.960784 .960784 .862745 rg
+n 119.0459 34.5 43.2 12 re f*
+.960784 .960784 .862745 rg
+n 162.2459 34.5 8.61148 12 re f*
+.960784 .960784 .862745 rg
+n 170.8574 34.5 15.81148 12 re f*
+BT 1 0 0 1 0 48 Tm 1.30848 Tw 12 TL /F1 12 Tf 0 0 0 rg (If implemented naively, this binary search requires that some statements may need to) Tj T* 0 Tw 1.41148 Tw (be re-executed up to ) Tj /F4 12 Tf (\\log_2) Tj ( ) Tj (N ) Tj /F1 12 Tf (times. However, FReD can also create intermediate) Tj T* 0 Tw .909984 Tw (checkpoints. In the worst case, one can form a checkpoint at each phase of the binary) Tj T* 0 Tw 3.976136 Tw (search. In that case, no particular sub-interval over the time period needs to be) Tj T* 0 Tw (executed more than twice.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 513.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F7 15 Tf 0 0 0 rg (A typical use of reverse-expression-watchpoint) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 239.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 264 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 238.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 14.4 238.5 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 238.5 50.4 12 re f*
+.960784 .960784 .862745 rg
+n 79.2 238.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 86.4 238.5 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 108 238.5 43.2 12 re f*
+.960784 .960784 .862745 rg
+n 158.4 238.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 165.6 238.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 201.6 238.5 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 216 238.5 64.8 12 re f*
+.960784 .960784 .862745 rg
+n 280.8 238.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 288 238.5 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 0 226.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 7.2 226.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 21.6 226.5 43.2 12 re f*
+.960784 .960784 .862745 rg
+n 72 226.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 93.6 226.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 108 226.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 0 214.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 7.2 214.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 214.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 43.2 214.5 36 12 re f*
+.960784 .960784 .862745 rg
+n 86.4 214.5 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 14.4 202.5 72 12 re f*
+.960784 .960784 .862745 rg
+n 93.6 202.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 108 202.5 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 129.6 202.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 136.8 202.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 165.6 202.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 172.8 202.5 36 12 re f*
+.960784 .960784 .862745 rg
+n 208.8 202.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 216 202.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 244.8 202.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 252 202.5 64.8 12 re f*
+.960784 .960784 .862745 rg
+n 316.8 202.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 324 202.5 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 338.4 202.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 345.6 202.5 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 0 190.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 7.2 190.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 190.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 43.2 190.5 57.6 12 re f*
+.960784 .960784 .862745 rg
+n 14.4 178.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 178.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 36 178.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 64.8 178.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 72 178.5 36 12 re f*
+.960784 .960784 .862745 rg
+n 108 178.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 115.2 178.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 144 178.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 151.2 178.5 64.8 12 re f*
+.960784 .960784 .862745 rg
+n 216 178.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 223.2 178.5 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 237.6 178.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 244.8 178.5 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 259.2 178.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 266.4 178.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 273.6 178.5 43.2 12 re f*
+.960784 .960784 .862745 rg
+n 316.8 178.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 324 178.5 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 0 166.5 237.6 12 re f*
+.960784 .960784 .862745 rg
+n 0 154.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 7.2 154.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 154.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 43.2 154.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 72 154.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 79.2 154.5 72 12 re f*
+.960784 .960784 .862745 rg
+n 0 142.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 7.2 142.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 142.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 43.2 142.5 36 12 re f*
+.960784 .960784 .862745 rg
+n 86.4 142.5 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 14.4 130.5 72 12 re f*
+.960784 .960784 .862745 rg
+n 93.6 130.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 108 130.5 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 129.6 130.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 136.8 130.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 165.6 130.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 172.8 130.5 36 12 re f*
+.960784 .960784 .862745 rg
+n 208.8 130.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 216 130.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 244.8 130.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 252 130.5 64.8 12 re f*
+.960784 .960784 .862745 rg
+n 316.8 130.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 324 130.5 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 338.4 130.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 345.6 130.5 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 0 118.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 7.2 118.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 118.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 43.2 118.5 57.6 12 re f*
+.960784 .960784 .862745 rg
+n 14.4 106.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 50.4 106.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 57.6 106.5 50.4 12 re f*
+.960784 .960784 .862745 rg
+n 115.2 106.5 43.2 12 re f*
+.960784 .960784 .862745 rg
+n 158.4 106.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 172.8 106.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 14.4 94.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 94.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 36 94.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 64.8 94.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 72 94.5 36 12 re f*
+.960784 .960784 .862745 rg
+n 108 94.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 115.2 94.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 144 94.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 151.2 94.5 64.8 12 re f*
+.960784 .960784 .862745 rg
+n 216 94.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 223.2 94.5 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 237.6 94.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 244.8 94.5 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 259.2 94.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 266.4 94.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 273.6 94.5 43.2 12 re f*
+.960784 .960784 .862745 rg
+n 316.8 94.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 324 94.5 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 0 82.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 7.2 82.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 82.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 43.2 82.5 36 12 re f*
+.960784 .960784 .862745 rg
+n 86.4 82.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 14.4 70.5 14.4 12 re f*
+.960784 .960784 .862745 rg
+n 0 58.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 7.2 58.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 58.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 43.2 58.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 72 58.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 79.2 58.5 50.4 12 re f*
+.960784 .960784 .862745 rg
+n 129.6 58.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 136.8 58.5 36 12 re f*
+.960784 .960784 .862745 rg
+n 180 58.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 208.8 58.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 223.2 58.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 0 46.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 7.2 46.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 46.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 43.2 46.5 36 12 re f*
+.960784 .960784 .862745 rg
+n 86.4 46.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 14.4 34.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 0 22.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 7.2 22.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 22.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 43.2 22.5 28.8 12 re f*
+.960784 .960784 .862745 rg
+n 0 10.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 7.2 10.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 28.8 10.5 7.2 12 re f*
+.960784 .960784 .862745 rg
+n 43.2 10.5 36 12 re f*
+.960784 .960784 .862745 rg
+n 86.4 10.5 21.6 12 re f*
+.960784 .960784 .862745 rg
+n 14.4 -1.5 7.2 12 re f*
+BT 1 0 0 1 0 240 Tm 12 TL /F4 12 Tf 0 0 0 rg ($) Tj ( ) Tj .4 .4 .4 rg (./) Tj 0 0 0 rg (fredapp) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (py) Tj ( ) Tj (python) Tj ( ) Tj .4 .4 .4 rg (-) Tj 0 0 0 rg (mpdb) Tj ( ) Tj .4 .4 .4 rg (./) Tj 0 0 0 rg (autocount) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (py) Tj  T* .4 .4 .4 rg (-) Tj (>) Tj 0 0 0 rg ( ) Tj /F5 12 Tf 0 .501961 0 rg (import) Tj /F4 12 Tf 0 0 0 rg ( ) Tj /F5 12 Tf 0 0 1 rg (sys) Tj /F4 12 Tf .4 .4 .4 rg (,) Tj 0 0 0 rg ( ) Tj /F5 12 Tf 0 0 1 rg (time) Tj /F4 12 Tf 0 0 0 rg  T* (\() Tj (Pdb) Tj (\)) Tj ( ) Tj /F5 12 Tf 0 .501961 0 rg (break) Tj /F4 12 Tf 0 0 0 rg ( ) Tj .4 .4 .4 rg (21) Tj 0 0 0 rg  T* (  ) Tj (Breakpoint) Tj ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg ( ) Tj (at) Tj ( ) Tj .4 .4 .4 rg (/) Tj 0 0 0 rg (home) Tj .4 .4 .4 rg (/) Tj 0 0 0 rg (kapil) Tj .4 .4 .4 rg (/) Tj 0 0 0 rg (fred) Tj .4 .4 .4 rg (/) Tj 0 0 0 rg (autocount) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (py) Tj (:) Tj .4 .4 .4 rg (21) Tj 0 0 0 rg  T* (\() Tj (Pdb) Tj (\)) Tj ( ) Tj /F5 12 Tf 0 .501961 0 rg (continue) Tj /F4 12 Tf 0 0 0 rg  T* (  ) Tj .4 .4 .4 rg (>) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (/) Tj 0 0 0 rg (home) Tj .4 .4 .4 rg (/) Tj 0 0 0 rg (kapil) Tj .4 .4 .4 rg (/) Tj 0 0 0 rg (fred) Tj .4 .4 .4 rg (/) Tj 0 0 0 rg (autocount) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (py) Tj (\() Tj .4 .4 .4 rg (21) Tj 0 0 0 rg (\)) Tj .4 .4 .4 rg (<) Tj 0 0 0 rg (module) Tj .4 .4 .4 rg (>) Tj 0 0 0 rg (\(\)) Tj  T* /F6 12 Tf .25098 .501961 .501961 rg (# Required for fred-reverse-watch) Tj /F4 12 Tf 0 0 0 rg  T* (\() Tj (Pdb) Tj (\)) Tj ( ) Tj (fred) Tj .4 .4 .4 rg (-) Tj 0 0 0 rg (checkpoint) Tj  T* (\() Tj (Pdb) Tj (\)) Tj ( ) Tj /F5 12 Tf 0 .501961 0 rg (break) Tj /F4 12 Tf 0 0 0 rg ( ) Tj .4 .4 .4 rg (28) Tj 0 0 0 rg  T* (  ) Tj (Breakpoint) Tj ( ) Tj .4 .4 .4 rg (2) Tj 0 0 0 rg ( ) Tj (at) Tj ( ) Tj .4 .4 .4 rg (/) Tj 0 0 0 rg (home) Tj .4 .4 .4 rg (/) Tj 0 0 0 rg (kapil) Tj .4 .4 .4 rg (/) Tj 0 0 0 rg (fred) Tj .4 .4 .4 rg (/) Tj 0 0 0 rg (autocount) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (py) Tj (:) Tj .4 .4 .4 rg (28) Tj 0 0 0 rg  T* (\() Tj (Pdb) Tj (\)) Tj ( ) Tj /F5 12 Tf 0 .501961 0 rg (continue) Tj /F4 12 Tf 0 0 0 rg  T* (  ) Tj .4 .4 .4 rg (...) Tj 0 0 0 rg (  ) Tj .4 .4 .4 rg (<) Tj 0 0 0 rg (program) Tj ( ) Tj (output) Tj .4 .4 .4 rg (>) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (...) Tj 0 0 0 rg  T* (  ) Tj .4 .4 .4 rg (>) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (/) Tj 0 0 0 rg (home) Tj .4 .4 .4 rg (/) Tj 0 0 0 rg (kapil) Tj .4 .4 .4 rg (/) Tj 0 0 0 rg (fred) Tj .4 .4 .4 rg (/) Tj 0 0 0 rg (autocount) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (py) Tj (\() Tj .4 .4 .4 rg (28) Tj 0 0 0 rg (\)) Tj .4 .4 .4 rg (<) Tj 0 0 0 rg (module) Tj .4 .4 .4 rg (>) Tj 0 0 0 rg (\(\)) Tj  T* (\() Tj (Pdb) Tj (\)) Tj ( ) Tj /F5 12 Tf 0 .501961 0 rg (print) Tj /F4 12 Tf 0 0 0 rg ( ) Tj (num) Tj  T* (  ) Tj .4 .4 .4 rg (10) Tj 0 0 0 rg  T* (\() Tj (Pdb) Tj (\)) Tj ( ) Tj (fred) Tj .4 .4 .4 rg (-) Tj 0 0 0 rg (reverse) Tj .4 .4 .4 rg (-) Tj 0 0 0 rg (watch) Tj ( ) Tj (num) Tj ( ) Tj .4 .4 .4 rg (<) Tj 0 0 0 rg ( ) Tj .4 .4 .4 rg (5) Tj 0 0 0 rg  T* (\() Tj (Pdb) Tj (\)) Tj ( ) Tj /F5 12 Tf 0 .501961 0 rg (print) Tj /F4 12 Tf 0 0 0 rg ( ) Tj (num) Tj  T* (  ) Tj .4 .4 .4 rg (4) Tj 0 0 0 rg  T* (\() Tj (Pdb) Tj (\)) Tj ( ) Tj 0 .501961 0 rg (next) Tj 0 0 0 rg  T* (\() Tj (Pdb) Tj (\)) Tj ( ) Tj /F5 12 Tf 0 .501961 0 rg (print) Tj /F4 12 Tf 0 0 0 rg ( ) Tj (num) Tj  T* (  ) Tj .4 .4 .4 rg (5) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 202.6236 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf 0 0 0 rg (Conclusion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 136.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 48 Tm /F1 12 Tf 12 TL .41948 Tw (DMTCP is a widely used standalone checkpoint-restart package. We have shown that it) Tj T* 0 Tw 3.770976 Tw (can be closely integrated with Python. Specifically, parallel sessions with IPython,) Tj T* 0 Tw .701974 Tw (alternating interpreted and compiled execution modes, graphics, and enhancing Python) Tj T* 0 Tw 1.80648 Tw (debugger with reversibility. The implementation can be extended by the end users to) Tj T* 0 Tw (augment the capabilities of Python beyond the simple example of checkpoint-restart.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R90': class PDFStream 
+90 0 obj
+% page stream
+<< /Length 3068 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 739.8236 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf 0 0 0 rg (Acknowledgment) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 709.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL 2.942706 Tw (This work was partially supported by the National Science Foundation under Grant) Tj T* 0 Tw (OCI-0960978.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 672.6236 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf 0 0 0 rg (References) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 635.4236 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf 0 0 0 rg (Appendix: Background of DMTCP) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 623.4236 cm
+Q
+q
+1 0 0 1 62.69291 359.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 114.9449 21 cm
+q
+240 0 0 240 0 0 cm
+/FormXob.84ae3b102a6d04326f4119b078982837 Do
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F3 12 Tf 12 TL 140.2529 0 Td (Figure 5: Architecture of DMTCP.) Tj T* -140.2529 0 Td ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 359.4236 cm
+Q
+q
+1 0 0 1 62.69291 305.4236 cm
+q
+BT 1 0 0 1 0 36 Tm 2.135979 Tw 12 TL /F1 12 Tf 0 0 0 rg (DMTCP ) Tj /F1 10 Tf 0 0 .501961 rg 6 Ts (Ansel09 ) Tj /F1 12 Tf 0 0 0 rg 0 Ts (is a transparent checkpoint-restart package with its roots going back) Tj T* 0 Tw 3.721213 Tw (eight years ) Tj /F1 10 Tf 0 0 .501961 rg 6 Ts (Rieker06) Tj /F1 12 Tf 0 0 0 rg 0 Ts (. It works completely in user space and does not require any) Tj T* 0 Tw .74352 Tw (changes to the application or the operating system. DMTCP can be used to checkpoint) Tj T* 0 Tw (a variety of user applications including Python.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 275.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL 2.92148 Tw (Using DMTCP to checkpoint an application is as simple as executing the following) Tj T* 0 Tw (commands:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 218.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 24 Tm /F4 12 Tf 12 TL (dmtcp_checkpoint ./a.out) Tj T* (dmtcp_command -c) Tj T* (./dmtcp_restart_script.sh) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 198.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (DMTCP automatically tracks all local and remote child processes and their relationships.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 132.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 48 Tm /F1 12 Tf 12 TL 2.285059 Tw (As seen in Figure 6, a computation running under DMTCP consists of a centralized) Tj T* 0 Tw 1.47648 Tw (coordinator process and several user processes. The user processes may be local or) Tj T* 0 Tw 6.637974 Tw (distributed. User processes may communicate with each other using sockets,) Tj T* 0 Tw 2.339307 Tw (shared-memory, pseudo-terminals, etc. Further, each user process has a checkpoint) Tj T* 0 Tw (thread which communicates with the coordinator.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 98.62362 cm
+q
+BT 1 0 0 1 0 3.6 Tm 21.6 TL /F2 18 Tf 0 0 0 rg (DMTCP Plugins) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 86.62362 cm
+Q
+ 
+endstream
+endobj
+% 'R91': class PDFStream 
+91 0 obj
+% page stream
+<< /Length 3131 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 501.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 114.9449 21 cm
+q
+240 0 0 240 0 0 cm
+/FormXob.84ae3b102a6d04326f4119b078982837 Do
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 0 Tm /F3 12 Tf 12 TL 159.2609 0 Td (Figure 6: DMTCP Plugins.) Tj T* -159.2609 0 Td ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 501.0236 cm
+Q
+q
+1 0 0 1 62.69291 447.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 36 Tm /F1 12 Tf 12 TL .598697 Tw (DMTCP plugins are used to keep DMTCP modular. There is a separate plugin for each) Tj T* 0 Tw 1.41848 Tw (operating system resource. Examples of plugins are pid plugin, socket plugin, and file) Tj T* 0 Tw 4.516888 Tw (plugin. Plugins are responsible for checkpointing and restoring the state of their) Tj T* 0 Tw (corresponding resources.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 381.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 48 Tm /F1 12 Tf 12 TL 1.300176 Tw (The execution environment can change between checkpoint and restart. For example,) Tj T* 0 Tw 2.97348 Tw (the computation might be restarted on a different computer which has different file) Tj T* 0 Tw 2.63848 Tw (mount points, a different network address, etc. Plugins handle such changes in the) Tj T* 0 Tw 3.54816 Tw (execution environment by virtualizing these aspects. Figure 6 shows the layout of) Tj T* 0 Tw (DMTCP plugins within the application.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 347.4236 cm
+q
+BT 1 0 0 1 0 3.6 Tm 21.6 TL /F2 18 Tf 0 0 0 rg (DMTCP Coordinator) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 269.4236 cm
+q
+BT 1 0 0 1 0 60 Tm 1.440576 Tw 12 TL /F1 12 Tf 0 0 0 rg (DMTCP uses a stateless centralized process, the DMTCP coordinator, to synchronize) Tj T* 0 Tw 3.902976 Tw (checkpoint and restart between distributed processes. The user interacts with the) Tj T* 0 Tw 5.666706 Tw (coordinator through the console to initiate checkpoint, check the status of the) Tj T* 0 Tw 2.215269 Tw (computation, kill the computation, etc. It is also possible to run the coordinator as a) Tj T* 0 Tw .97548 Tw (daemon process, in which case, the user may communicate with the coordinator using) Tj T* 0 Tw (the command ) Tj /F4 12 Tf (dmtcp_command) Tj /F1 12 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 235.8236 cm
+q
+BT 1 0 0 1 0 3.6 Tm 21.6 TL /F2 18 Tf 0 0 0 rg (Checkpoint Thread) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 145.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 72 Tm /F1 12 Tf 12 TL .80848 Tw (The checkpoint thread waits for a checkpoint request from the DMTCP coordinator. On) Tj T* 0 Tw 1.119797 Tw (receiving the checkpoint request, the checkpoint thread quiesces the user threads and) Tj T* 0 Tw .739269 Tw (creates the checkpoint image. To quiesce user threads, it installs a signal handler for a) Tj T* 0 Tw 1.42416 Tw (dedicated POSIX signal \(by default, SIGUSR2\). Once the checkpoint image has been) Tj T* 0 Tw 1.366342 Tw (created, the user threads are allowed to resume executing application code. Similarly,) Tj T* 0 Tw 3.19648 Tw (during restart, once the process memory has been restored, the user threads can) Tj T* 0 Tw (resume executing application code.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R92': class PDFStream 
+92 0 obj
+% page stream
+<< /Length 6481 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 743.4236 cm
+q
+BT 1 0 0 1 0 3.6 Tm 21.6 TL /F2 18 Tf 0 0 0 rg (Checkpoint) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 629.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 96 Tm /F1 12 Tf 12 TL .999797 Tw (On receiving the checkpoint request from the coordinator, the checkpoint thread sends) Tj T* 0 Tw 2.405555 Tw (the checkpoint signal to all the user threads of the process. This quiesces the user) Tj T* 0 Tw 1.549269 Tw (threads by forcing them to block inside a signal handler, defined by the DMTCP. The) Tj T* 0 Tw .696443 Tw (checkpoint image is created by writing all of user-space memory to a checkpoint image) Tj T* 0 Tw 1.618597 Tw (file. Each process has its own checkpoint image. Prior to checkpoint, each plugin will) Tj T* 0 Tw 2.640524 Tw (have copied into user-space memory any kernel state associated with its concerns.) Tj T* 0 Tw .703776 Tw (Examples of such concerns include network sockets, files, and pseudo-terminals. Once) Tj T* 0 Tw 1.43616 Tw (the checkpoint image has been created, the checkpoint thread "un-quiesces" the user) Tj T* 0 Tw (threads and they resume executing application code.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 575.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 36 Tm /F1 12 Tf 12 TL .291584 Tw (At the time of checkpoint, all of user-space memory is written to a checkpoint image file.) Tj T* 0 Tw .97448 Tw (The user threads are then allowed to resume execution. Note that user-space memory) Tj T* 0 Tw 1.313555 Tw (includes all of the run-time libraries \(libc, libpthread, etc.\), which are also saved in the) Tj T* 0 Tw (checkpoint image.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 473.4236 cm
+q
+BT 1 0 0 1 0 84 Tm 3.257982 Tw 12 TL /F1 12 Tf 0 0 0 rg (In some cases, state outside the kernel must be saved. For example, in handling) Tj T* 0 Tw .377984 Tw (network sockets, data in flight must be saved. This is done by draining the network data) Tj T* 0 Tw 1.15236 Tw (by sending a ) Tj /F3 12 Tf (special cookie ) Tj /F1 12 Tf (through the "send" end of each socket in one phase. In a) Tj T* 0 Tw .653984 Tw (second phase, after a global barrier, data is read from the "receive" end of each socket) Tj T* 0 Tw 4.078597 Tw (until the special cookie is received. The in-flight data has now been copied into) Tj T* 0 Tw 1.82352 Tw (user-space memory, and so will be included in the checkpoint image. On restart, the) Tj T* 0 Tw .452983 Tw (network buffers are ) Tj /F3 12 Tf (refilled ) Tj /F1 12 Tf (by sending the in-flight data back to the peer process, which) Tj T* 0 Tw (then sends the data back into the network.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 439.8236 cm
+q
+BT 1 0 0 1 0 3.6 Tm 21.6 TL /F2 18 Tf 0 0 0 rg (Restart) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 385.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 36 Tm /F1 12 Tf 12 TL .02211 Tw (As the first step of restart phase, all memory areas of the process are restored. Next, the) Tj T* 0 Tw .75048 Tw (user threads are recreated. The plugins then receive the restart notification and restore) Tj T* 0 Tw 5.44864 Tw (their underlying resources, translation tables, etc. Finally, the checkpoint thread) Tj T* 0 Tw ("un-quiesces" the user threads and the user threads resume executing application code.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 329.1307 cm
+Q
+q
+1 0 0 1 62.69291 300.7843 cm
+n 0 14.17323 m 469.8898 14.17323 l S
+Q
+q
+1 0 0 1 62.69291 252.7843 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 36 cm
+q
+BT 1 0 0 1 0 0 Tm 12 TL /F1 12 Tf 0 0 0 rg (Ansel09\() Tj 0 0 .501961 rg (1) Tj 0 0 0 rg (, ) Tj 0 0 .501961 rg (2) Tj 0 0 0 rg (\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+q
+BT 1 0 0 1 0 36 Tm .754299 Tw 12 TL /F1 12 Tf 0 0 0 rg (Jason Ansel, Kapil Arya, and Gene Cooperman. ) Tj /F3 12 Tf (DMTCP: Transparent) Tj T* 0 Tw 1.835799 Tw (Checkpointing for Cluster Computations and the Desktop) Tj /F1 12 Tf (, 23rd IEEE) Tj T* 0 Tw 6.675732 Tw (International Symposium on Parallel and Distributed Processing) Tj T* 0 Tw (\(IPDPS-09\), 1-12, 2009 ) Tj 0 0 .501961 rg (http://dmtcp.sourceforge.net/) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 216.7843 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 24 cm
+q
+BT 1 0 0 1 0 0 Tm 12 TL /F1 12 Tf 0 0 .501961 rg (Arya12) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+q
+BT 1 0 0 1 0 24 Tm 1.114488 Tw 12 TL /F1 12 Tf 0 0 0 rg (Kapil Arya, Tyler Denniston, Ana Maria Visan, and Gene Cooperman.) Tj T* 0 Tw 2.920299 Tw /F3 12 Tf (FReD: Automated Debugging via Binary Search through a Process) Tj T* 0 Tw (Lifetime) Tj /F1 12 Tf (, ) Tj 0 0 .501961 rg (http://arxiv.org/abs/1212.5204) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 192.7843 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 12 cm
+q
+BT 1 0 0 1 0 0 Tm 12 TL /F1 12 Tf 0 0 .501961 rg (FReD13) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+q
+BT 1 0 0 1 0 12 Tm 35.6966 Tw 12 TL /F1 12 Tf 0 0 0 rg (FReD \(Fast Reversible Debugger\) Software.) Tj T* 0 Tw 0 0 .501961 rg (https://github.com/fred-dbg/fred) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 168.7843 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 12 cm
+q
+BT 1 0 0 1 0 0 Tm 12 TL /F1 12 Tf 0 0 .501961 rg (Behnel10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+q
+BT 1 0 0 1 0 12 Tm .666866 Tw 12 TL /F1 12 Tf 0 0 0 rg (R. Bradshaw, S. Behnel, D. S. Seljebotn, G. Ewing, et al. ) Tj /F3 12 Tf (Cython: The) Tj T* 0 Tw (Best of Both Worlds) Tj /F1 12 Tf (, Computing in Science Engineering, 2010.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 132.7843 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 24 cm
+q
+BT 1 0 0 1 0 0 Tm 12 TL /F1 12 Tf 0 0 .501961 rg (Ghoshal11) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+q
+BT 1 0 0 1 0 24 Tm 3.433485 Tw 12 TL /F1 12 Tf 0 0 0 rg (Devarshi Ghoshal, Sreesudhan R. Ramkumar, and Arun Chauhan.) Tj T* 0 Tw 7.478079 Tw /F3 12 Tf (Distributed Speculative Parallelization using Checkpoint Restart) Tj /F1 12 Tf (,) Tj T* 0 Tw (Procedia Computer Science, 2011.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 96.78425 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 24 cm
+q
+BT 1 0 0 1 0 0 Tm 12 TL /F1 12 Tf 0 0 .501961 rg (Rieker06) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+q
+BT 1 0 0 1 0 24 Tm 4.386628 Tw 12 TL /F1 12 Tf 0 0 0 rg (Michael Rieker, Jason Ansel, and Gene Cooperman. ) Tj /F3 12 Tf (Transparent) Tj T* 0 Tw 3.506799 Tw (User-Level Checkpointing for the Native POSIX Thread Library for) Tj T* 0 Tw (Linux) Tj /F1 12 Tf (, Proceeding of PDPTA-06, 492-498, 2006.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+% 'R93': class PDFStream 
+93 0 obj
+% page stream
+<< /Length 707 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 705.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 48 cm
+q
+BT 1 0 0 1 0 0 Tm 12 TL /F1 12 Tf 0 0 .501961 rg (Visan11) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+q
+BT 1 0 0 1 0 48 Tm 1.171299 Tw 12 TL /F1 12 Tf 0 0 0 rg (Ana-Maria Visan, Kapil Arya, Gene Cooperman, and Tyler Denniston.) Tj T* 0 Tw 4.295771 Tw /F3 12 Tf (URDB: A Universal Reversible Debugger Based on Decomposing) Tj T* 0 Tw 5.006799 Tw (Debugging Histories) Tj /F1 12 Tf (, In Proc. of 6th Workshop on Programming) Tj T* 0 Tw .559822 Tw (Languages and Operating Systems \(PLOS'2011\) \(part of Proc. of 23rd) Tj T* 0 Tw (ACM SOSP\), 2011.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+% 'R94': class PDFPageLabels 
+94 0 obj
+% Document Root
+<< /Nums [ 0
+ 95 0 R
+ 1
+ 96 0 R
+ 2
+ 97 0 R
+ 3
+ 98 0 R
+ 4
+ 99 0 R
+ 5
+ 100 0 R
+ 6
+ 101 0 R
+ 7
+ 102 0 R
+ 8
+ 103 0 R
+ 9
+ 104 0 R
+ 10
+ 105 0 R
+ 11
+ 106 0 R
+ 12
+ 107 0 R
+ 13
+ 108 0 R ] >>
+endobj
+% 'R95': class PDFPageLabel 
+95 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R96': class PDFPageLabel 
+96 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+% 'R97': class PDFPageLabel 
+97 0 obj
+% None
+<< /S /D
+ /St 3 >>
+endobj
+% 'R98': class PDFPageLabel 
+98 0 obj
+% None
+<< /S /D
+ /St 4 >>
+endobj
+% 'R99': class PDFPageLabel 
+99 0 obj
+% None
+<< /S /D
+ /St 5 >>
+endobj
+% 'R100': class PDFPageLabel 
+100 0 obj
+% None
+<< /S /D
+ /St 6 >>
+endobj
+% 'R101': class PDFPageLabel 
+101 0 obj
+% None
+<< /S /D
+ /St 7 >>
+endobj
+% 'R102': class PDFPageLabel 
+102 0 obj
+% None
+<< /S /D
+ /St 8 >>
+endobj
+% 'R103': class PDFPageLabel 
+103 0 obj
+% None
+<< /S /D
+ /St 9 >>
+endobj
+% 'R104': class PDFPageLabel 
+104 0 obj
+% None
+<< /S /D
+ /St 10 >>
+endobj
+% 'R105': class PDFPageLabel 
+105 0 obj
+% None
+<< /S /D
+ /St 11 >>
+endobj
+% 'R106': class PDFPageLabel 
+106 0 obj
+% None
+<< /S /D
+ /St 12 >>
+endobj
+% 'R107': class PDFPageLabel 
+107 0 obj
+% None
+<< /S /D
+ /St 13 >>
+endobj
+% 'R108': class PDFPageLabel 
+108 0 obj
+% None
+<< /S /D
+ /St 14 >>
+endobj
+xref
+0 109
+0000000000 65535 f
+0000000113 00000 n
+0000000284 00000 n
+0000000449 00000 n
+0000000636 00000 n
+0000000878 00000 n
+0000001139 00000 n
+0000001367 00000 n
+0000001548 00000 n
+0000001707 00000 n
+0000002037 00000 n
+0000002279 00000 n
+0000002521 00000 n
+0000002763 00000 n
+0000003005 00000 n
+0000003247 00000 n
+0000003490 00000 n
+0000003733 00000 n
+0000003962 00000 n
+0000004134 00000 n
+0000004310 00000 n
+0000004674 00000 n
+0000004954 00000 n
+0000005250 00000 n
+0000005492 00000 n
+0000005719 00000 n
+0000006072 00000 n
+0000012670 00000 n
+0000013032 00000 n
+0000013275 00000 n
+0000013502 00000 n
+0000013894 00000 n
+0000014121 00000 n
+0000014490 00000 n
+0000014678 00000 n
+0000015025 00000 n
+0000015321 00000 n
+0000015564 00000 n
+0000015792 00000 n
+0000016169 00000 n
+0000016531 00000 n
+0000016773 00000 n
+0000017015 00000 n
+0000017265 00000 n
+0000017507 00000 n
+0000017758 00000 n
+0000018000 00000 n
+0000018253 00000 n
+0000018496 00000 n
+0000018739 00000 n
+0000018967 00000 n
+0000019365 00000 n
+0000019593 00000 n
+0000019895 00000 n
+0000020054 00000 n
+0000020372 00000 n
+0000020498 00000 n
+0000020670 00000 n
+0000020939 00000 n
+0000021135 00000 n
+0000021362 00000 n
+0000021574 00000 n
+0000021777 00000 n
+0000021988 00000 n
+0000022211 00000 n
+0000022462 00000 n
+0000022647 00000 n
+0000022897 00000 n
+0000023093 00000 n
+0000023329 00000 n
+0000023521 00000 n
+0000023707 00000 n
+0000023897 00000 n
+0000024083 00000 n
+0000024318 00000 n
+0000024495 00000 n
+0000024691 00000 n
+0000024887 00000 n
+0000025076 00000 n
+0000025228 00000 n
+0000025453 00000 n
+0000032409 00000 n
+0000039089 00000 n
+0000048803 00000 n
+0000054729 00000 n
+0000060736 00000 n
+0000068683 00000 n
+0000073479 00000 n
+0000077069 00000 n
+0000087586 00000 n
+0000102512 00000 n
+0000105679 00000 n
+0000108909 00000 n
+0000115489 00000 n
+0000116298 00000 n
+0000116573 00000 n
+0000116650 00000 n
+0000116727 00000 n
+0000116804 00000 n
+0000116881 00000 n
+0000116959 00000 n
+0000117038 00000 n
+0000117117 00000 n
+0000117196 00000 n
+0000117275 00000 n
+0000117355 00000 n
+0000117435 00000 n
+0000117515 00000 n
+0000117595 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(W\231>@3\375\251NW\326\375\321\201\240\030\232) (W\231>@3\375\251NW\326\375\321\201\240\030\232)] 
+
+ /Info 54 0 R
+ /Root 53 0 R
+ /Size 109 >>
+startxref
+117644
+%%EOF

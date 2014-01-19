@@ -102,9 +102,11 @@ inside that session.</p>
 DMTCP can checkpoint Python or IPython from the <em>outside</em>, i.e. by treating
 Python as a black box. To enable checkpointing, the Python interpreter
 is launched in the following manner:</p>
-<div class="highlight"><pre><span class="nv">$ </span>dmtcp_checkpoint python &lt;args&gt;
-<span class="nv">$ </span>dmtcp_command --checkpoint
-</pre></div>
+<pre class="code sh literal-block">
+<span class="pygments-nv">$ </span>dmtcp_checkpoint python &lt;args&gt;
+<span class="pygments-nv">$ </span>dmtcp_command --checkpoint
+
+</pre>
 <p>The command <tt class="docutils literal">dmtcp_command</tt> can be used at any point to create a
 checkpoint of the entire session.</p>
 <p>However, most Python programmers will prefer to request a checkpoint
@@ -158,41 +160,45 @@ server or other atomic transaction.</p>
 <h3>A Python Module to Support DMTCP</h3>
 <p>Some of the features of <tt class="docutils literal">module.py</tt> are best illustrated through an example.
 Here, a checkpoint request is made from within the application.</p>
-<div class="highlight"><pre><span class="o">...</span>
-<span class="kn">import</span> <span class="nn">dmtcp</span>
-<span class="o">...</span>
-<span class="c"># Request a checkpoint if running under checkpoint</span>
-<span class="c"># control</span>
-<span class="n">dmtcp</span><span class="o">.</span><span class="n">checkpoint</span><span class="p">()</span>
-<span class="c"># Checkpoint image has been created</span>
-<span class="o">...</span>
-</pre></div>
+<pre class="code python literal-block">
+<span class="pygments-o">...</span>
+<span class="pygments-kn">import</span> <span class="pygments-nn">dmtcp</span>
+<span class="pygments-o">...</span>
+<span class="pygments-c"># Request a checkpoint if running under checkpoint</span>
+<span class="pygments-c"># control</span>
+<span class="pygments-n">dmtcp</span><span class="pygments-o">.</span><span class="pygments-n">checkpoint</span><span class="pygments-p">()</span>
+<span class="pygments-c"># Checkpoint image has been created</span>
+<span class="pygments-o">...</span>
+
+</pre>
 <p>It is also easy to add pre- and post-checkpoint processing actions.</p>
-<div class="highlight"><pre><span class="o">...</span>
-<span class="kn">import</span> <span class="nn">dmtcp</span>
-<span class="o">...</span>
-<span class="k">def</span> <span class="nf">my_ckpt</span><span class="p">(</span><span class="o">&lt;</span><span class="n">args</span><span class="o">&gt;</span><span class="p">):</span>
+<pre class="code python literal-block">
+<span class="pygments-o">...</span>
+<span class="pygments-kn">import</span> <span class="pygments-nn">dmtcp</span>
+<span class="pygments-o">...</span>
+<span class="pygments-k">def</span> <span class="pygments-nf">my_ckpt</span><span class="pygments-p">(</span><span class="pygments-o">&lt;</span><span class="pygments-n">args</span><span class="pygments-o">&gt;</span><span class="pygments-p">):</span>
 
-    <span class="c"># Pre processing</span>
-    <span class="n">my_pre_ckpt_hook</span><span class="p">(</span><span class="o">&lt;</span><span class="n">args</span><span class="o">&gt;</span><span class="p">)</span>
-    <span class="o">...</span>
-    <span class="c"># Create checkpoint</span>
-    <span class="n">dmtcp</span><span class="o">.</span><span class="n">checkpoint</span><span class="p">()</span>
-    <span class="c"># Checkpoint image has been created</span>
-    <span class="o">...</span>
-    <span class="k">if</span> <span class="n">dmtcp</span><span class="o">.</span><span class="n">isResume</span><span class="p">():</span>
-        <span class="c"># The process is resuming from a checkpoint</span>
-        <span class="n">my_resume_hook</span><span class="p">(</span><span class="o">&lt;</span><span class="n">args</span><span class="o">&gt;</span><span class="p">)</span>
-        <span class="o">...</span>
-    <span class="k">else</span><span class="p">:</span>
-        <span class="c"># The process is restarting from a previous</span>
-        <span class="c"># checkpoint</span>
-        <span class="n">my_restart_hook</span><span class="p">(</span><span class="o">&lt;</span><span class="n">args</span><span class="o">&gt;</span><span class="p">)</span>
-        <span class="o">...</span>
+    <span class="pygments-c"># Pre processing</span>
+    <span class="pygments-n">my_pre_ckpt_hook</span><span class="pygments-p">(</span><span class="pygments-o">&lt;</span><span class="pygments-n">args</span><span class="pygments-o">&gt;</span><span class="pygments-p">)</span>
+    <span class="pygments-o">...</span>
+    <span class="pygments-c"># Create checkpoint</span>
+    <span class="pygments-n">dmtcp</span><span class="pygments-o">.</span><span class="pygments-n">checkpoint</span><span class="pygments-p">()</span>
+    <span class="pygments-c"># Checkpoint image has been created</span>
+    <span class="pygments-o">...</span>
+    <span class="pygments-k">if</span> <span class="pygments-n">dmtcp</span><span class="pygments-o">.</span><span class="pygments-n">isResume</span><span class="pygments-p">():</span>
+        <span class="pygments-c"># The process is resuming from a checkpoint</span>
+        <span class="pygments-n">my_resume_hook</span><span class="pygments-p">(</span><span class="pygments-o">&lt;</span><span class="pygments-n">args</span><span class="pygments-o">&gt;</span><span class="pygments-p">)</span>
+        <span class="pygments-o">...</span>
+    <span class="pygments-k">else</span><span class="pygments-p">:</span>
+        <span class="pygments-c"># The process is restarting from a previous</span>
+        <span class="pygments-c"># checkpoint</span>
+        <span class="pygments-n">my_restart_hook</span><span class="pygments-p">(</span><span class="pygments-o">&lt;</span><span class="pygments-n">args</span><span class="pygments-o">&gt;</span><span class="pygments-p">)</span>
+        <span class="pygments-o">...</span>
 
-    <span class="k">return</span>
-<span class="o">...</span>
-</pre></div>
+    <span class="pygments-k">return</span>
+<span class="pygments-o">...</span>
+
+</pre>
 <p>The function <code>my_ckpt</code> can be defined in the application by the
 user and can be called from within the user application at any point.</p>
 </div>
@@ -206,20 +212,22 @@ available checkpointed sessions.  The current session can be replaced by
 any of the existing session using the session identifier.</p>
 <p>The application can programmatically revert to an earlier session as
 shown in the following example:</p>
-<div class="highlight"><pre><span class="o">...</span>
-<span class="kn">import</span> <span class="nn">dmtcp</span>
-<span class="o">...</span>
-<span class="n">sessionId1</span> <span class="o">=</span> <span class="n">dmtcp</span><span class="o">.</span><span class="n">checkpoint</span><span class="p">()</span>
-<span class="o">...</span>
-<span class="n">sessionId2</span> <span class="o">=</span> <span class="n">dmtcp</span><span class="o">.</span><span class="n">checkpoint</span><span class="p">()</span>
-<span class="o">...</span>
+<pre class="code python literal-block">
+<span class="pygments-o">...</span>
+<span class="pygments-kn">import</span> <span class="pygments-nn">dmtcp</span>
+<span class="pygments-o">...</span>
+<span class="pygments-n">sessionId1</span> <span class="pygments-o">=</span> <span class="pygments-n">dmtcp</span><span class="pygments-o">.</span><span class="pygments-n">checkpoint</span><span class="pygments-p">()</span>
+<span class="pygments-o">...</span>
+<span class="pygments-n">sessionId2</span> <span class="pygments-o">=</span> <span class="pygments-n">dmtcp</span><span class="pygments-o">.</span><span class="pygments-n">checkpoint</span><span class="pygments-p">()</span>
+<span class="pygments-o">...</span>
 
-<span class="o">...</span>
-<span class="k">if</span> <span class="o">&lt;</span><span class="n">condition</span><span class="o">&gt;</span><span class="p">:</span>
-    <span class="n">dmtcp</span><span class="o">.</span><span class="n">restore</span><span class="p">(</span><span class="n">sessionId2</span><span class="p">)</span>
-<span class="k">else</span><span class="p">:</span>
-    <span class="n">dmtcp</span><span class="o">.</span><span class="n">restore</span><span class="p">(</span><span class="n">sessionId1</span><span class="p">)</span>
-</pre></div>
+<span class="pygments-o">...</span>
+<span class="pygments-k">if</span> <span class="pygments-o">&lt;</span><span class="pygments-n">condition</span><span class="pygments-o">&gt;</span><span class="pygments-p">:</span>
+    <span class="pygments-n">dmtcp</span><span class="pygments-o">.</span><span class="pygments-n">restore</span><span class="pygments-p">(</span><span class="pygments-n">sessionId2</span><span class="pygments-p">)</span>
+<span class="pygments-k">else</span><span class="pygments-p">:</span>
+    <span class="pygments-n">dmtcp</span><span class="pygments-o">.</span><span class="pygments-n">restore</span><span class="pygments-p">(</span><span class="pygments-n">sessionId1</span><span class="pygments-p">)</span>
+
+</pre>
 <!-- Note that only session id is used to restore to a previous session. It
 is also possible to enhance the DMTCP module to pass extra arguments to
 the restore function. Those extra arguments can be made available to the
@@ -276,20 +284,22 @@ client is not. During restart, the Python session and the VNC server are
 restored from their checkpoint images, and a fresh VNC client is
 launched. This VNC client communicates with the restored server and
 displays the graphics to the end user.</p>
-<div class="highlight"><pre><span class="o">...</span>
-<span class="kn">import</span> <span class="nn">dmtcp</span>
-<span class="o">...</span>
-<span class="c"># Start VNC server</span>
-<span class="n">dmtcp</span><span class="o">.</span><span class="n">startGraphics</span><span class="p">()</span>
+<pre class="code python literal-block">
+<span class="pygments-o">...</span>
+<span class="pygments-kn">import</span> <span class="pygments-nn">dmtcp</span>
+<span class="pygments-o">...</span>
+<span class="pygments-c"># Start VNC server</span>
+<span class="pygments-n">dmtcp</span><span class="pygments-o">.</span><span class="pygments-n">startGraphics</span><span class="pygments-p">()</span>
 
-<span class="o">...</span>
+<span class="pygments-o">...</span>
 
-<span class="c"># Start VNC viewer</span>
-<span class="n">dmtcp</span><span class="o">.</span><span class="n">showGraphics</span><span class="p">()</span>
+<span class="pygments-c"># Start VNC viewer</span>
+<span class="pygments-n">dmtcp</span><span class="pygments-o">.</span><span class="pygments-n">showGraphics</span><span class="pygments-p">()</span>
 
-<span class="c"># generate graphics (will be shown in the VNC viewer)</span>
-<span class="o">...</span>
-</pre></div>
+<span class="pygments-c"># generate graphics (will be shown in the VNC viewer)</span>
+<span class="pygments-o">...</span>
+
+</pre>
 <p>To understand the algorithm behind the code, we recall some VNC
 concepts. X-window supports multiple virtual screens. A VNC server
 creates a new virtual screen. The graphics contained in the VNC server
@@ -359,25 +369,27 @@ can generate a checkpoint and write to a file the values of variables
 indicating the state of the computation.  The interpreted version
 writes to a file the values of variables indicating its own state of
 the computation.</p>
-<div class="highlight"><pre><span class="n">mycounter</span> <span class="o">=</span> <span class="mi">0</span>
-<span class="k">def</span> <span class="nf">freq_called_user_fnc</span><span class="p">(</span><span class="o">&lt;</span><span class="n">args</span><span class="o">&gt;</span><span class="p">):</span>
-    <span class="k">global</span> <span class="n">mycounter</span>
-    <span class="n">mycounter</span> <span class="o">+=</span> <span class="mi">1</span>
-    <span class="k">if</span> <span class="n">mycounter</span> <span class="o">%</span> <span class="mi">1000000</span> <span class="o">==</span> <span class="mi">0</span><span class="p">:</span>
-        <span class="c"># if running as Cython:</span>
-        <span class="k">if</span> <span class="nb">type</span><span class="p">(</span><span class="n">freq_called_user_fnc</span><span class="p">)</span> <span class="o">==</span> <span class="nb">type</span><span class="p">(</span><span class="nb">range</span><span class="p">):</span>
-            <span class="c"># write curr. program state to cython.log</span>
-            <span class="n">dmtcp</span><span class="o">.</span><span class="n">checkpoint</span><span class="p">()</span>
-            <span class="k">if</span> <span class="n">dmtcp</span><span class="o">.</span><span class="n">isRestart</span><span class="p">():</span>
-                <span class="c"># On restart from ckpt image,</span>
-                <span class="c">#   switch to pure Python.</span>
-        <span class="k">else</span><span class="p">:</span> <span class="c"># else running as pure Python</span>
-            <span class="c"># write curr. program state to purePython.log</span>
-            <span class="n">sys</span><span class="o">.</span><span class="n">exit</span><span class="p">(</span><span class="mi">0</span><span class="p">)</span>
-    <span class="o">...</span>
-    <span class="c"># original body of freq_called_user_fnc</span>
-    <span class="k">return</span>
-</pre></div>
+<pre class="code python literal-block">
+<span class="pygments-n">mycounter</span> <span class="pygments-o">=</span> <span class="pygments-mi">0</span>
+<span class="pygments-k">def</span> <span class="pygments-nf">freq_called_user_fnc</span><span class="pygments-p">(</span><span class="pygments-o">&lt;</span><span class="pygments-n">args</span><span class="pygments-o">&gt;</span><span class="pygments-p">):</span>
+    <span class="pygments-k">global</span> <span class="pygments-n">mycounter</span>
+    <span class="pygments-n">mycounter</span> <span class="pygments-o">+=</span> <span class="pygments-mi">1</span>
+    <span class="pygments-k">if</span> <span class="pygments-n">mycounter</span> <span class="pygments-o">%</span> <span class="pygments-mi">1000000</span> <span class="pygments-o">==</span> <span class="pygments-mi">0</span><span class="pygments-p">:</span>
+        <span class="pygments-c"># if running as Cython:</span>
+        <span class="pygments-k">if</span> <span class="pygments-nb">type</span><span class="pygments-p">(</span><span class="pygments-n">freq_called_user_fnc</span><span class="pygments-p">)</span> <span class="pygments-o">==</span> <span class="pygments-nb">type</span><span class="pygments-p">(</span><span class="pygments-nb">range</span><span class="pygments-p">):</span>
+            <span class="pygments-c"># write curr. program state to cython.log</span>
+            <span class="pygments-n">dmtcp</span><span class="pygments-o">.</span><span class="pygments-n">checkpoint</span><span class="pygments-p">()</span>
+            <span class="pygments-k">if</span> <span class="pygments-n">dmtcp</span><span class="pygments-o">.</span><span class="pygments-n">isRestart</span><span class="pygments-p">():</span>
+                <span class="pygments-c"># On restart from ckpt image,</span>
+                <span class="pygments-c">#   switch to pure Python.</span>
+        <span class="pygments-k">else</span><span class="pygments-p">:</span> <span class="pygments-c"># else running as pure Python</span>
+            <span class="pygments-c"># write curr. program state to purePython.log</span>
+            <span class="pygments-n">sys</span><span class="pygments-o">.</span><span class="pygments-n">exit</span><span class="pygments-p">(</span><span class="pygments-mi">0</span><span class="pygments-p">)</span>
+    <span class="pygments-o">...</span>
+    <span class="pygments-c"># original body of freq_called_user_fnc</span>
+    <span class="pygments-k">return</span>
+
+</pre>
 <p>The above code block illustrates the principles.  One compares cython.log and
 purePython.log to determine if the compiled code was faithful to the
 interpreted code.  If the Cython code consists of direct C calls between
@@ -459,19 +471,21 @@ with <code>step</code> is non-trivial, and an algorithm for that decomposition
 is presented in <a class="citation-reference" href="#visan11" id="id6">[Visan11]</a> .</p>
 <div class="section" id="a-typical-debugging-session-in-fred-with-python">
 <h4>A typical debugging session in FReD with Python</h4>
-<div class="highlight"><pre><span class="err">$</span> <span class="n">fredapp</span><span class="o">.</span><span class="n">py</span> <span class="n">python</span> <span class="o">-</span><span class="n">mpdb</span> <span class="n">a</span><span class="o">.</span><span class="n">py</span>
-<span class="p">(</span><span class="n">Pdb</span><span class="p">)</span> <span class="k">break</span> <span class="n">main</span>
-<span class="p">(</span><span class="n">Pdb</span><span class="p">)</span> <span class="n">run</span>
-<span class="p">(</span><span class="n">Pdb</span><span class="p">)</span> <span class="n">fred</span><span class="o">-</span><span class="n">checkpoint</span>
-<span class="p">(</span><span class="n">Pdb</span><span class="p">)</span> <span class="k">break</span> <span class="mi">6</span>
-<span class="p">(</span><span class="n">Pdb</span><span class="p">)</span> <span class="k">continue</span>
-<span class="p">(</span><span class="n">Pdb</span><span class="p">)</span> <span class="n">fred</span><span class="o">-</span><span class="n">history</span>
-  <span class="p">[</span><span class="k">break</span> <span class="mi">6</span><span class="p">,</span> <span class="k">continue</span><span class="p">]</span>
-<span class="p">(</span><span class="n">Pdb</span><span class="p">)</span> <span class="n">fred</span><span class="o">-</span><span class="n">reverse</span><span class="o">-</span><span class="nb">next</span>
-<span class="p">(</span><span class="n">Pdb</span><span class="p">)</span> <span class="n">fred</span><span class="o">-</span><span class="n">history</span>
-  <span class="p">[</span><span class="k">break</span> <span class="mi">7</span><span class="p">,</span> <span class="nb">next</span><span class="p">,</span> <span class="nb">next</span><span class="p">,</span> <span class="nb">next</span><span class="p">,</span> <span class="nb">next</span><span class="p">,</span> <span class="nb">next</span><span class="p">,</span> <span class="nb">next</span><span class="p">,</span> <span class="nb">next</span><span class="p">,</span>
-   <span class="nb">next</span><span class="p">,</span> <span class="nb">next</span><span class="p">,</span> <span class="nb">next</span><span class="p">,</span> <span class="n">step</span><span class="p">,</span> <span class="nb">next</span><span class="p">,</span> <span class="nb">next</span><span class="p">,</span> <span class="nb">next</span><span class="p">,</span> <span class="n">where</span><span class="p">]</span>
-</pre></div>
+<pre class="code python literal-block">
+<span class="pygments-err">$</span> <span class="pygments-n">fredapp</span><span class="pygments-o">.</span><span class="pygments-n">py</span> <span class="pygments-n">python</span> <span class="pygments-o">-</span><span class="pygments-n">mpdb</span> <span class="pygments-n">a</span><span class="pygments-o">.</span><span class="pygments-n">py</span>
+<span class="pygments-p">(</span><span class="pygments-n">Pdb</span><span class="pygments-p">)</span> <span class="pygments-k">break</span> <span class="pygments-n">main</span>
+<span class="pygments-p">(</span><span class="pygments-n">Pdb</span><span class="pygments-p">)</span> <span class="pygments-n">run</span>
+<span class="pygments-p">(</span><span class="pygments-n">Pdb</span><span class="pygments-p">)</span> <span class="pygments-n">fred</span><span class="pygments-o">-</span><span class="pygments-n">checkpoint</span>
+<span class="pygments-p">(</span><span class="pygments-n">Pdb</span><span class="pygments-p">)</span> <span class="pygments-k">break</span> <span class="pygments-mi">6</span>
+<span class="pygments-p">(</span><span class="pygments-n">Pdb</span><span class="pygments-p">)</span> <span class="pygments-k">continue</span>
+<span class="pygments-p">(</span><span class="pygments-n">Pdb</span><span class="pygments-p">)</span> <span class="pygments-n">fred</span><span class="pygments-o">-</span><span class="pygments-n">history</span>
+  <span class="pygments-p">[</span><span class="pygments-k">break</span> <span class="pygments-mi">6</span><span class="pygments-p">,</span> <span class="pygments-k">continue</span><span class="pygments-p">]</span>
+<span class="pygments-p">(</span><span class="pygments-n">Pdb</span><span class="pygments-p">)</span> <span class="pygments-n">fred</span><span class="pygments-o">-</span><span class="pygments-n">reverse</span><span class="pygments-o">-</span><span class="pygments-nb">next</span>
+<span class="pygments-p">(</span><span class="pygments-n">Pdb</span><span class="pygments-p">)</span> <span class="pygments-n">fred</span><span class="pygments-o">-</span><span class="pygments-n">history</span>
+  <span class="pygments-p">[</span><span class="pygments-k">break</span> <span class="pygments-mi">7</span><span class="pygments-p">,</span> <span class="pygments-nb">next</span><span class="pygments-p">,</span> <span class="pygments-nb">next</span><span class="pygments-p">,</span> <span class="pygments-nb">next</span><span class="pygments-p">,</span> <span class="pygments-nb">next</span><span class="pygments-p">,</span> <span class="pygments-nb">next</span><span class="pygments-p">,</span> <span class="pygments-nb">next</span><span class="pygments-p">,</span> <span class="pygments-nb">next</span><span class="pygments-p">,</span>
+   <span class="pygments-nb">next</span><span class="pygments-p">,</span> <span class="pygments-nb">next</span><span class="pygments-p">,</span> <span class="pygments-nb">next</span><span class="pygments-p">,</span> <span class="pygments-n">step</span><span class="pygments-p">,</span> <span class="pygments-nb">next</span><span class="pygments-p">,</span> <span class="pygments-nb">next</span><span class="pygments-p">,</span> <span class="pygments-nb">next</span><span class="pygments-p">,</span> <span class="pygments-n">where</span><span class="pygments-p">]</span>
+
+</pre>
 </div>
 </div>
 <div class="section" id="reverse-expression-watchpoints">
@@ -521,28 +535,30 @@ particular sub-interval over the time period needs to be executed more
 than twice.</p>
 <div class="section" id="a-typical-use-of-reverse-expression-watchpoint">
 <h4>A typical use of reverse-expression-watchpoint</h4>
-<div class="highlight"><pre><span class="err">$</span> <span class="o">./</span><span class="n">fredapp</span><span class="o">.</span><span class="n">py</span> <span class="n">python</span> <span class="o">-</span><span class="n">mpdb</span> <span class="o">./</span><span class="n">autocount</span><span class="o">.</span><span class="n">py</span>
-<span class="o">-&gt;</span> <span class="kn">import</span> <span class="nn">sys</span><span class="o">,</span> <span class="nn">time</span>
-<span class="p">(</span><span class="n">Pdb</span><span class="p">)</span> <span class="k">break</span> <span class="mi">21</span>
-  <span class="n">Breakpoint</span> <span class="mi">1</span> <span class="n">at</span> <span class="o">/</span><span class="n">home</span><span class="o">/</span><span class="n">kapil</span><span class="o">/</span><span class="n">fred</span><span class="o">/</span><span class="n">autocount</span><span class="o">.</span><span class="n">py</span><span class="p">:</span><span class="mi">21</span>
-<span class="p">(</span><span class="n">Pdb</span><span class="p">)</span> <span class="k">continue</span>
-  <span class="o">&gt;</span> <span class="o">/</span><span class="n">home</span><span class="o">/</span><span class="n">kapil</span><span class="o">/</span><span class="n">fred</span><span class="o">/</span><span class="n">autocount</span><span class="o">.</span><span class="n">py</span><span class="p">(</span><span class="mi">21</span><span class="p">)</span><span class="o">&lt;</span><span class="n">module</span><span class="o">&gt;</span><span class="p">()</span>
-<span class="c"># Required for fred-reverse-watch</span>
-<span class="p">(</span><span class="n">Pdb</span><span class="p">)</span> <span class="n">fred</span><span class="o">-</span><span class="n">checkpoint</span>
-<span class="p">(</span><span class="n">Pdb</span><span class="p">)</span> <span class="k">break</span> <span class="mi">28</span>
-  <span class="n">Breakpoint</span> <span class="mi">2</span> <span class="n">at</span> <span class="o">/</span><span class="n">home</span><span class="o">/</span><span class="n">kapil</span><span class="o">/</span><span class="n">fred</span><span class="o">/</span><span class="n">autocount</span><span class="o">.</span><span class="n">py</span><span class="p">:</span><span class="mi">28</span>
-<span class="p">(</span><span class="n">Pdb</span><span class="p">)</span> <span class="k">continue</span>
-  <span class="o">...</span>  <span class="o">&lt;</span><span class="n">program</span> <span class="n">output</span><span class="o">&gt;</span> <span class="o">...</span>
-  <span class="o">&gt;</span> <span class="o">/</span><span class="n">home</span><span class="o">/</span><span class="n">kapil</span><span class="o">/</span><span class="n">fred</span><span class="o">/</span><span class="n">autocount</span><span class="o">.</span><span class="n">py</span><span class="p">(</span><span class="mi">28</span><span class="p">)</span><span class="o">&lt;</span><span class="n">module</span><span class="o">&gt;</span><span class="p">()</span>
-<span class="p">(</span><span class="n">Pdb</span><span class="p">)</span> <span class="k">print</span> <span class="n">num</span>
-  <span class="mi">10</span>
-<span class="p">(</span><span class="n">Pdb</span><span class="p">)</span> <span class="n">fred</span><span class="o">-</span><span class="n">reverse</span><span class="o">-</span><span class="n">watch</span> <span class="n">num</span> <span class="o">&lt;</span> <span class="mi">5</span>
-<span class="p">(</span><span class="n">Pdb</span><span class="p">)</span> <span class="k">print</span> <span class="n">num</span>
-  <span class="mi">4</span>
-<span class="p">(</span><span class="n">Pdb</span><span class="p">)</span> <span class="nb">next</span>
-<span class="p">(</span><span class="n">Pdb</span><span class="p">)</span> <span class="k">print</span> <span class="n">num</span>
-  <span class="mi">5</span>
-</pre></div>
+<pre class="code python literal-block">
+<span class="pygments-err">$</span> <span class="pygments-o">./</span><span class="pygments-n">fredapp</span><span class="pygments-o">.</span><span class="pygments-n">py</span> <span class="pygments-n">python</span> <span class="pygments-o">-</span><span class="pygments-n">mpdb</span> <span class="pygments-o">./</span><span class="pygments-n">autocount</span><span class="pygments-o">.</span><span class="pygments-n">py</span>
+<span class="pygments-o">-&gt;</span> <span class="pygments-kn">import</span> <span class="pygments-nn">sys</span><span class="pygments-o">,</span> <span class="pygments-nn">time</span>
+<span class="pygments-p">(</span><span class="pygments-n">Pdb</span><span class="pygments-p">)</span> <span class="pygments-k">break</span> <span class="pygments-mi">21</span>
+  <span class="pygments-n">Breakpoint</span> <span class="pygments-mi">1</span> <span class="pygments-n">at</span> <span class="pygments-o">/</span><span class="pygments-n">home</span><span class="pygments-o">/</span><span class="pygments-n">kapil</span><span class="pygments-o">/</span><span class="pygments-n">fred</span><span class="pygments-o">/</span><span class="pygments-n">autocount</span><span class="pygments-o">.</span><span class="pygments-n">py</span><span class="pygments-p">:</span><span class="pygments-mi">21</span>
+<span class="pygments-p">(</span><span class="pygments-n">Pdb</span><span class="pygments-p">)</span> <span class="pygments-k">continue</span>
+  <span class="pygments-o">&gt;</span> <span class="pygments-o">/</span><span class="pygments-n">home</span><span class="pygments-o">/</span><span class="pygments-n">kapil</span><span class="pygments-o">/</span><span class="pygments-n">fred</span><span class="pygments-o">/</span><span class="pygments-n">autocount</span><span class="pygments-o">.</span><span class="pygments-n">py</span><span class="pygments-p">(</span><span class="pygments-mi">21</span><span class="pygments-p">)</span><span class="pygments-o">&lt;</span><span class="pygments-n">module</span><span class="pygments-o">&gt;</span><span class="pygments-p">()</span>
+<span class="pygments-c"># Required for fred-reverse-watch</span>
+<span class="pygments-p">(</span><span class="pygments-n">Pdb</span><span class="pygments-p">)</span> <span class="pygments-n">fred</span><span class="pygments-o">-</span><span class="pygments-n">checkpoint</span>
+<span class="pygments-p">(</span><span class="pygments-n">Pdb</span><span class="pygments-p">)</span> <span class="pygments-k">break</span> <span class="pygments-mi">28</span>
+  <span class="pygments-n">Breakpoint</span> <span class="pygments-mi">2</span> <span class="pygments-n">at</span> <span class="pygments-o">/</span><span class="pygments-n">home</span><span class="pygments-o">/</span><span class="pygments-n">kapil</span><span class="pygments-o">/</span><span class="pygments-n">fred</span><span class="pygments-o">/</span><span class="pygments-n">autocount</span><span class="pygments-o">.</span><span class="pygments-n">py</span><span class="pygments-p">:</span><span class="pygments-mi">28</span>
+<span class="pygments-p">(</span><span class="pygments-n">Pdb</span><span class="pygments-p">)</span> <span class="pygments-k">continue</span>
+  <span class="pygments-o">...</span>  <span class="pygments-o">&lt;</span><span class="pygments-n">program</span> <span class="pygments-n">output</span><span class="pygments-o">&gt;</span> <span class="pygments-o">...</span>
+  <span class="pygments-o">&gt;</span> <span class="pygments-o">/</span><span class="pygments-n">home</span><span class="pygments-o">/</span><span class="pygments-n">kapil</span><span class="pygments-o">/</span><span class="pygments-n">fred</span><span class="pygments-o">/</span><span class="pygments-n">autocount</span><span class="pygments-o">.</span><span class="pygments-n">py</span><span class="pygments-p">(</span><span class="pygments-mi">28</span><span class="pygments-p">)</span><span class="pygments-o">&lt;</span><span class="pygments-n">module</span><span class="pygments-o">&gt;</span><span class="pygments-p">()</span>
+<span class="pygments-p">(</span><span class="pygments-n">Pdb</span><span class="pygments-p">)</span> <span class="pygments-k">print</span> <span class="pygments-n">num</span>
+  <span class="pygments-mi">10</span>
+<span class="pygments-p">(</span><span class="pygments-n">Pdb</span><span class="pygments-p">)</span> <span class="pygments-n">fred</span><span class="pygments-o">-</span><span class="pygments-n">reverse</span><span class="pygments-o">-</span><span class="pygments-n">watch</span> <span class="pygments-n">num</span> <span class="pygments-o">&lt;</span> <span class="pygments-mi">5</span>
+<span class="pygments-p">(</span><span class="pygments-n">Pdb</span><span class="pygments-p">)</span> <span class="pygments-k">print</span> <span class="pygments-n">num</span>
+  <span class="pygments-mi">4</span>
+<span class="pygments-p">(</span><span class="pygments-n">Pdb</span><span class="pygments-p">)</span> <span class="pygments-nb">next</span>
+<span class="pygments-p">(</span><span class="pygments-n">Pdb</span><span class="pygments-p">)</span> <span class="pygments-k">print</span> <span class="pygments-n">num</span>
+  <span class="pygments-mi">5</span>
+
+</pre>
 </div>
 </div>
 </div>
@@ -644,10 +660,12 @@ system.  DMTCP can be used to checkpoint a variety of user applications
 including Python.</p>
 <p>Using DMTCP to checkpoint an application is as simple as executing the
 following commands:</p>
-<div class="highlight"><pre>dmtcp_checkpoint ./a.out
+<pre class="code sh literal-block">
+dmtcp_checkpoint ./a.out
 dmtcp_command -c
 ./dmtcp_restart_script.sh
-</pre></div>
+
+</pre>
 <p>DMTCP automatically tracks all local and remote child processes and
 their relationships.</p>
 <p>As seen in Figure 6, a computation running under DMTCP
@@ -749,13 +767,13 @@ user threads and the user threads resume executing application code.</p>
 
             <li class="list-group-item"><a href="./tags.html"><h4><i class="icon-tags icon-large"></i>Tags</h4></a></li>
                 <li class="list-group-item tag-4">
-                    <a href="./tag/cython.html">
-                        Cython
+                    <a href="./tag/checkpoint-restart.html">
+                        checkpoint-restart
                     </a>
                 </li>
                 <li class="list-group-item tag-4">
-                    <a href="./tag/checkpoint-restart.html">
-                        checkpoint-restart
+                    <a href="./tag/reversible-debugger.html">
+                        reversible debugger
                     </a>
                 </li>
                 <li class="list-group-item tag-4">
@@ -764,13 +782,13 @@ user threads and the user threads resume executing application code.</p>
                     </a>
                 </li>
                 <li class="list-group-item tag-4">
-                    <a href="./tag/dmtcp.html">
-                        DMTCP
+                    <a href="./tag/cython.html">
+                        Cython
                     </a>
                 </li>
                 <li class="list-group-item tag-4">
-                    <a href="./tag/reversible-debugger.html">
-                        reversible debugger
+                    <a href="./tag/dmtcp.html">
+                        DMTCP
                     </a>
                 </li>
         </ul>
