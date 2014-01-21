@@ -9,7 +9,7 @@
  /F4 8 0 R
  /F5 18 0 R
  /F6 19 0 R
- /F7 33 0 R >>
+ /F7 32 0 R >>
 endobj
 % 'F1': class PDFType1Font 
 2 0 obj
@@ -68,7 +68,7 @@ endobj
  /Dest [ 50 0 R
  /XYZ
  68.69291
- 300.7843
+ 604.3843
  0 ]
  /Rect [ 354.8628
  340.7236
@@ -101,12 +101,12 @@ endobj
 << /Annots [ 4 0 R
  5 0 R
  6 0 R ]
- /Contents 80 0 R
+ /Contents 78 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 79 0 R
+ /Parent 77 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -213,10 +213,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 30 0 R
+ /Dest [ 27 0 R
  /XYZ
  62.69291
- 769.2236
+ 214.0236
  0 ]
  /Rect [ 386.8201
  469.5236
@@ -231,10 +231,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 30 0 R
+ /Dest [ 27 0 R
  /XYZ
  62.69291
- 769.2236
+ 214.0236
  0 ]
  /Rect [ 62.69291
  457.5236
@@ -249,7 +249,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 38 0 R
+ /Dest [ 37 0 R
  /XYZ
  62.69291
  664.8236
@@ -290,12 +290,12 @@ endobj
  15 0 R
  16 0 R
  17 0 R ]
- /Contents 81 0 R
+ /Contents 79 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 79 0 R
+ /Parent 77 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -309,12 +309,12 @@ endobj
 % 'Page3': class PDFPage 
 21 0 obj
 % Page dictionary
-<< /Contents 82 0 R
+<< /Contents 80 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 79 0 R
+ /Parent 77 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -328,12 +328,12 @@ endobj
 % 'Page4': class PDFPage 
 22 0 obj
 % Page dictionary
-<< /Contents 83 0 R
+<< /Contents 81 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 79 0 R
+ /Parent 77 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -353,7 +353,7 @@ endobj
  /Dest [ 50 0 R
  /XYZ
  68.69291
- 192.7843
+ 496.3843
  0 ]
  /Rect [ 437.3362
  415.9236
@@ -371,7 +371,7 @@ endobj
  /Dest [ 50 0 R
  /XYZ
  68.69291
- 168.7843
+ 472.3843
  0 ]
  /Rect [ 464.2546
  157.9236
@@ -385,12 +385,12 @@ endobj
 % Page dictionary
 << /Annots [ 23 0 R
  24 0 R ]
- /Contents 84 0 R
+ /Contents 82 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 79 0 R
+ /Parent 77 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -418,12 +418,12 @@ endobj
 % 'Page6': class PDFPage 
 27 0 obj
 % Page dictionary
-<< /Contents 85 0 R
+<< /Contents 83 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 79 0 R
+ /Parent 77 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -444,12 +444,12 @@ endobj
  /Dest [ 50 0 R
  /XYZ
  68.69291
- 252.7843
+ 556.3843
  0 ]
  /Rect [ 257.3037
- 318.3236
+ 579.5236
  288.9837
- 330.3236 ]
+ 591.5236 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -462,12 +462,12 @@ endobj
  /Dest [ 50 0 R
  /XYZ
  68.69291
- 216.7843
+ 520.3843
  0 ]
  /Rect [ 297.9644
- 318.3236
+ 579.5236
  340.2831
- 330.3236 ]
+ 591.5236 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
@@ -476,12 +476,12 @@ endobj
 % Page dictionary
 << /Annots [ 28 0 R
  29 0 R ]
- /Contents 86 0 R
+ /Contents 84 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 79 0 R
+ /Parent 77 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -499,41 +499,20 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 52 0 R
+ /Dest [ 50 0 R
  /XYZ
  68.69291
- 765.0236
+ 400.3843
  0 ]
  /Rect [ 416.8489
- 255.9236
+ 637.5236
  455.7589
- 267.9236 ]
+ 649.5236 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Page8': class PDFPage 
-32 0 obj
-% Page dictionary
-<< /Annots [ 31 0 R ]
- /Contents 87 0 R
- /MediaBox [ 0
- 0
- 595.2756
- 841.8898 ]
- /Parent 79 0 R
- /Resources << /Font 1 0 R
- /ProcSet [ /PDF
- /Text
- /ImageB
- /ImageC
- /ImageI ]
- /XObject << /FormXob.84ae3b102a6d04326f4119b078982837 26 0 R >> >>
- /Rotate 0
- /Trans <<  >>
- /Type /Page >>
-endobj
 % 'F7': class PDFType1Font 
-33 0 obj
+32 0 obj
 % Font Helvetica-BoldOblique
 << /BaseFont /Helvetica-BoldOblique
  /Encoding /WinAnsiEncoding
@@ -541,15 +520,16 @@ endobj
  /Subtype /Type1
  /Type /Font >>
 endobj
-% 'Page9': class PDFPage 
-34 0 obj
+% 'Page8': class PDFPage 
+33 0 obj
 % Page dictionary
-<< /Contents 88 0 R
+<< /Annots [ 31 0 R ]
+ /Contents 85 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 79 0 R
+ /Parent 77 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -561,15 +541,15 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'Page10': class PDFPage 
-35 0 obj
+% 'Page9': class PDFPage 
+34 0 obj
 % Page dictionary
-<< /Contents 89 0 R
+<< /Contents 86 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 79 0 R
+ /Parent 77 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -581,6 +561,24 @@ endobj
  /Type /Page >>
 endobj
 % 'Annot.NUMBER17': class LinkAnnotation 
+35 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 50 0 R
+ /XYZ
+ 68.69291
+ 604.3843
+ 0 ]
+ /Rect [ 110.8249
+ 479.9236
+ 151.8709
+ 491.9236 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER18': class LinkAnnotation 
 36 0 obj
 << /Border [ 0
  0
@@ -589,44 +587,26 @@ endobj
  /Dest [ 50 0 R
  /XYZ
  68.69291
- 300.7843
- 0 ]
- /Rect [ 110.8249
- 339.9236
- 151.8709
- 351.9236 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
-% 'Annot.NUMBER18': class LinkAnnotation 
-37 0 obj
-<< /Border [ 0
- 0
- 0 ]
- /Contents ()
- /Dest [ 50 0 R
- /XYZ
- 68.69291
- 132.7843
+ 436.3843
  0 ]
  /Rect [ 132.1633
- 327.9236
+ 467.9236
  172.1733
- 339.9236 ]
+ 479.9236 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Page11': class PDFPage 
-38 0 obj
+% 'Page10': class PDFPage 
+37 0 obj
 % Page dictionary
-<< /Annots [ 36 0 R
- 37 0 R ]
- /Contents 90 0 R
+<< /Annots [ 35 0 R
+ 36 0 R ]
+ /Contents 87 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 79 0 R
+ /Parent 77 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -638,28 +618,27 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'Page12': class PDFPage 
-39 0 obj
+% 'Page11': class PDFPage 
+38 0 obj
 % Page dictionary
-<< /Contents 91 0 R
+<< /Contents 88 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 79 0 R
+ /Parent 77 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
  /ImageB
  /ImageC
- /ImageI ]
- /XObject << /FormXob.84ae3b102a6d04326f4119b078982837 26 0 R >> >>
+ /ImageI ] >>
  /Rotate 0
  /Trans <<  >>
  /Type /Page >>
 endobj
 % 'Annot.NUMBER19': class LinkAnnotation 
-40 0 obj
+39 0 obj
 << /Border [ 0
  0
  0 ]
@@ -670,32 +649,32 @@ endobj
  354.2236
  0 ]
  /Rect [ 116.0449
- 287.2843
+ 590.8843
  122.7169
- 299.2843 ]
+ 602.8843 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Annot.NUMBER20': class LinkAnnotation 
-41 0 obj
+40 0 obj
 << /Border [ 0
  0
  0 ]
  /Contents ()
- /Dest [ 38 0 R
+ /Dest [ 37 0 R
  /XYZ
  108.6889
- 353.4236
+ 493.4236
  0 ]
  /Rect [ 129.3889
- 287.2843
+ 590.8843
  136.0609
- 299.2843 ]
+ 602.8843 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Annot.NUMBER21': class PDFDictionary 
-42 0 obj
+41 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://dmtcp.sourceforge.net/) >>
@@ -703,14 +682,14 @@ endobj
  0
  0 ]
  /Rect [ 282.4563
- 251.2843
+ 554.8843
  435.2043
- 263.2843 ]
+ 566.8843 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Annot.NUMBER22': class LinkAnnotation 
-43 0 obj
+42 0 obj
 << /Border [ 0
  0
  0 ]
@@ -718,17 +697,17 @@ endobj
  /Dest [ 30 0 R
  /XYZ
  248.0689
- 331.8236
+ 593.0236
  0 ]
  /Rect [ 68.69291
- 239.2843
+ 542.8843
  106.7089
- 251.2843 ]
+ 554.8843 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Annot.NUMBER23': class PDFDictionary 
-44 0 obj
+43 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://arxiv.org/abs/1212.5204) >>
@@ -736,14 +715,14 @@ endobj
  0
  0 ]
  /Rect [ 202.4163
- 215.2843
+ 518.8843
  361.1763
- 227.2843 ]
+ 530.8843 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Annot.NUMBER24': class LinkAnnotation 
-45 0 obj
+44 0 obj
 << /Border [ 0
  0
  0 ]
@@ -751,17 +730,17 @@ endobj
  /Dest [ 30 0 R
  /XYZ
  286.4209
- 331.8236
+ 593.0236
  0 ]
  /Rect [ 68.69291
- 203.2843
+ 506.8843
  113.3689
- 215.2843 ]
+ 518.8843 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Annot.NUMBER25': class PDFDictionary 
-46 0 obj
+45 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (https://github.com/fred-dbg/fred) >>
@@ -769,14 +748,14 @@ endobj
  0
  0 ]
  /Rect [ 153.7323
- 191.2843
+ 494.8843
  320.4843
- 203.2843 ]
+ 506.8843 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Annot.NUMBER26': class LinkAnnotation 
-47 0 obj
+46 0 obj
 << /Border [ 0
  0
  0 ]
@@ -787,14 +766,14 @@ endobj
  429.4236
  0 ]
  /Rect [ 68.69291
- 179.2843
+ 482.8843
  119.3929
- 191.2843 ]
+ 494.8843 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Annot.NUMBER27': class LinkAnnotation 
-48 0 obj
+47 0 obj
 << /Border [ 0
  0
  0 ]
@@ -805,34 +784,53 @@ endobj
  171.4236
  0 ]
  /Rect [ 68.69291
- 155.2843
+ 458.8843
  126.7249
- 167.2843 ]
+ 470.8843 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Annot.NUMBER28': class LinkAnnotation 
+48 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 37 0 R
+ /XYZ
+ 124.7209
+ 481.4236
+ 0 ]
+ /Rect [ 68.69291
+ 422.8843
+ 116.7049
+ 434.8843 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER29': class LinkAnnotation 
 49 0 obj
 << /Border [ 0
  0
  0 ]
  /Contents ()
- /Dest [ 38 0 R
+ /Dest [ 33 0 R
  /XYZ
- 124.7209
- 341.4236
+ 416.8489
+ 651.0236
  0 ]
  /Rect [ 68.69291
- 119.2843
- 116.7049
- 131.2843 ]
+ 386.8843
+ 112.0489
+ 398.8843 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
-% 'Page13': class PDFPage 
+% 'Page12': class PDFPage 
 50 0 obj
 % Page dictionary
-<< /Annots [ 40 0 R
+<< /Annots [ 39 0 R
+ 40 0 R
  41 0 R
  42 0 R
  43 0 R
@@ -842,12 +840,12 @@ endobj
  47 0 R
  48 0 R
  49 0 R ]
- /Contents 92 0 R
+ /Contents 89 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 79 0 R
+ /Parent 77 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -858,353 +856,315 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'Annot.NUMBER29': class LinkAnnotation 
+% 'R51': class PDFCatalog 
 51 0 obj
-<< /Border [ 0
- 0
- 0 ]
- /Contents ()
- /Dest [ 32 0 R
- /XYZ
- 416.8489
- 269.4236
- 0 ]
- /Rect [ 68.69291
- 751.5236
- 112.0489
- 763.5236 ]
- /Subtype /Link
- /Type /Annot >>
-endobj
-% 'Page14': class PDFPage 
-52 0 obj
-% Page dictionary
-<< /Annots [ 51 0 R ]
- /Contents 93 0 R
- /MediaBox [ 0
- 0
- 595.2756
- 841.8898 ]
- /Parent 79 0 R
- /Resources << /Font 1 0 R
- /ProcSet [ /PDF
- /Text
- /ImageB
- /ImageC
- /ImageI ] >>
- /Rotate 0
- /Trans <<  >>
- /Type /Page >>
-endobj
-% 'R53': class PDFCatalog 
-53 0 obj
 % Document Root
-<< /Outlines 55 0 R
- /PageLabels 94 0 R
+<< /Outlines 53 0 R
+ /PageLabels 90 0 R
  /PageMode /UseNone
- /Pages 79 0 R
+ /Pages 77 0 R
  /Type /Catalog >>
 endobj
-% 'R54': class PDFInfo 
-54 0 obj
+% 'R52': class PDFInfo 
+52 0 obj
 << /Author (Kapil Arya, Gene Cooperman)
- /CreationDate (D:20140119075022+00'00')
+ /CreationDate (D:20140121023736+00'00')
  /Creator (\(unspecified\))
  /Keywords ()
  /Producer (ReportLab PDF Library - www.reportlab.com)
  /Subject (\(unspecified\))
  /Title (DMTCP: Bringing Checkpoint-Restart to Python) >>
 endobj
-% 'R55': class PDFOutlines 
-55 0 obj
+% 'R53': class PDFOutlines 
+53 0 obj
 << /Count 28
- /First 56 0 R
- /Last 73 0 R
+ /First 54 0 R
+ /Last 71 0 R
  /Type /Outlines >>
 endobj
 % 'Outline.0': class OutlineEntryObject 
-56 0 obj
+54 0 obj
 << /Dest [ 9 0 R
  /XYZ
  62.69291
  385.4236
  0 ]
- /Next 57 0 R
- /Parent 55 0 R
+ /Next 55 0 R
+ /Parent 53 0 R
  /Title (Introduction) >>
 endobj
 % 'Outline.1': class OutlineEntryObject 
-57 0 obj
+55 0 obj
 << /Count 4
  /Dest [ 20 0 R
  /XYZ
  62.69291
  447.0236
  0 ]
- /First 58 0 R
- /Last 61 0 R
- /Next 62 0 R
- /Parent 55 0 R
- /Prev 56 0 R
+ /First 56 0 R
+ /Last 59 0 R
+ /Next 60 0 R
+ /Parent 53 0 R
+ /Prev 54 0 R
  /Title (DMTCP-Python Integration through a Python Module) >>
 endobj
 % 'Outline.24.0': class OutlineEntryObject 
-58 0 obj
+56 0 obj
 << /Dest [ 20 0 R
  /XYZ
  62.69291
  294.6236
  0 ]
- /Next 59 0 R
- /Parent 57 0 R
+ /Next 57 0 R
+ /Parent 55 0 R
  /Title (A Python Module to Support DMTCP) >>
 endobj
 % 'Outline.24.1': class OutlineEntryObject 
-59 0 obj
+57 0 obj
 << /Dest [ 21 0 R
  /XYZ
  62.69291
  419.8236
  0 ]
- /Next 60 0 R
- /Parent 57 0 R
- /Prev 58 0 R
+ /Next 58 0 R
+ /Parent 55 0 R
+ /Prev 56 0 R
  /Title (Extending the DMTCP Module for Managing Sessions) >>
 endobj
 % 'Outline.24.2': class OutlineEntryObject 
-60 0 obj
+58 0 obj
 << /Dest [ 22 0 R
  /XYZ
  62.69291
  765.0236
  0 ]
- /Next 61 0 R
- /Parent 57 0 R
- /Prev 59 0 R
+ /Next 59 0 R
+ /Parent 55 0 R
+ /Prev 57 0 R
  /Title (Save-Restore for IPython Sessions) >>
 endobj
 % 'Outline.24.3': class OutlineEntryObject 
-61 0 obj
+59 0 obj
 << /Dest [ 22 0 R
  /XYZ
  62.69291
  545.4236
  0 ]
- /Parent 57 0 R
- /Prev 60 0 R
+ /Parent 55 0 R
+ /Prev 58 0 R
  /Title (Save-Restore for Parallel IPython Sessions) >>
 endobj
 % 'Outline.2': class OutlineEntryObject 
-62 0 obj
+60 0 obj
 << /Dest [ 22 0 R
  /XYZ
  62.69291
  391.8236
  0 ]
- /Next 63 0 R
- /Parent 55 0 R
- /Prev 57 0 R
+ /Next 61 0 R
+ /Parent 53 0 R
+ /Prev 55 0 R
  /Title (Checkpointing Python-Based Graphics) >>
 endobj
 % 'Outline.3': class OutlineEntryObject 
-63 0 obj
+61 0 obj
 << /Dest [ 25 0 R
  /XYZ
  62.69291
  485.8236
  0 ]
- /Next 64 0 R
- /Parent 55 0 R
- /Prev 62 0 R
+ /Next 62 0 R
+ /Parent 53 0 R
+ /Prev 60 0 R
  /Title (Checking Cython with Multiple CPython Instances) >>
 endobj
 % 'Outline.4': class OutlineEntryObject 
-64 0 obj
+62 0 obj
 << /Count 5
- /Dest [ 30 0 R
+ /Dest [ 27 0 R
  /XYZ
  62.69291
- 765.0236
+ 209.8236
  0 ]
- /First 65 0 R
- /Last 68 0 R
- /Next 70 0 R
- /Parent 55 0 R
- /Prev 63 0 R
+ /First 63 0 R
+ /Last 66 0 R
+ /Next 68 0 R
+ /Parent 53 0 R
+ /Prev 61 0 R
  /Title (Reversible Debugging with FReD) >>
 endobj
 % 'Outline.25.0': class OutlineEntryObject 
-65 0 obj
+63 0 obj
 << /Dest [ 30 0 R
  /XYZ
  62.69291
- 271.8236
+ 533.0236
  0 ]
- /Next 66 0 R
- /Parent 64 0 R
+ /Next 64 0 R
+ /Parent 62 0 R
  /Title (A Simple UNDO Command) >>
 endobj
 % 'Outline.25.1': class OutlineEntryObject 
-66 0 obj
+64 0 obj
 << /Count 1
- /Dest [ 32 0 R
+ /Dest [ 30 0 R
  /XYZ
  62.69291
- 765.0236
+ 331.4236
  0 ]
- /First 67 0 R
- /Last 67 0 R
- /Next 68 0 R
- /Parent 64 0 R
- /Prev 65 0 R
+ /First 65 0 R
+ /Last 65 0 R
+ /Next 66 0 R
+ /Parent 62 0 R
+ /Prev 63 0 R
  /Title (More complex reverse commands) >>
 endobj
 % 'Outline.26.0': class OutlineEntryObject 
+65 0 obj
+<< /Dest [ 33 0 R
+ /XYZ
+ 62.69291
+ 627.0236
+ 0 ]
+ /Parent 64 0 R
+ /Title (A typical debugging session in FReD with Python) >>
+endobj
+% 'Outline.25.2': class OutlineEntryObject 
+66 0 obj
+<< /Count 1
+ /Dest [ 33 0 R
+ /XYZ
+ 62.69291
+ 431.8236
+ 0 ]
+ /First 67 0 R
+ /Last 67 0 R
+ /Parent 62 0 R
+ /Prev 64 0 R
+ /Title (Reverse Expression Watchpoints) >>
+endobj
+% 'Outline.27.0': class OutlineEntryObject 
 67 0 obj
 << /Dest [ 34 0 R
  /XYZ
  62.69291
- 765.0236
- 0 ]
- /Parent 66 0 R
- /Title (A typical debugging session in FReD with Python) >>
-endobj
-% 'Outline.25.2': class OutlineEntryObject 
-68 0 obj
-<< /Count 1
- /Dest [ 34 0 R
- /XYZ
- 62.69291
- 569.8236
- 0 ]
- /First 69 0 R
- /Last 69 0 R
- /Parent 64 0 R
- /Prev 66 0 R
- /Title (Reverse Expression Watchpoints) >>
-endobj
-% 'Outline.27.0': class OutlineEntryObject 
-69 0 obj
-<< /Dest [ 35 0 R
- /XYZ
- 62.69291
  531.0236
  0 ]
- /Parent 68 0 R
+ /Parent 66 0 R
  /Title (A typical use of reverse-expression-watchpoint) >>
 endobj
 % 'Outline.5': class OutlineEntryObject 
-70 0 obj
-<< /Dest [ 35 0 R
+68 0 obj
+<< /Dest [ 34 0 R
  /XYZ
  62.69291
  227.8236
  0 ]
- /Next 71 0 R
- /Parent 55 0 R
- /Prev 64 0 R
+ /Next 69 0 R
+ /Parent 53 0 R
+ /Prev 62 0 R
  /Title (Conclusion) >>
 endobj
 % 'Outline.6': class OutlineEntryObject 
-71 0 obj
-<< /Dest [ 38 0 R
+69 0 obj
+<< /Dest [ 37 0 R
  /XYZ
  62.69291
  765.0236
  0 ]
- /Next 72 0 R
- /Parent 55 0 R
- /Prev 70 0 R
+ /Next 70 0 R
+ /Parent 53 0 R
+ /Prev 68 0 R
  /Title (Acknowledgment) >>
 endobj
 % 'Outline.7': class OutlineEntryObject 
-72 0 obj
-<< /Dest [ 38 0 R
+70 0 obj
+<< /Dest [ 37 0 R
  /XYZ
  62.69291
  697.8236
  0 ]
- /Next 73 0 R
- /Parent 55 0 R
- /Prev 71 0 R
+ /Next 71 0 R
+ /Parent 53 0 R
+ /Prev 69 0 R
  /Title (References) >>
 endobj
 % 'Outline.8': class OutlineEntryObject 
-73 0 obj
+71 0 obj
 << /Count 5
- /Dest [ 38 0 R
+ /Dest [ 37 0 R
  /XYZ
  62.69291
  660.6236
  0 ]
- /First 74 0 R
- /Last 78 0 R
- /Parent 55 0 R
- /Prev 72 0 R
+ /First 72 0 R
+ /Last 76 0 R
+ /Parent 53 0 R
+ /Prev 70 0 R
  /Title (Appendix: Background of DMTCP) >>
 endobj
 % 'Outline.28.0': class OutlineEntryObject 
+72 0 obj
+<< /Dest [ 37 0 R
+ /XYZ
+ 62.69291
+ 260.2236
+ 0 ]
+ /Next 73 0 R
+ /Parent 71 0 R
+ /Title (DMTCP Plugins) >>
+endobj
+% 'Outline.28.1': class OutlineEntryObject 
+73 0 obj
+<< /Dest [ 38 0 R
+ /XYZ
+ 62.69291
+ 639.0236
+ 0 ]
+ /Next 74 0 R
+ /Parent 71 0 R
+ /Prev 72 0 R
+ /Title (DMTCP Coordinator) >>
+endobj
+% 'Outline.28.2': class OutlineEntryObject 
 74 0 obj
 << /Dest [ 38 0 R
  /XYZ
  62.69291
- 120.2236
+ 527.4236
  0 ]
  /Next 75 0 R
- /Parent 73 0 R
- /Title (DMTCP Plugins) >>
-endobj
-% 'Outline.28.1': class OutlineEntryObject 
-75 0 obj
-<< /Dest [ 39 0 R
- /XYZ
- 62.69291
- 369.0236
- 0 ]
- /Next 76 0 R
- /Parent 73 0 R
- /Prev 74 0 R
- /Title (DMTCP Coordinator) >>
-endobj
-% 'Outline.28.2': class OutlineEntryObject 
-76 0 obj
-<< /Dest [ 39 0 R
- /XYZ
- 62.69291
- 257.4236
- 0 ]
- /Next 77 0 R
- /Parent 73 0 R
- /Prev 75 0 R
+ /Parent 71 0 R
+ /Prev 73 0 R
  /Title (Checkpoint Thread) >>
 endobj
 % 'Outline.28.3': class OutlineEntryObject 
-77 0 obj
+75 0 obj
+<< /Dest [ 38 0 R
+ /XYZ
+ 62.69291
+ 403.8236
+ 0 ]
+ /Next 76 0 R
+ /Parent 71 0 R
+ /Prev 74 0 R
+ /Title (Checkpoint) >>
+endobj
+% 'Outline.28.4': class OutlineEntryObject 
+76 0 obj
 << /Dest [ 50 0 R
  /XYZ
  62.69291
  765.0236
  0 ]
- /Next 78 0 R
- /Parent 73 0 R
- /Prev 76 0 R
- /Title (Checkpoint) >>
-endobj
-% 'Outline.28.4': class OutlineEntryObject 
-78 0 obj
-<< /Dest [ 50 0 R
- /XYZ
- 62.69291
- 461.4236
- 0 ]
- /Parent 73 0 R
- /Prev 77 0 R
+ /Parent 71 0 R
+ /Prev 75 0 R
  /Title (Restart) >>
 endobj
-% 'R79': class PDFPages 
-79 0 obj
+% 'R77': class PDFPages 
+77 0 obj
 % page tree
-<< /Count 14
+<< /Count 12
  /Kids [ 9 0 R
  20 0 R
  21 0 R
@@ -1212,17 +1172,15 @@ endobj
  25 0 R
  27 0 R
  30 0 R
- 32 0 R
+ 33 0 R
  34 0 R
- 35 0 R
+ 37 0 R
  38 0 R
- 39 0 R
- 50 0 R
- 52 0 R ]
+ 50 0 R ]
  /Type /Pages >>
 endobj
-% 'R80': class PDFStream 
-80 0 obj
+% 'R78': class PDFStream 
+78 0 obj
 % page stream
 << /Length 6857 >>
 stream
@@ -1466,8 +1424,8 @@ Q
  
 endstream
 endobj
-% 'R81': class PDFStream 
-81 0 obj
+% 'R79': class PDFStream 
+79 0 obj
 % page stream
 << /Length 6581 >>
 stream
@@ -1647,8 +1605,8 @@ Q
  
 endstream
 endobj
-% 'R82': class PDFStream 
-82 0 obj
+% 'R80': class PDFStream 
+80 0 obj
 % page stream
 << /Length 9615 >>
 stream
@@ -1904,8 +1862,8 @@ Q
  
 endstream
 endobj
-% 'R83': class PDFStream 
-83 0 obj
+% 'R81': class PDFStream 
+81 0 obj
 % page stream
 << /Length 5827 >>
 stream
@@ -2023,8 +1981,8 @@ Q
  
 endstream
 endobj
-% 'R84': class PDFStream 
-84 0 obj
+% 'R82': class PDFStream 
+82 0 obj
 % page stream
 << /Length 5908 >>
 stream
@@ -2126,20 +2084,20 @@ Q
  
 endstream
 endobj
-% 'R85': class PDFStream 
-85 0 obj
+% 'R83': class PDFStream 
+83 0 obj
 % page stream
-<< /Length 7848 >>
+<< /Length 9244 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 501.0236 cm
+1 0 0 1 62.69291 641.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 114.9449 21 cm
+1 0 0 1 184.9449 21 cm
 q
-240 0 0 240 0 0 cm
+100 0 0 100 0 0 cm
 /FormXob.84ae3b102a6d04326f4119b078982837 Do
 Q
 Q
@@ -2154,17 +2112,17 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 501.0236 cm
+1 0 0 1 62.69291 641.0236 cm
 Q
 q
-1 0 0 1 62.69291 387.0236 cm
+1 0 0 1 62.69291 527.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 96 Tm /F1 12 Tf 12 TL 2.47986 Tw (Note that in order to compare the results at the end of a computation interval, it is) Tj T* 0 Tw .330784 Tw (important that the interpreted version on the checker node stop exactly at the end of the) Tj T* 0 Tw .39636 Tw (interval, in order to compare with the results from the checkpoint at the end of the same) Tj T* 0 Tw .293986 Tw (interval. The simplest way to do this is to add a counter to a frequently called function of) Tj T* 0 Tw 1.205982 Tw (the end-user code. The counter is incremented each time the function is called. When) Tj T* 0 Tw .92148 Tw (the counter reaches a pre-arranged multiple \(for example, after every million calls\), the) Tj T* 0 Tw 1.358126 Tw (compiled version can generate a checkpoint and write to a file the values of variables) Tj T* 0 Tw .21384 Tw (indicating the state of the computation. The interpreted version writes to a file the values) Tj T* 0 Tw (of variables indicating its own state of the computation.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 149.8236 cm
+1 0 0 1 62.69291 289.8236 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -2300,29 +2258,20 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 81.82362 cm
+1 0 0 1 62.69291 221.8236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 48 Tm /F1 12 Tf 12 TL 5.770176 Tw (The above code block illustrates the principles. One compares cython.log and) Tj T* 0 Tw .690905 Tw (purePython.log to determine if the compiled code was faithful to the interpreted code. If) Tj T* 0 Tw 3.502697 Tw (the Cython code consists of direct C calls between functions, then it will also be) Tj T* 0 Tw .821184 Tw (necessary to modify the functions of the C code generated by Cython, to force them to) Tj T* 0 Tw (call the pure Python functions on restart after a checkpoint.) Tj T* ET
 Q
 Q
- 
-endstream
-endobj
-% 'R86': class PDFStream 
-86 0 obj
-% page stream
-<< /Length 4697 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 739.8236 cm
+1 0 0 1 62.69291 184.6236 cm
 q
 BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf 0 0 0 rg (Reversible Debugging with FReD) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 673.8236 cm
+1 0 0 1 62.69291 118.6236 cm
 q
 .960784 .960784 .862745 rg
 n 80.54256 22.5 36.83952 12 re f*
@@ -2334,28 +2283,43 @@ BT 1 0 0 1 0 48 Tm 1.924136 Tw 12 TL /F1 12 Tf 0 0 0 rg (While debugging a progr
 Q
 Q
 q
-1 0 0 1 62.69291 607.8236 cm
+1 0 0 1 62.69291 88.62362 cm
 q
 .960784 .960784 .862745 rg
-n 384.7535 34.5 21.6 12 re f*
+n 384.7535 -1.5 21.6 12 re f*
+BT 1 0 0 1 0 12 Tm .346597 Tw 12 TL /F3 12 Tf 0 0 0 rg (Reversible debugging ) Tj /F1 12 Tf (is the capability to run an application "backwards" in time inside a ) Tj T* 0 Tw 2.416136 Tw (debugger. If the programmer detects that the problem is in function ) Tj /F4 12 Tf (f\(\)) Tj /F1 12 Tf (, instead of) Tj T* 0 Tw ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R84': class PDFStream 
+84 0 obj
+% page stream
+<< /Length 5030 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 729.0236 cm
+q
 .960784 .960784 .862745 rg
 n 322.462 22.5 94.74778 12 re f*
 .960784 .960784 .862745 rg
 n 340.2584 10.5 36.53046 12 re f*
-BT 1 0 0 1 0 48 Tm .346597 Tw 12 TL /F3 12 Tf 0 0 0 rg (Reversible debugging ) Tj /F1 12 Tf (is the capability to run an application "backwards" in time inside a) Tj T* 0 Tw 2.416136 Tw (debugger. If the programmer detects that the problem is in function ) Tj /F4 12 Tf (f\(\)) Tj /F1 12 Tf (, instead of) Tj T* 0 Tw 1.147776 Tw (restarting from the beginning, the programmer can issue a ) Tj /F4 12 Tf (reverse-next ) Tj /F1 12 Tf (command) Tj T* 0 Tw .530457 Tw (which takes it to the previous step. He or she can then issue a ) Tj /F4 12 Tf (step ) Tj /F1 12 Tf (command to step) Tj T* 0 Tw (into the function in order to find the problem.) Tj T* ET
+BT 1 0 0 1 0 24 Tm 1.147776 Tw 12 TL /F1 12 Tf 0 0 0 rg (restarting from the beginning, the programmer can issue a ) Tj /F4 12 Tf (reverse-next ) Tj /F1 12 Tf (command) Tj T* 0 Tw .530457 Tw (which takes it to the previous step. He or she can then issue a ) Tj /F4 12 Tf (step ) Tj /F1 12 Tf (command to step) Tj T* 0 Tw (into the function in order to find the problem.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 601.8236 cm
+1 0 0 1 62.69291 723.0236 cm
 Q
 q
-1 0 0 1 62.69291 337.8236 cm
+1 0 0 1 62.69291 599.0236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 114.9449 21 cm
+1 0 0 1 184.9449 21 cm
 q
-240 0 0 240 0 0 cm
+100 0 0 100 0 0 cm
 /FormXob.84ae3b102a6d04326f4119b078982837 Do
 Q
 Q
@@ -2370,22 +2334,22 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 337.8236 cm
+1 0 0 1 62.69291 599.0236 cm
 Q
 q
-1 0 0 1 62.69291 283.8236 cm
+1 0 0 1 62.69291 545.0236 cm
 q
 BT 1 0 0 1 0 36 Tm 2.308706 Tw 12 TL /F1 12 Tf 0 0 0 rg (FReD \(Fast Reversible Debugger\) ) Tj /F1 10 Tf 0 0 .501961 rg 6 Ts (Arya12) Tj /F1 12 Tf 0 0 0 rg 0 Ts (, ) Tj /F1 10 Tf 0 0 .501961 rg 6 Ts (FReD13 ) Tj /F1 12 Tf 0 0 0 rg 0 Ts (is a reversible debugger based on) Tj T* 0 Tw .286597 Tw (checkpoint-restart. FReD is implemented as a set of Python scripts and uses DMTCP to) Tj T* 0 Tw 4.395797 Tw (create checkpoints during the debugging session. FReD also keeps track of the) Tj T* 0 Tw (debugging history. Figure 2 shows the architecture of FReD.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 250.2236 cm
+1 0 0 1 62.69291 511.4236 cm
 q
 BT 1 0 0 1 0 3.6 Tm 21.6 TL /F2 18 Tf 0 0 0 rg (A Simple UNDO Command) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 208.2236 cm
+1 0 0 1 62.69291 469.4236 cm
 q
 .960784 .960784 .862745 rg
 n 0 10.5 28.8 12 re f*
@@ -2397,52 +2361,43 @@ BT 1 0 0 1 0 24 Tm 2.14248 Tw 12 TL /F1 12 Tf 0 0 0 rg (The ) Tj /F3 12 Tf (UNDO
 Q
 Q
 q
-1 0 0 1 62.69291 166.2236 cm
+1 0 0 1 62.69291 427.4236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 24 Tm /F1 12 Tf 12 TL .883069 Tw (The functionality of the UNDO command for debugging Python is trivially implemented.) Tj T* 0 Tw 3.398784 Tw (A checkpoint is taken at the beginning of the debugging session and a list of all) Tj T* 0 Tw (debugging commands issued since the checkpoint are recorded.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 112.2236 cm
+1 0 0 1 62.69291 373.4236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 36 Tm /F1 12 Tf 12 TL 5.367797 Tw (To execute the UNDO command, the debugging session is restarted from the) Tj T* 0 Tw .034176 Tw (checkpoint image, and the debugging commands are automatically re-executed from the) Tj T* 0 Tw 1.769982 Tw (list excluding the last command. This takes the process back to before the debugger) Tj T* 0 Tw (command was issued.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 82.22362 cm
+1 0 0 1 62.69291 343.4236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL .69248 Tw (In longer debugging sessions, checkpoints are taken at frequent intervals to reduce the) Tj T* 0 Tw (time spent in replaying the debugging history.) Tj T* ET
 Q
 Q
- 
-endstream
-endobj
-% 'R87': class PDFStream 
-87 0 obj
-% page stream
-<< /Length 3491 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 743.4236 cm
+1 0 0 1 62.69291 309.8236 cm
 q
 BT 1 0 0 1 0 3.6 Tm 21.6 TL /F2 18 Tf 0 0 0 rg (More complex reverse commands) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 731.4236 cm
+1 0 0 1 62.69291 297.8236 cm
 Q
 q
-1 0 0 1 62.69291 467.4236 cm
+1 0 0 1 62.69291 173.8236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 114.9449 21 cm
+1 0 0 1 184.9449 21 cm
 q
-240 0 0 240 0 0 cm
+100 0 0 100 0 0 cm
 /FormXob.84ae3b102a6d04326f4119b078982837 Do
 Q
 Q
@@ -2457,33 +2412,48 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 467.4236 cm
+1 0 0 1 62.69291 173.8236 cm
 Q
 q
-1 0 0 1 62.69291 437.4236 cm
+1 0 0 1 62.69291 143.8236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL .028136 Tw (Figure 3 shows some typical debugging commands being executed in forward as well as) Tj T* 0 Tw (backward direction in time.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 359.4236 cm
+1 0 0 1 62.69291 89.82362 cm
 q
 .960784 .960784 .862745 rg
-n 258.2884 58.5 86.89548 12 re f*
+n 258.2884 34.5 86.89548 12 re f*
 .960784 .960784 .862745 rg
-n 0 46.5 38.72452 12 re f*
+n 0 22.5 38.72452 12 re f*
 .960784 .960784 .862745 rg
-n 448.8178 46.5 21.6 12 re f*
+n 448.8178 22.5 21.6 12 re f*
 .960784 .960784 .862745 rg
-n 177.2111 22.5 94.54978 12 re f*
+n 177.2111 -1.5 94.54978 12 re f*
+BT 1 0 0 1 0 36 Tm .49548 Tw 12 TL /F1 12 Tf 0 0 0 rg (Suppose that the debugging history appears as ) Tj /F4 12 Tf ([next,next] ) Tj /F1 12 Tf (i.e. the user issued two ) Tj T* 0 Tw 2.724524 Tw /F4 12 Tf (next ) Tj /F1 12 Tf (commands. Further, the second next command stepped over a function ) Tj /F4 12 Tf (f\(\)) Tj /F1 12 Tf (. ) Tj T* 0 Tw 1.19448 Tw (Suppose further that FReD takes checkpoints before each of these commands. In this ) Tj T* 0 Tw .949776 Tw (situation, the implementation for ) Tj /F4 12 Tf (reverse-next ) Tj /F1 12 Tf (command is trivial: one restarts from) Tj T* 0 Tw ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R85': class PDFStream 
+85 0 obj
+% page stream
+<< /Length 12319 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
 .960784 .960784 .862745 rg
 n 380.1538 10.5 86.4 12 re f*
-BT 1 0 0 1 0 60 Tm .49548 Tw 12 TL /F1 12 Tf 0 0 0 rg (Suppose that the debugging history appears as ) Tj /F4 12 Tf ([next,next] ) Tj /F1 12 Tf (i.e. the user issued two) Tj T* 0 Tw 2.724524 Tw /F4 12 Tf (next ) Tj /F1 12 Tf (commands. Further, the second next command stepped over a function ) Tj /F4 12 Tf (f\(\)) Tj /F1 12 Tf (.) Tj T* 0 Tw 1.19448 Tw (Suppose further that FReD takes checkpoints before each of these commands. In this) Tj T* 0 Tw .949776 Tw (situation, the implementation for ) Tj /F4 12 Tf (reverse-next ) Tj /F1 12 Tf (command is trivial: one restarts from) Tj T* 0 Tw 3.134976 Tw (the last checkpoint image. However, if the command issued were ) Tj /F4 12 Tf (reverse-step) Tj /F1 12 Tf (,) Tj T* 0 Tw (simply restarting from the previous checkpoint would not suffice.) Tj T* ET
+BT 1 0 0 1 0 12 Tm 3.134976 Tw 12 TL /F1 12 Tf 0 0 0 rg (the last checkpoint image. However, if the command issued were ) Tj /F4 12 Tf (reverse-step) Tj /F1 12 Tf (,) Tj T* 0 Tw (simply restarting from the previous checkpoint would not suffice.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 257.4236 cm
+1 0 0 1 62.69291 639.0236 cm
 q
 .960784 .960784 .862745 rg
 n 47.5547 70.5 21.6 12 re f*
@@ -2502,23 +2472,14 @@ n 420.5201 10.5 40.70561 12 re f*
 BT 1 0 0 1 0 84 Tm .095633 Tw 12 TL /F1 12 Tf 0 0 0 rg (In this last case, the desired behavior is to take the debugger to the last statement of the) Tj T* 0 Tw 2.194697 Tw (function ) Tj /F4 12 Tf (f\(\)) Tj /F1 12 Tf (. In such a situation one needs to decompose the last command into a) Tj T* 0 Tw .023584 Tw (series of commands. At the end of this decomposition, the last command in the history is) Tj T* 0 Tw 23.73797 Tw (a ) Tj /F4 12 Tf (step) Tj /F1 12 Tf (. At this point, the history may appear as:) Tj T* 0 Tw 1.695307 Tw /F4 12 Tf ([next,step,next,) Tj ( ) Tj (...,next,step]) Tj /F1 12 Tf (. The process is then restarted from the last) Tj T* 0 Tw 1.425251 Tw (checkpoint and the debugging history is executed excluding the last ) Tj /F4 12 Tf (step ) Tj /F1 12 Tf (command.) Tj T* 0 Tw 4.705615 Tw (Decomposing a command into a series of commands terminating with ) Tj /F4 12 Tf (step ) Tj /F1 12 Tf (is) Tj T* 0 Tw (non-trivial, and an algorithm for that decomposition is presented in ) Tj /F1 10 Tf 0 0 .501961 rg 6 Ts (Visan11 ) Tj /F1 12 Tf 0 0 0 rg 0 Ts (.) Tj T* ET
 Q
 Q
- 
-endstream
-endobj
-% 'R88': class PDFStream 
-88 0 obj
-% page stream
-<< /Length 10417 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 747.0236 cm
+1 0 0 1 62.69291 609.0236 cm
 q
 BT 1 0 0 1 0 3 Tm 18 TL /F7 15 Tf 0 0 0 rg (A typical debugging session in FReD with Python) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 581.8236 cm
+1 0 0 1 62.69291 443.8236 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -2726,28 +2687,28 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 548.2236 cm
+1 0 0 1 62.69291 410.2236 cm
 q
 BT 1 0 0 1 0 3.6 Tm 21.6 TL /F2 18 Tf 0 0 0 rg (Reverse Expression Watchpoints) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 494.2236 cm
+1 0 0 1 62.69291 356.2236 cm
 q
 BT 1 0 0 1 0 36 Tm 2.52948 Tw 12 TL /F1 12 Tf 0 0 0 rg (The ) Tj /F3 12 Tf (reverse expression watchpoint ) Tj /F1 12 Tf (automatically finds the location of the fault for a) Tj T* 0 Tw .778784 Tw (given expression in the history of the program execution. It brings the user directly to a) Tj T* 0 Tw 3.54984 Tw (statement \(one that is not a function call\) at which the expression is correct, but) Tj T* 0 Tw (executing the statement will cause the expression to become incorrect.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 488.2236 cm
+1 0 0 1 62.69291 350.2236 cm
 Q
 q
-1 0 0 1 62.69291 224.2236 cm
+1 0 0 1 62.69291 226.2236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 114.9449 21 cm
+1 0 0 1 184.9449 21 cm
 q
-240 0 0 240 0 0 cm
+100 0 0 100 0 0 cm
 /FormXob.84ae3b102a6d04326f4119b078982837 Do
 Q
 Q
@@ -2762,10 +2723,10 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 224.2236 cm
+1 0 0 1 62.69291 226.2236 cm
 Q
 q
-1 0 0 1 62.69291 122.2236 cm
+1 0 0 1 62.69291 124.2236 cm
 q
 .960784 .960784 .862745 rg
 n 0 58.5 122.4 12 re f*
@@ -2787,7 +2748,7 @@ BT 1 0 0 1 0 84 Tm 1.217555 Tw 12 TL /F1 12 Tf 0 0 0 rg (Figure 4 provides a sim
 Q
 Q
 q
-1 0 0 1 62.69291 80.22362 cm
+1 0 0 1 62.69291 82.22362 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 24 Tm /F1 12 Tf 12 TL 2.983654 Tw (If the length of the linked list is less than or equal to one million, we will call the) Tj T* 0 Tw .86511 Tw (expression "good". If the length of the linked list is greater than one million, we will call) Tj T* 0 Tw .372384 Tw (the expression "bad". A "bug" is defined as a transition from "good" to "bad". There may) Tj T* 0 Tw ET
@@ -2796,8 +2757,8 @@ Q
  
 endstream
 endobj
-% 'R89': class PDFStream 
-89 0 obj
+% 'R86': class PDFStream 
+86 0 obj
 % page stream
 << /Length 14826 >>
 stream
@@ -3173,10 +3134,10 @@ Q
  
 endstream
 endobj
-% 'R90': class PDFStream 
-90 0 obj
+% 'R87': class PDFStream 
+87 0 obj
 % page stream
-<< /Length 3068 >>
+<< /Length 3419 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -3208,13 +3169,13 @@ q
 1 0 0 1 62.69291 623.4236 cm
 Q
 q
-1 0 0 1 62.69291 359.4236 cm
+1 0 0 1 62.69291 499.4236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 114.9449 21 cm
+1 0 0 1 184.9449 21 cm
 q
-240 0 0 240 0 0 cm
+100 0 0 100 0 0 cm
 /FormXob.84ae3b102a6d04326f4119b078982837 Do
 Q
 Q
@@ -3229,23 +3190,23 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 359.4236 cm
+1 0 0 1 62.69291 499.4236 cm
 Q
 q
-1 0 0 1 62.69291 305.4236 cm
+1 0 0 1 62.69291 445.4236 cm
 q
 BT 1 0 0 1 0 36 Tm 2.135979 Tw 12 TL /F1 12 Tf 0 0 0 rg (DMTCP ) Tj /F1 10 Tf 0 0 .501961 rg 6 Ts (Ansel09 ) Tj /F1 12 Tf 0 0 0 rg 0 Ts (is a transparent checkpoint-restart package with its roots going back) Tj T* 0 Tw 3.721213 Tw (eight years ) Tj /F1 10 Tf 0 0 .501961 rg 6 Ts (Rieker06) Tj /F1 12 Tf 0 0 0 rg 0 Ts (. It works completely in user space and does not require any) Tj T* 0 Tw .74352 Tw (changes to the application or the operating system. DMTCP can be used to checkpoint) Tj T* 0 Tw (a variety of user applications including Python.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 275.4236 cm
+1 0 0 1 62.69291 415.4236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 12 Tm /F1 12 Tf 12 TL 2.92148 Tw (Using DMTCP to checkpoint an application is as simple as executing the following) Tj T* 0 Tw (commands:) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 218.2236 cm
+1 0 0 1 62.69291 358.2236 cm
 q
 q
 1 0 0 1 0 0 cm
@@ -3266,45 +3227,36 @@ Q
 Q
 Q
 q
-1 0 0 1 62.69291 198.2236 cm
+1 0 0 1 62.69291 338.2236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 0 Tm /F1 12 Tf 12 TL (DMTCP automatically tracks all local and remote child processes and their relationships.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 132.2236 cm
+1 0 0 1 62.69291 272.2236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 48 Tm /F1 12 Tf 12 TL 2.285059 Tw (As seen in Figure 6, a computation running under DMTCP consists of a centralized) Tj T* 0 Tw 1.47648 Tw (coordinator process and several user processes. The user processes may be local or) Tj T* 0 Tw 6.637974 Tw (distributed. User processes may communicate with each other using sockets,) Tj T* 0 Tw 2.339307 Tw (shared-memory, pseudo-terminals, etc. Further, each user process has a checkpoint) Tj T* 0 Tw (thread which communicates with the coordinator.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 98.62362 cm
+1 0 0 1 62.69291 238.6236 cm
 q
 BT 1 0 0 1 0 3.6 Tm 21.6 TL /F2 18 Tf 0 0 0 rg (DMTCP Plugins) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 86.62362 cm
+1 0 0 1 62.69291 226.6236 cm
 Q
- 
-endstream
-endobj
-% 'R91': class PDFStream 
-91 0 obj
-% page stream
-<< /Length 3131 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 501.0236 cm
+1 0 0 1 62.69291 102.6236 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 114.9449 21 cm
+1 0 0 1 184.9449 21 cm
 q
-240 0 0 240 0 0 cm
+100 0 0 100 0 0 cm
 /FormXob.84ae3b102a6d04326f4119b078982837 Do
 Q
 Q
@@ -3319,104 +3271,113 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 501.0236 cm
+1 0 0 1 62.69291 102.6236 cm
 Q
+ 
+endstream
+endobj
+% 'R88': class PDFStream 
+88 0 obj
+% page stream
+<< /Length 5351 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 447.0236 cm
+1 0 0 1 62.69291 717.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 36 Tm /F1 12 Tf 12 TL .598697 Tw (DMTCP plugins are used to keep DMTCP modular. There is a separate plugin for each) Tj T* 0 Tw 1.41848 Tw (operating system resource. Examples of plugins are pid plugin, socket plugin, and file) Tj T* 0 Tw 4.516888 Tw (plugin. Plugins are responsible for checkpointing and restoring the state of their) Tj T* 0 Tw (corresponding resources.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 381.0236 cm
+1 0 0 1 62.69291 651.0236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 48 Tm /F1 12 Tf 12 TL 1.300176 Tw (The execution environment can change between checkpoint and restart. For example,) Tj T* 0 Tw 2.97348 Tw (the computation might be restarted on a different computer which has different file) Tj T* 0 Tw 2.63848 Tw (mount points, a different network address, etc. Plugins handle such changes in the) Tj T* 0 Tw 3.54816 Tw (execution environment by virtualizing these aspects. Figure 6 shows the layout of) Tj T* 0 Tw (DMTCP plugins within the application.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 347.4236 cm
+1 0 0 1 62.69291 617.4236 cm
 q
 BT 1 0 0 1 0 3.6 Tm 21.6 TL /F2 18 Tf 0 0 0 rg (DMTCP Coordinator) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 269.4236 cm
+1 0 0 1 62.69291 539.4236 cm
 q
 BT 1 0 0 1 0 60 Tm 1.440576 Tw 12 TL /F1 12 Tf 0 0 0 rg (DMTCP uses a stateless centralized process, the DMTCP coordinator, to synchronize) Tj T* 0 Tw 3.902976 Tw (checkpoint and restart between distributed processes. The user interacts with the) Tj T* 0 Tw 5.666706 Tw (coordinator through the console to initiate checkpoint, check the status of the) Tj T* 0 Tw 2.215269 Tw (computation, kill the computation, etc. It is also possible to run the coordinator as a) Tj T* 0 Tw .97548 Tw (daemon process, in which case, the user may communicate with the coordinator using) Tj T* 0 Tw (the command ) Tj /F4 12 Tf (dmtcp_command) Tj /F1 12 Tf (.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 235.8236 cm
+1 0 0 1 62.69291 505.8236 cm
 q
 BT 1 0 0 1 0 3.6 Tm 21.6 TL /F2 18 Tf 0 0 0 rg (Checkpoint Thread) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 145.8236 cm
+1 0 0 1 62.69291 415.8236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 72 Tm /F1 12 Tf 12 TL .80848 Tw (The checkpoint thread waits for a checkpoint request from the DMTCP coordinator. On) Tj T* 0 Tw 1.119797 Tw (receiving the checkpoint request, the checkpoint thread quiesces the user threads and) Tj T* 0 Tw .739269 Tw (creates the checkpoint image. To quiesce user threads, it installs a signal handler for a) Tj T* 0 Tw 1.42416 Tw (dedicated POSIX signal \(by default, SIGUSR2\). Once the checkpoint image has been) Tj T* 0 Tw 1.366342 Tw (created, the user threads are allowed to resume executing application code. Similarly,) Tj T* 0 Tw 3.19648 Tw (during restart, once the process memory has been restored, the user threads can) Tj T* 0 Tw (resume executing application code.) Tj T* ET
 Q
 Q
- 
-endstream
-endobj
-% 'R92': class PDFStream 
-92 0 obj
-% page stream
-<< /Length 6481 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 743.4236 cm
+1 0 0 1 62.69291 382.2236 cm
 q
 BT 1 0 0 1 0 3.6 Tm 21.6 TL /F2 18 Tf 0 0 0 rg (Checkpoint) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 629.4236 cm
+1 0 0 1 62.69291 268.2236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 96 Tm /F1 12 Tf 12 TL .999797 Tw (On receiving the checkpoint request from the coordinator, the checkpoint thread sends) Tj T* 0 Tw 2.405555 Tw (the checkpoint signal to all the user threads of the process. This quiesces the user) Tj T* 0 Tw 1.549269 Tw (threads by forcing them to block inside a signal handler, defined by the DMTCP. The) Tj T* 0 Tw .696443 Tw (checkpoint image is created by writing all of user-space memory to a checkpoint image) Tj T* 0 Tw 1.618597 Tw (file. Each process has its own checkpoint image. Prior to checkpoint, each plugin will) Tj T* 0 Tw 2.640524 Tw (have copied into user-space memory any kernel state associated with its concerns.) Tj T* 0 Tw .703776 Tw (Examples of such concerns include network sockets, files, and pseudo-terminals. Once) Tj T* 0 Tw 1.43616 Tw (the checkpoint image has been created, the checkpoint thread "un-quiesces" the user) Tj T* 0 Tw (threads and they resume executing application code.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 575.4236 cm
+1 0 0 1 62.69291 214.2236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 36 Tm /F1 12 Tf 12 TL .291584 Tw (At the time of checkpoint, all of user-space memory is written to a checkpoint image file.) Tj T* 0 Tw .97448 Tw (The user threads are then allowed to resume execution. Note that user-space memory) Tj T* 0 Tw 1.313555 Tw (includes all of the run-time libraries \(libc, libpthread, etc.\), which are also saved in the) Tj T* 0 Tw (checkpoint image.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 473.4236 cm
+1 0 0 1 62.69291 112.2236 cm
 q
 BT 1 0 0 1 0 84 Tm 3.257982 Tw 12 TL /F1 12 Tf 0 0 0 rg (In some cases, state outside the kernel must be saved. For example, in handling) Tj T* 0 Tw .377984 Tw (network sockets, data in flight must be saved. This is done by draining the network data) Tj T* 0 Tw 1.15236 Tw (by sending a ) Tj /F3 12 Tf (special cookie ) Tj /F1 12 Tf (through the "send" end of each socket in one phase. In a) Tj T* 0 Tw .653984 Tw (second phase, after a global barrier, data is read from the "receive" end of each socket) Tj T* 0 Tw 4.078597 Tw (until the special cookie is received. The in-flight data has now been copied into) Tj T* 0 Tw 1.82352 Tw (user-space memory, and so will be included in the checkpoint image. On restart, the) Tj T* 0 Tw .452983 Tw (network buffers are ) Tj /F3 12 Tf (refilled ) Tj /F1 12 Tf (by sending the in-flight data back to the peer process, which) Tj T* 0 Tw (then sends the data back into the network.) Tj T* ET
 Q
 Q
+ 
+endstream
+endobj
+% 'R89': class PDFStream 
+89 0 obj
+% page stream
+<< /Length 4573 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 439.8236 cm
+1 0 0 1 62.69291 743.4236 cm
 q
 BT 1 0 0 1 0 3.6 Tm 21.6 TL /F2 18 Tf 0 0 0 rg (Restart) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 385.8236 cm
+1 0 0 1 62.69291 689.4236 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 36 Tm /F1 12 Tf 12 TL .02211 Tw (As the first step of restart phase, all memory areas of the process are restored. Next, the) Tj T* 0 Tw .75048 Tw (user threads are recreated. The plugins then receive the restart notification and restore) Tj T* 0 Tw 5.44864 Tw (their underlying resources, translation tables, etc. Finally, the checkpoint thread) Tj T* 0 Tw ("un-quiesces" the user threads and the user threads resume executing application code.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 329.1307 cm
+1 0 0 1 62.69291 632.7307 cm
 Q
 q
-1 0 0 1 62.69291 300.7843 cm
+1 0 0 1 62.69291 604.3843 cm
 n 0 14.17323 m 469.8898 14.17323 l S
 Q
 q
-1 0 0 1 62.69291 252.7843 cm
+1 0 0 1 62.69291 556.3843 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -3435,7 +3396,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 216.7843 cm
+1 0 0 1 62.69291 520.3843 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -3454,7 +3415,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 192.7843 cm
+1 0 0 1 62.69291 496.3843 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -3473,7 +3434,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 168.7843 cm
+1 0 0 1 62.69291 472.3843 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -3492,7 +3453,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 132.7843 cm
+1 0 0 1 62.69291 436.3843 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -3511,7 +3472,7 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 96.78425 cm
+1 0 0 1 62.69291 400.3843 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -3529,17 +3490,8 @@ Q
 q
 Q
 Q
- 
-endstream
-endobj
-% 'R93': class PDFStream 
-93 0 obj
-% page stream
-<< /Length 707 >>
-stream
-1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 62.69291 705.0236 cm
+1 0 0 1 62.69291 340.3843 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -3560,124 +3512,108 @@ Q
  
 endstream
 endobj
-% 'R94': class PDFPageLabels 
-94 0 obj
+% 'R90': class PDFPageLabels 
+90 0 obj
 % Document Root
 << /Nums [ 0
- 95 0 R
+ 91 0 R
  1
- 96 0 R
+ 92 0 R
  2
- 97 0 R
+ 93 0 R
  3
- 98 0 R
+ 94 0 R
  4
- 99 0 R
+ 95 0 R
  5
- 100 0 R
+ 96 0 R
  6
- 101 0 R
+ 97 0 R
  7
- 102 0 R
+ 98 0 R
  8
- 103 0 R
+ 99 0 R
  9
- 104 0 R
+ 100 0 R
  10
- 105 0 R
+ 101 0 R
  11
- 106 0 R
- 12
- 107 0 R
- 13
- 108 0 R ] >>
+ 102 0 R ] >>
+endobj
+% 'R91': class PDFPageLabel 
+91 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R92': class PDFPageLabel 
+92 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+% 'R93': class PDFPageLabel 
+93 0 obj
+% None
+<< /S /D
+ /St 3 >>
+endobj
+% 'R94': class PDFPageLabel 
+94 0 obj
+% None
+<< /S /D
+ /St 4 >>
 endobj
 % 'R95': class PDFPageLabel 
 95 0 obj
 % None
 << /S /D
- /St 1 >>
+ /St 5 >>
 endobj
 % 'R96': class PDFPageLabel 
 96 0 obj
 % None
 << /S /D
- /St 2 >>
+ /St 6 >>
 endobj
 % 'R97': class PDFPageLabel 
 97 0 obj
 % None
 << /S /D
- /St 3 >>
+ /St 7 >>
 endobj
 % 'R98': class PDFPageLabel 
 98 0 obj
 % None
 << /S /D
- /St 4 >>
+ /St 8 >>
 endobj
 % 'R99': class PDFPageLabel 
 99 0 obj
 % None
 << /S /D
- /St 5 >>
+ /St 9 >>
 endobj
 % 'R100': class PDFPageLabel 
 100 0 obj
 % None
 << /S /D
- /St 6 >>
+ /St 10 >>
 endobj
 % 'R101': class PDFPageLabel 
 101 0 obj
 % None
 << /S /D
- /St 7 >>
+ /St 11 >>
 endobj
 % 'R102': class PDFPageLabel 
 102 0 obj
 % None
 << /S /D
- /St 8 >>
-endobj
-% 'R103': class PDFPageLabel 
-103 0 obj
-% None
-<< /S /D
- /St 9 >>
-endobj
-% 'R104': class PDFPageLabel 
-104 0 obj
-% None
-<< /S /D
- /St 10 >>
-endobj
-% 'R105': class PDFPageLabel 
-105 0 obj
-% None
-<< /S /D
- /St 11 >>
-endobj
-% 'R106': class PDFPageLabel 
-106 0 obj
-% None
-<< /S /D
  /St 12 >>
 endobj
-% 'R107': class PDFPageLabel 
-107 0 obj
-% None
-<< /S /D
- /St 13 >>
-endobj
-% 'R108': class PDFPageLabel 
-108 0 obj
-% None
-<< /S /D
- /St 14 >>
-endobj
 xref
-0 109
+0 103
 0000000000 65535 f
 0000000113 00000 n
 0000000284 00000 n
@@ -3710,91 +3646,85 @@ xref
 0000013275 00000 n
 0000013502 00000 n
 0000013894 00000 n
-0000014121 00000 n
-0000014490 00000 n
+0000014123 00000 n
+0000014311 00000 n
 0000014678 00000 n
-0000015025 00000 n
-0000015321 00000 n
-0000015564 00000 n
-0000015792 00000 n
-0000016169 00000 n
-0000016531 00000 n
-0000016773 00000 n
-0000017015 00000 n
-0000017265 00000 n
-0000017507 00000 n
-0000017758 00000 n
-0000018000 00000 n
-0000018253 00000 n
-0000018496 00000 n
-0000018739 00000 n
-0000018967 00000 n
-0000019365 00000 n
-0000019593 00000 n
-0000019895 00000 n
-0000020054 00000 n
-0000020372 00000 n
-0000020498 00000 n
-0000020670 00000 n
-0000020939 00000 n
-0000021135 00000 n
-0000021362 00000 n
-0000021574 00000 n
-0000021777 00000 n
-0000021988 00000 n
-0000022211 00000 n
-0000022462 00000 n
-0000022647 00000 n
-0000022897 00000 n
-0000023093 00000 n
-0000023329 00000 n
-0000023521 00000 n
-0000023707 00000 n
-0000023897 00000 n
-0000024083 00000 n
-0000024318 00000 n
-0000024495 00000 n
-0000024691 00000 n
-0000024887 00000 n
-0000025076 00000 n
-0000025228 00000 n
-0000025453 00000 n
-0000032409 00000 n
-0000039089 00000 n
-0000048803 00000 n
-0000054729 00000 n
-0000060736 00000 n
-0000068683 00000 n
-0000073479 00000 n
-0000077069 00000 n
-0000087586 00000 n
-0000102512 00000 n
-0000105679 00000 n
-0000108909 00000 n
-0000115489 00000 n
-0000116298 00000 n
-0000116573 00000 n
-0000116650 00000 n
-0000116727 00000 n
-0000116804 00000 n
-0000116881 00000 n
-0000116959 00000 n
-0000117038 00000 n
-0000117117 00000 n
-0000117196 00000 n
-0000117275 00000 n
-0000117355 00000 n
-0000117435 00000 n
-0000117515 00000 n
-0000117595 00000 n
+0000014974 00000 n
+0000015217 00000 n
+0000015445 00000 n
+0000015822 00000 n
+0000016118 00000 n
+0000016360 00000 n
+0000016602 00000 n
+0000016852 00000 n
+0000017094 00000 n
+0000017345 00000 n
+0000017587 00000 n
+0000017840 00000 n
+0000018083 00000 n
+0000018326 00000 n
+0000018569 00000 n
+0000018797 00000 n
+0000019189 00000 n
+0000019348 00000 n
+0000019666 00000 n
+0000019792 00000 n
+0000019964 00000 n
+0000020233 00000 n
+0000020429 00000 n
+0000020656 00000 n
+0000020868 00000 n
+0000021071 00000 n
+0000021282 00000 n
+0000021505 00000 n
+0000021756 00000 n
+0000021941 00000 n
+0000022191 00000 n
+0000022387 00000 n
+0000022623 00000 n
+0000022815 00000 n
+0000023001 00000 n
+0000023191 00000 n
+0000023377 00000 n
+0000023612 00000 n
+0000023789 00000 n
+0000023985 00000 n
+0000024181 00000 n
+0000024370 00000 n
+0000024522 00000 n
+0000024729 00000 n
+0000031685 00000 n
+0000038365 00000 n
+0000048079 00000 n
+0000054005 00000 n
+0000060012 00000 n
+0000069355 00000 n
+0000074484 00000 n
+0000086903 00000 n
+0000101829 00000 n
+0000105347 00000 n
+0000110797 00000 n
+0000115473 00000 n
+0000115714 00000 n
+0000115791 00000 n
+0000115868 00000 n
+0000115945 00000 n
+0000116022 00000 n
+0000116099 00000 n
+0000116176 00000 n
+0000116253 00000 n
+0000116330 00000 n
+0000116408 00000 n
+0000116488 00000 n
+0000116568 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\012\206^\214\224\353r\336B\223!\265y&E\021) (\012\206^\214\224\353r\336B\223!\265y&E\021)] 
+ [(\267\365\315c\2010\270V\360\222\254\026^\035]\376) (\267\365\315c\2010\270V\360\222\254\026^\035]\376)] 
 
- /Info 54 0 R
- /Root 53 0 R
- /Size 109 >>
+ /Info 52 0 R
+ /Root 51 0 R
+ /Size 103 >>
 startxref
-117644
+116617
 %%EOF
